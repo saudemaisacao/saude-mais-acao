@@ -95,7 +95,7 @@ sections:
     view_all_url: '#'
     type: portfolio_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Últimas notícias
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
