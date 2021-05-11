@@ -16,7 +16,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-    - type: hero_item
+      - type: hero_item
         image_alt: Item 1
         actions: 
           - label: saiba mais
