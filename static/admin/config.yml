@@ -148,7 +148,7 @@ collections:
                 default: header
           - widget: object
             name: footer
-            label: Footer Configuration
+            label: Rodapé
             required: false
             fields:
               - widget: string
