@@ -18,7 +18,8 @@ export default class HeroSection extends React.Component {
                         <li data-target="#carouselIndicators" data-slide-to="2"></li>
                     </ol>
                     <div className="carousel-inner" role="listbox">
-                        <div className="carousel-item active"></div>
+                        <div className="carousel-item active">
+                        </div>
                         <div className="carousel-item"></div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
