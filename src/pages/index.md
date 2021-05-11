@@ -7,6 +7,7 @@ sections:
     title: Saúde+Ação
     hero-items: 
         - type: hero_item
+          image:
     
   - type: grid_section
     section_id: clients
