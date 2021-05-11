@@ -125,7 +125,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: seu melhor e-mail
+        name: iam-e
         label: e-mail
         default_value: seu melhor e-mail
         options: []
