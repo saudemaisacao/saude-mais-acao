@@ -16,7 +16,6 @@ export default class HeroSection extends React.Component {
                         <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
                         <li data-target="#main-carousel" data-slide-to="1"></li>
                         <li data-target="#main-carousel" data-slide-to="2"></li>
-                        <li data-target="#main-carousel" data-slide-to="3"></li>
 			        </ol>
 
                     {_.get(section, 'title', null) && (
