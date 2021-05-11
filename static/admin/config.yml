@@ -340,10 +340,6 @@ collections:
                     name: actions
                     label: Action buttons
                     required: false
-              - widget: list
-                name: actions
-                label: Action buttons
-                required: false
                 fields:
                   - widget: string
                     name: label
