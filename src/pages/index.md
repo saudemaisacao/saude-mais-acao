@@ -92,7 +92,7 @@ sections:
     subtitle: Faça o download de conteúdo rico gratuitamente
     layout_style: tiles
     projects_number: 2
-    view_all_label: View All
+    view_all_label: Ver todos
     view_all_url: portfolio
   - section_id: lorem-ipsum
     title: Últimas notícias
