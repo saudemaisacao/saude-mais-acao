@@ -6,7 +6,7 @@
     "header": {
         "type": "header",
         "title": "Agency",
-        "logo": "images/logo.svg",
+        "logo": "/images/Logo Png.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
