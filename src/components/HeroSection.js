@@ -19,16 +19,15 @@ export default class HeroSection extends React.Component {
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item">
                           <div className="container container--lg">
-                            { 
-                                _.get(item, 'title', null) && (
+                            {_.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
-                                )}
-                                {_.get(item, 'content', null) && (
+                            )}
+                            {_.get(item, 'content', null) && (
                                 <div className="hero__body text-block">
                                 {markdownify(_.get(item, 'content', null))}
                                 </div>
-                                )}
-                                {_.get(item, 'actions', null) && (
+                            )}
+                            {_.get(item, 'actions', null) && (
                                 <div className="hero__actions button-group">
                                 <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
                                 </div>)}
