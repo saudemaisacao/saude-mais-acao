@@ -109,7 +109,7 @@ sections:
       about your project by getting started below.
     actions:
       - type: action
-        label: Let's start
+        label: Começar
         url: /contact
         style: button
     image: images/cta.svg
