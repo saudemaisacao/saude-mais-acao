@@ -9,6 +9,7 @@ sections:
         - type: hero_item
           image: images/logo-1.svg
           image_alt: Item 1
+          title: Parceria com Start.se
           actions:
             - label: lorem-ipsum
                 url: '#'
