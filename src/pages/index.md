@@ -90,7 +90,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: tiles
-    projects_number: 0
+    projects_number: 5
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: portfolio_section
