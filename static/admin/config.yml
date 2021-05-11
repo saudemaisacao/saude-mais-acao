@@ -340,7 +340,7 @@ collections:
                     name: actions
                     label: Action buttons
                     required: false
-                fields:
+                    fields:
                   - widget: string
                     name: label
                     label: Label
