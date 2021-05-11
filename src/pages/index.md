@@ -7,6 +7,7 @@ sections:
     title: Saúde+Ação
     hero_items:
       - type: hero_item
+        title: Parceria Start.se
         image: 
         image_alt: Item 1
         actions: 
