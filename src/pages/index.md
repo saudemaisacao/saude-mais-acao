@@ -18,6 +18,7 @@ sections:
             no_follow: false
             type: action
       - type: hero_item
+        image: 
         image_alt: Item 1
         actions: 
           - label: saiba mais
