@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: Saúde+Ação
-    items: 
+    hero-items: 
         - content: >-
             We are a brand and design practice. We work closely with you, your team to
             deliver inspiring work, which enables your organization to grow. [Let's
