@@ -17,12 +17,6 @@ export default class HeroSection extends React.Component {
                     </ol>
                    <div className="carousel-inner" role="listbox">  
                    </div>
-                    <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
-                        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselIndicators" role="button" data-slide="next">
-                        <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                    </a>
                 </div>
             </section>
         );
