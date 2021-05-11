@@ -116,7 +116,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Receba conteúdo
     subtitle: lorem-ipsum
     content: >
       ##### Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
