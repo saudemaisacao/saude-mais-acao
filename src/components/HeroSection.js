@@ -20,7 +20,6 @@ export default class HeroSection extends React.Component {
                     </ol>
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item active" style="background-image: url('https://i.imgur.com/NnzxG4S.jpg')">
-
                         </div>
                         <div className="carousel-item " style="background-image: url('https://i.imgur.com/w439mEw.jpg')">
 
