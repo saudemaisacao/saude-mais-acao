@@ -328,7 +328,7 @@ collections:
                 fields:
                   - widget: title
                     name: title
-                    label: Títutlo
+                    label: Título
                     required: false
                     hint: O título do item
                   - widget: markdown
