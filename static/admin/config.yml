@@ -331,6 +331,7 @@ collections:
                   label: Subtítulo
                   required: false
                   hint: O subtítulo da seção
+                  -
               - widget: list
                 name: actions
                 label: Action buttons
