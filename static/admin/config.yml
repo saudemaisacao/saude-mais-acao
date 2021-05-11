@@ -339,7 +339,7 @@ collections:
                   - widget: list
                     name: actions
                     label: Ações 
-                    hint: Ações do item
+                    hint: As ações do item
                     required: false
                     fields:
                       - widget: string
