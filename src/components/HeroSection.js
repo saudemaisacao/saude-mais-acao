@@ -21,7 +21,7 @@ export default class HeroSection extends React.Component {
                             alt={_.get(item, 'image_alt', null)}
                         />
                         )}
-                        <div key={item_idx} className="container container--lg">
+                        <div className="container container--lg">
                         {_.get(item, 'title', null) && (
                         <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
                         )}
