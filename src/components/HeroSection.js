@@ -19,7 +19,7 @@ export default class HeroSection extends React.Component {
                     <div className="carousel-inner" role="listbox">
                     {
                        items.map((item) {
-                           
+                           return (
                          <div className="carousel-item">
                            <div className="container container--lg">
                              {_.get(item, 'title', null) && (
@@ -30,7 +30,7 @@ export default class HeroSection extends React.Component {
                                  <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
                              )}
                            </div>
-                         </div>
+                         </div>)
                         })
                     }   
                    </div>
