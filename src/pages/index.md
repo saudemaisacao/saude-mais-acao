@@ -8,11 +8,7 @@ sections:
     hero_items:
         - type: hero_item
           image_alt: Item 1
-          actions: content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
-    actions:
+          actions: 
       - label: lorem-ipsum
         url: '#'
         style: link
