@@ -31,7 +31,7 @@ export default class HeroSection extends React.Component {
                                     )}
                                 </div>
                             </div>
-                         );)
+                         ))
                     }   
                    </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
