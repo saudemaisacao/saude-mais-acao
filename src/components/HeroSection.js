@@ -28,7 +28,6 @@ export default class HeroSection extends React.Component {
                                         <div className="hero__actions button-group">
                                         <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
                                     )}
-                                </div>
                             </div>
                          );)
                     }   
