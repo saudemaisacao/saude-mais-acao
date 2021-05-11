@@ -325,7 +325,7 @@ collections:
                 name: hero_items
                 label: Itens do hero
                 required: true
-                
+                fields: 
               - widget: list
                 name: actions
                 label: Action buttons
