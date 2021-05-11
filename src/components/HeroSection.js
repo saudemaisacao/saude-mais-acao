@@ -7,6 +7,7 @@ import CtaButtons from './CtaButtons';
 export default class HeroSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
+        let item = _.get(section, 'item', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
                 <div id="carouselIndicators" className="carousel slide my-carousel my-carousel" data-ride="carousel">
@@ -18,8 +19,7 @@ export default class HeroSection extends React.Component {
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item">
                           <div className="container container--lg">
-                            {
-                                let item = _.get(section, 'item', null);
+                            { 
                                 _.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
                                 )}
