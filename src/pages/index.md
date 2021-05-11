@@ -78,14 +78,6 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: portfolio_section
-    section_id: latest-projects
-    title: Downloads
-    subtitle: Explore case studies
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - section_id: lorem-ipsum
     title: Nossos cursos
     subtitle: lorem-ipsum
@@ -94,6 +86,14 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: portfolio_section
+  - type: portfolio_section
+    section_id: latest-projects
+    title: Downloads
+    subtitle: Explore case studies
+    layout_style: tiles
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - section_id: lorem-ipsum
     title: Últimas notícias
     subtitle: lorem-ipsum
