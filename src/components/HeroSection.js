@@ -18,8 +18,7 @@ export default class HeroSection extends React.Component {
                     </ol>
                     <div className="carousel-inner" role="listbox">
                     {
-                       items.map((item) {
-                           return (
+                       items.map((item) => (
                             <div className="carousel-item">
                            <div className="container container--lg">
                              {_.get(item, 'title', null) && (
