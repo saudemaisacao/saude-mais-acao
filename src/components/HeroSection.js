@@ -19,7 +19,7 @@ export default class HeroSection extends React.Component {
                                 alt={_.get(item, 'image_alt', null)}
                             />
                         )}
-                         <div className="container container--lg">
+                         <div className="container container--lg"><div>
                         </div>
                      ))}
                     </div>
