@@ -338,7 +338,7 @@ collections:
                     hint: O subtítulo do item
                   - widget: list
                     name: actions
-                    label: Action buttons
+                    label: Ações do item
                     required: false
                     fields:
                       - widget: string
