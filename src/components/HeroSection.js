@@ -15,26 +15,7 @@ export default class HeroSection extends React.Component {
                         <li data-target="#carouselIndicators" data-slide-to="1"></li>
                         <li data-target="#carouselIndicators" data-slide-to="2"></li>
                     </ol>
-                    <div className="carousel-inner" role="listbox">
-                    {
-                       items.map((item) => (
-                            <div className="carousel-item">
-                                <div className="container container--lg">
-                                    {_.get(item, 'title', null) && (
-                                        <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
-                                    )}
-                                     {_.get(item, 'subtitle', null) && (
-                                        <h3 className="hero__title">{_.get(item, 'title', null)}</h3>
-                                    )}
-                                    {_.get(item, 'actions', null) && (
-                                        <div className="hero__actions button-group">
-                                            <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
-                                        </div>
-                                    )}
-                                </div>
-                            </div>
-                         ))
-                    }   
+                    <div className="carousel-inner" role="listbox">  
                    </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
                         <span className="carousel-control-prev-icon" aria-hidden="true"></span>
