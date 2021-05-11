@@ -7,7 +7,16 @@ sections:
     title: Saúde+Ação
     hero-items: 
         - type: hero_item
-          image:
+          image: images/logo-1.svg
+          image_alt: Item 1
+          actions:
+        - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
     
   - type: grid_section
     section_id: clients
