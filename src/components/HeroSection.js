@@ -30,8 +30,8 @@ export default class HeroSection extends React.Component {
                                  <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
                              )}
                            </div>
-                         </div>)
-                        })
+                         </div>
+                         )})
                     }   
                    </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
