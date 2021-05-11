@@ -24,7 +24,7 @@ export default class HeroSection extends React.Component {
                 </div>)}
               </div>
 
-                <div class="container">
+              <div class="container">
                 <div class="carousel slide" id="main-carousel" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
