@@ -9,6 +9,14 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
