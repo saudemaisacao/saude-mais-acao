@@ -32,6 +32,8 @@
   &__background {
     pointer-events: none;
     position: absolute;
+    margin: 0;
+    padding: 0;
     width: 100vw;
     height: 70vh;
     z-index: -1;
