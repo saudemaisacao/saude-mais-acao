@@ -20,6 +20,12 @@ export default class HeroSection extends React.Component {
                             />
                         )}
                          <div className="container container--lg">
+                            {_.get(section, 'title', null) && (
+                                <h2 className="section__title line-top">{_.get(section, 'title', null)}</h2>
+                            )}
+                            {_.get(section, 'subtitle', null) && (
+                                <p className="section__subtitle">{_.get(section, 'subtitle', null)}</p>
+                            )}
                          </div>
                         </div>
                      ))}
