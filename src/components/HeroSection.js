@@ -19,7 +19,7 @@ export default class HeroSection extends React.Component {
                         <div className="carousel-item">
                           <div className="container container--lg">
                             {_.get(item, 'title', null) && (
-                                <h1 className="hero__title">{_.get(section, 'title', null)}</h1>
+                                <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
                                 )}
                                 {_.get(item, 'content', null) && (
                                 <div className="hero__body text-block">
