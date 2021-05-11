@@ -81,5 +81,6 @@
             }
         ]
     },
-    "domain": "https://saudemaisacao.netlify.app"
+    "domain": "https://saudemaisacao.netlify.app",
+    "favicon": "/images/oceanic-zucchini.png"
 }
