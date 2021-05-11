@@ -86,20 +86,6 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: cta_section
-    section_id: cta
-    title: Let’s Work Together!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
-    actions:
-      - type: action
-        label: Let's start
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -115,5 +101,19 @@ sections:
     col_number: three
     actions: []
     type: posts_section
+  - type: cta_section
+    section_id: cta
+    title: Let’s Work Together!
+    content: >-
+      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+      about your project by getting started below.
+    actions:
+      - type: action
+        label: Let's start
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 template: advanced
 ---
