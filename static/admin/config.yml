@@ -321,11 +321,8 @@ collections:
                 label: Title
                 required: false
                 hint: The title of the section
-              - widget: markdown
-                name: subtitle
-                label: Subtítulo
-                required: false
-                hint: O subtítulo da seção
+              - widget: list
+                name: 
               - widget: list
                 name: actions
                 label: Action buttons
