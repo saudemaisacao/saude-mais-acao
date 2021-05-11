@@ -327,10 +327,10 @@ collections:
                 required: true
                 fields:
                  - widget: markdown
-                name: subtitle
-                label: Subtítulo
-                required: false
-                hint: O subtítulo da seção
+                  name: subtitle
+                  label: Subtítulo
+                  required: false
+                  hint: O subtítulo da seção
               - widget: list
                 name: actions
                 label: Action buttons
