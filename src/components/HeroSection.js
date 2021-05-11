@@ -26,7 +26,6 @@ export default class HeroSection extends React.Component {
                         <div className="carousel-item " style="background-image: url('https://i.imgur.com/w439mEw.jpg')">
                         </div>
                         <div className="carousel-item " style="background-image: url('https://i.imgur.com/cpIrOo1.jpg')">
-
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
