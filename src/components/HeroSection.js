@@ -22,6 +22,7 @@ export default class HeroSection extends React.Component {
                 <div className="hero__actions button-group">
                   <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                 </div>
+                
                 <div class="container">
 		<div class="carousel slide" id="main-carousel" data-ride="carousel">
 			<ol class="carousel-indicators">
