@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: Saúde+Ação
     hero-items: 
-        - content: 
+        - type: hero_item
         actions:
         - label: lorem-ipsum
             url: '#'
