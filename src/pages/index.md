@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: Saúde+Ação
-    hero-items: 
+    hero_items: 
         - type: hero_item
           image: images/logo-1.svg
           image_alt: Item 1
