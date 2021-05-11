@@ -44,7 +44,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Saúde Mais Ação. Todos os direitos r</a>",
+        "content": "&copy; Saúde Mais Ação. Todos os direitos reservados.</a>",
         "has_social": true,
         "social_links": [
             {
