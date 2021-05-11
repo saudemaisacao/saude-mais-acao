@@ -24,11 +24,10 @@ export default class HeroSection extends React.Component {
                              {_.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
                              )}
-                            {_.get(item, 'actions', null) && (
+                             {_.get(item, 'actions', null) && (
                                 <div className="hero__actions button-group">
                                  <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
-                                </div>
-                            )}
+                             )}
                             </div>
                         </div>
                          </div>
