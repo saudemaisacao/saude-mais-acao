@@ -10,7 +10,10 @@ export default class HeroSection extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
             <div>
-                {_.get(section, 'hero_items', null) && ()
+                {_.get(section, 'hero_items', null) && (
+                    <div>
+                    </div>
+                )}
             </div>
             </section>
         );
