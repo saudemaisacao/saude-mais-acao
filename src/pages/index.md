@@ -8,7 +8,7 @@ sections:
     hero_items:
       - type: hero_item
         image_alt: Item 1
-          actions: 
+        actions: 
             - label: lorem-ipsum
                 url: '#'
                 style: link
