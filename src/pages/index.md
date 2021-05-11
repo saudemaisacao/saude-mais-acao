@@ -17,14 +17,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - type: portfolio_section
-    section_id: latest-projects
-    title: Downloads
-    subtitle: Explore case studies
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Clientes
@@ -86,6 +78,14 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - type: portfolio_section
+    section_id: latest-projects
+    title: Downloads
+    subtitle: Explore case studies
+    layout_style: tiles
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
