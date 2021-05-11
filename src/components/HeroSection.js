@@ -20,7 +20,7 @@ export default class HeroSection extends React.Component {
                             />
                         )}
                          <div className="container container--lg">
-                         <div>
+                         </div>
                         </div>
                      ))}
                     </div>
