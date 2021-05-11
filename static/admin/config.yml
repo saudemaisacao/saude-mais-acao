@@ -322,8 +322,8 @@ collections:
                 required: false
                 hint: The title of the section
               - widget: markdown
-                name: content
-                label: Content
+                name: subtitle
+                label: Subtítulo
                 required: false
                 hint: The text content of the section
               - widget: list
