@@ -8,6 +8,10 @@ sections:
     hero_items:
       - type: hero_item
         title: Parceria Start.se
+        subtitle: >-
+            We are a brand and design practice. We work closely with you, your team to
+            deliver inspiring work, which enables your organization to grow. [Let's
+            talk](/contact/).
         image: 
         image_alt: Item 1
         actions: 
