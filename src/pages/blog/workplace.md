@@ -2,7 +2,7 @@
 date: '2021-02-12'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
-image: images/post-6.jpg
+image: /images/post_thumbnail-27721fd7921b22858b13d49fae0cb616.jpeg
 image_alt: White desk lamp beside green plant
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
