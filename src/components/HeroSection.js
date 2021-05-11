@@ -13,7 +13,7 @@ export default class HeroSection extends React.Component {
                 {_.get(section, 'hero_items', null) && (
                     <div>
                      {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
-                        <div key={testimonial_idx} className="cell">
+                        <div key={item_idx} className="cell">
                         {_.get(item, 'image', null) && (
                         <img 
                             src={withPrefix(_.get(item, 'image', null))} 
