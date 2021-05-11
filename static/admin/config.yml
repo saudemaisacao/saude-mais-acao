@@ -322,7 +322,10 @@ collections:
                 required: false
                 hint: The title of the section
               - widget: list
-                name: 
+                name: hero_items
+                label: Itens do hero
+                required: true
+                
               - widget: list
                 name: actions
                 label: Action buttons
