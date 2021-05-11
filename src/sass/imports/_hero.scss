@@ -39,10 +39,9 @@
     position: relative;
     margin: auto;
   }
-  &=&/* Hide the images by default */
-.carousel-item {
-  display: none;
-}
+  &__.carousel-item {
+    display: none;
+  }
 
 }
 
