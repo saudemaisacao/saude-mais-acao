@@ -72,8 +72,6 @@ export default class HeroSection extends React.Component {
                         </a>
                     </div>
                 </div>
-                )}
-              </div>
             </section>
         );
     }
