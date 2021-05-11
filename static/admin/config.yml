@@ -303,7 +303,7 @@ collections:
         name: sections
         label: Sections
         required: false
-        hint: Page sections
+        hint: Seções da página
         types:
           - name: hero_section
             widget: object
