@@ -89,7 +89,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     title: Downloads
-    subtitle: Explore case studies
+    subtitle: Faça o download de conteúdo rico gratuitamente
     layout_style: tiles
     projects_number: 4
     view_all_label: View All
