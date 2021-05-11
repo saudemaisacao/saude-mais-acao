@@ -17,6 +17,7 @@ export default class HeroSection extends React.Component {
                     </ol>
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item">
+                          <div className="container container--lg">
                             {_.get(section, 'title', null) && (
                                 <h1 className="hero__title">{_.get(section, 'title', null)}</h1>
                                 )}
@@ -30,6 +31,7 @@ export default class HeroSection extends React.Component {
                                 <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                                 </div>
                             )}
+                            </div>
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
