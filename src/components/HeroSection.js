@@ -17,6 +17,9 @@ export default class HeroSection extends React.Component {
                         <li data-target="#carouselIndicators" data-slide-to="2"></li>
                     </ol>
                     <div className="carousel-inner" role="listbox">
+                    {
+                        
+                    }
                         <div className="carousel-item">
                           <div className="container container--lg">
                             {_.get(item, 'title', null) && (
