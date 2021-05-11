@@ -9,6 +9,8 @@ export default class HeroSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
+            <div>
+            </div>
             </section>
         );
     }
