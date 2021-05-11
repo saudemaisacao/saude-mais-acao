@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 
-import CtaButtons from './CtaButtons';
 
 export default class HeroSection extends React.Component {
     render() {
