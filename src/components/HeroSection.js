@@ -19,11 +19,18 @@ export default class HeroSection extends React.Component {
                                 alt={_.get(item, 'image_alt', null)}
                             />
                         )}
-                        {_.get(item, 'title', null) && (
-                            <h2 className="section__title line-top">{_.get(item, 'title', null)}</h2>
+                        {_.get(section, 'title', null) && (
+                        <h1 className="hero__title">{_.get(section, 'title', null)}</h1>
                         )}
-                        {_.get(section, 'subtitle', null) && (
-                            <p className="section__subtitle">{_.get(item, 'subtitle', null)}</p>
+                        {_.get(section, 'content', null) && (
+                        <div className="hero__body text-block">
+                        {markdownify(_.get(section, 'content', null))}
+                        </div>
+                        )}
+                        {_.get(section, 'actions', null) && (
+                        <div className="hero__actions button-group">
+                        <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
+                        </div>
                         )}
                         </div>
                      ))}
