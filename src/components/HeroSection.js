@@ -26,7 +26,7 @@ export default class HeroSection extends React.Component {
                             )}
                             {_.get(item, 'content', null) && (
                                 <div className="hero__body text-block">
-                                 {markdownify(_.get(item, 'content', null))}
+                                 {markdownify(_.get(item, 'subtitle', null))}
                                 </div>
                             )}
                             {_.get(item, 'actions', null) && (
