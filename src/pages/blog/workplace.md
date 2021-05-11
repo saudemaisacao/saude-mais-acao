@@ -42,6 +42,13 @@ seo:
       relativeUrl: true
 template: post
 title: Entenda o que é VIX e como funciona o índice da volatilidade
+subtitle: >-
+  Mesmo os investidores menos experientes sabem que, para aplicar seus recursos
+  de modo inteligente, precisam ficar atentos a uma série de fatores e
+  conhecimentos. Entre eles, podemos dizer que saber o que é VIX é um dos mais
+  importantes. Isso ocorre porque esse indicador afeta diretamente a economia
+  americana, o que acaba por impactar os ativos brasileiros, elevando ou
+  reduzindo o seu valor de mercado.
 ---
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
