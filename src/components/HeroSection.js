@@ -16,7 +16,8 @@ export default class HeroSection extends React.Component {
                      {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
                         <div key={item_idx} className="container container--lg">
                         {_.get(item, 'image', null) && (
-                        <img 
+                        <img
+                            className='hero_background' 
                             src={withPrefix(_.get(item, 'image', null))} 
                             alt={_.get(item, 'image_alt', null)}
                         />
