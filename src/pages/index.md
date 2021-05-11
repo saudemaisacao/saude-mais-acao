@@ -10,6 +10,7 @@ sections:
           image: images/logo-1.svg
           image_alt: Item 1
           title: Parceria com Start.se
+          subtitle: A parceria que a gente esperava
           actions:
             - label: lorem-ipsum
                 url: '#'
