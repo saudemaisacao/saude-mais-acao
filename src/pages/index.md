@@ -19,6 +19,7 @@ sections:
             no_follow: false
             type: action
       - type: hero_item
+        title: Aplicativo saúde
         image: 
         image_alt: Item 1
         actions: 
