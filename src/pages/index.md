@@ -140,7 +140,7 @@ sections:
         is_required: false
         type: form_field
     hide_labels: false
-    submit_label: 'Quero receber conteúdo '
+    submit_label: Quero receber conteúdo
     type: form_section
 template: advanced
 ---
