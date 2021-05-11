@@ -9,13 +9,13 @@ sections:
         - type: hero_item
           image_alt: Item 1
           actions: 
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+        - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
   - type: grid_section
     section_id: clients
     title: Clientes
