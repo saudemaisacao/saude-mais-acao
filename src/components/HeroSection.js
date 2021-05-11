@@ -40,7 +40,6 @@ export default class HeroSection extends React.Component {
                         <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     </a>
                 </div>
-                </div>
             </section>
         );
     }
