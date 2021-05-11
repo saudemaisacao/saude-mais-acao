@@ -19,9 +19,7 @@ export default class HeroSection extends React.Component {
                     <div className="carousel-inner" role="listbox">
                     {
                         items.map((item) {
-                            
-                        })
-                        <div className="carousel-item">
+                            <div className="carousel-item">
                           <div className="container container--lg">
                             {_.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
@@ -38,6 +36,7 @@ export default class HeroSection extends React.Component {
                             )}
                             </div>
                         </div>
+                        })
                     }   
                     </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
