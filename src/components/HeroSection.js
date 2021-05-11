@@ -59,7 +59,7 @@ export default class HeroSection extends React.Component {
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci esse vitae exercitationem fugit, numquam minus!</p>
 					</div>
 				</div>
-			</div><!-- /.carousel-inner -->
+			</div>
 			
 			<a href="#main-carousel" class="carousel-control-prev" data-slide="prev">
 				<span class="carousel-control-prev-icon"></span>
@@ -69,8 +69,8 @@ export default class HeroSection extends React.Component {
 				<span class="carousel-control-next-icon"></span>
 				<span class="sr-only" aria-hidden="true">Next</span>
 			</a>
-		</div><!-- /.carousel -->
-	</div><!-- /.container -->
+		</div>
+	</div>
                 )}
               </div>
             </section>
