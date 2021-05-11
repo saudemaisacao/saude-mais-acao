@@ -330,7 +330,7 @@ collections:
                     name: title
                     label: Títutlo
                     required: false
-                    hint: O título da seção
+                    hint: O título do item
                   - widget: markdown
                     name: subtitle
                     label: Subtítulo
