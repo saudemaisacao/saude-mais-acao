@@ -30,7 +30,7 @@
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "Sobre nós",
                 "url": "/about/",
                 "style": "link"
             },
