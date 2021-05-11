@@ -25,6 +25,10 @@ sections:
       - type: hero_item
         title: Aplicativo saúde
         image: 
+        subtitle: >-
+            We are a brand and design practice. We work closely with you, your team to
+            deliver inspiring work, which enables your organization to grow. [Let's
+            talk](/contact/).
         image_alt: Item 1
         actions: 
           - label: saiba mais
