@@ -129,7 +129,7 @@ sections:
         label: e-mail
         default_value: seu melhor e-mail
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     hide_labels: false
     submit_label: Quero receber conteúdo
