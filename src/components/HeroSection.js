@@ -37,7 +37,7 @@ export default class HeroSection extends React.Component {
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Next</span>
                     </a>
-                    </div>
+                </div>
 
                     {_.get(section, 'title', null) && (
                     <h1 className="hero__title">{_.get(section, 'title', null)}</h1>
