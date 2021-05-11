@@ -35,19 +35,18 @@
     height: 70vh;
     z-index: -1;
   }
+  &__/* Slideshow container */
+.carousel_container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
 }
 
 /* Hide the images by default */
 .carousel-item {
   display: none;
-}
-
-
-/* Slideshow container */
-.carousel_container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
 }
 
 
