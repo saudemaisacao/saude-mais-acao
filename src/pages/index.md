@@ -9,7 +9,7 @@ sections:
       - type: hero_item
         image_alt: Item 1
         actions: 
-          - label: lorem-ipsum
+          - label: saiba mais
             url: '#'
             style: link
             icon: dribbble
