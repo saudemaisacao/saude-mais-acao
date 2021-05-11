@@ -103,7 +103,7 @@ sections:
     type: posts_section
   - type: cta_section
     section_id: cta
-    title: Receba conteúdo
+    title: Fale conosco
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
