@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   margin-bottom: 3.33333em;
-  margin-top: -5em;
   padding-top: 0;
   padding-bottom: 1.66667em;
 
@@ -31,6 +30,7 @@
   }
   &__background {
     position: absolute;
+    margin-top: -5em;
     width: 100vw;
     height: 70vh;
     z-index: -1;
