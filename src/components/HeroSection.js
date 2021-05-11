@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
+import {withPrefix} from '../utils';
 
 export default class HeroSection extends React.Component {
     render() {
