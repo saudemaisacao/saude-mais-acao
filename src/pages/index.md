@@ -7,6 +7,7 @@ sections:
     title: Saúde+Ação
     hero_items:
       - type: hero_item
+        image: 
         image_alt: Item 1
         actions: 
           - label: saiba mais
