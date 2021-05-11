@@ -11,7 +11,6 @@ export default class HeroSection extends React.Component {
             <section id={_.get(section, 'section_id', null)} className="hero">
               <div className="container container--lg">
 
-                
                     <div id="carouselExampleIndicators" className="carousel slide my-carousel my-carousel" data-ride="carousel">
                     <ol className="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
