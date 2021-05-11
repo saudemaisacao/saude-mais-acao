@@ -19,6 +19,32 @@ sections:
                 new_window: false
                 no_follow: false
                 type: action
+        - type: hero_item
+          image: images/logo-1.svg
+          image_alt: Item 1
+          title: Parceria com Start.se
+          subtitle: A parceria que a gente esperava
+          actions:
+            - label: lorem-ipsum
+                url: '#'
+                style: link
+                icon: dribbble
+                new_window: false
+                no_follow: false
+                type: action
+                        - type: hero_item
+          image: images/logo-1.svg
+          image_alt: Item 1
+          title: Parceria com Start.se
+          subtitle: A parceria que a gente esperava
+          actions:
+            - label: lorem-ipsum
+                url: '#'
+                style: link
+                icon: dribbble
+                new_window: false
+                no_follow: false
+                type: action
   - type: grid_section
     section_id: clients
     title: Clientes
