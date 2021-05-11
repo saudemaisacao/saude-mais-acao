@@ -19,7 +19,7 @@ export default class HeroSection extends React.Component {
                                 alt={_.get(item, 'image_alt', null)}
                             />
                         )}
-                        {_.get(section, 'title', null) && (
+                        {_.get(item, 'title', null) && (
                 <h2 className="section__title line-top">{_.get(section, 'title', null)}</h2>
                 )}
                 {_.get(section, 'subtitle', null) && (
