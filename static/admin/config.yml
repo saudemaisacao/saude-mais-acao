@@ -318,7 +318,7 @@ collections:
                   whitespace
               - widget: string
                 name: title
-                label: Title
+                label: Título
                 required: false
                 hint: The title of the section
               - widget: list
