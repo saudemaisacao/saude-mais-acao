@@ -337,6 +337,7 @@ collections:
                     required: false
                     hint: O subtítulo do item
                   - widget: list
+                    name: actions
               - widget: list
                 name: actions
                 label: Action buttons
