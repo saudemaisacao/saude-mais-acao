@@ -341,6 +341,10 @@ collections:
                     label: Imagem
                     required: true
                     hint: A imagem de fundo do item
+                  - widget: string
+                    name: image_alt
+                    label: Image Alt
+                    hint: A descrição da imagem do fundo
                   - widget: list
                     name: actions
                     label: Ações 
