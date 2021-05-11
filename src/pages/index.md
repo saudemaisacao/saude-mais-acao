@@ -5,46 +5,18 @@ sections:
   - type: hero_section
     section_id: hero
     title: Saúde+Ação
-    hero_items: 
-        - type: hero_item
-          image: images/logo-1.svg
-          image_alt: Item 1
-          title: Parceria com Start.se
-          subtitle: A parceria que a gente esperava
-          actions:
-            - label: lorem-ipsum
-                url: '#'
-                style: link
-                icon: dribbble
-                new_window: false
-                no_follow: false
-                type: action
-        - type: hero_item
-          image: images/logo-1.svg
-          image_alt: Item 1
-          title: Parceria com Start.se
-          subtitle: A parceria que a gente esperava
-          actions:
-            - label: lorem-ipsum
-                url: '#'
-                style: link
-                icon: dribbble
-                new_window: false
-                no_follow: false
-                type: action
-        - type: hero_item
-          image: images/logo-1.svg
-          image_alt: Item 1
-          title: Parceria com Start.se
-          subtitle: A parceria que a gente esperava
-          actions:
-            - label: lorem-ipsum
-                url: '#'
-                style: link
-                icon: dribbble
-                new_window: false
-                no_follow: false
-                type: action
+    content: >-
+      We are a brand and design practice. We work closely with you, your team to
+      deliver inspiring work, which enables your organization to grow. [Let's
+      talk](/contact/).
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: grid_section
     section_id: clients
     title: Clientes
@@ -106,17 +78,17 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: portfolio_section
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     title: Nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 2
     view_all_label: Ver todos
     view_all_url: '#'
+    type: portfolio_section
   - type: portfolio_section
     section_id: latest-projects
-    title: e-Books
+    title: Downloads
     subtitle: Faça o download de conteúdo rico gratuitamente
     layout_style: tiles
     projects_number: 2
@@ -152,12 +124,12 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
-      - input_type: email
-        name: e-mail
-        label: e-mail
-        default_value: seu melhor e-mail
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
         options: []
-        is_required: true
+        is_required: false
         type: form_field
     hide_labels: false
     submit_label: Quero receber conteúdo
