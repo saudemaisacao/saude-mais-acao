@@ -106,14 +106,14 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - section_id: lorem-ipsum
+  - type: portfolio_section
+    section_id: lorem-ipsum
     title: Nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 2
     view_all_label: Ver todos
     view_all_url: '#'
-    type: portfolio_section
   - type: portfolio_section
     section_id: latest-projects
     title: e-Books
