@@ -9,10 +9,6 @@ export default class HeroSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
-                <div id="carouselIndicators" className="carousel slide my-carousel my-carousel" data-ride="carousel">
-                   <div className="carousel-inner" role="listbox">  
-                   </div>
-                </div>
             </section>
         );
     }
