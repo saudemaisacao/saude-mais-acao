@@ -1,5 +1,4 @@
 ---
-title: The Elements of Great Workplace Design
 date: '2021-02-12'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
