@@ -18,7 +18,9 @@ export default class HeroSection extends React.Component {
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item">
                           <div className="container container--lg">
-                            {_.get(item, 'title', null) && (
+                            {
+                                let item = _.get(section, 'item', null);
+                                _.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
                                 )}
                                 {_.get(item, 'content', null) && (
