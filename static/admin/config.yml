@@ -27,7 +27,7 @@ collections:
             name: favicon
             label: Favicon
             required: false
-            hint: A square icon that represents your website
+            hint: O ícone que representa seu site
           - widget: select
             name: color_scheme
             label: Color scheme
