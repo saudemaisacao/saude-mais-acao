@@ -12,6 +12,13 @@ export default class HeroSection extends React.Component {
               <div className="container container--lg">
 
                 <div class="carousel slide" id="main-carousel" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#main-carousel" data-slide-to="1"></li>
+                        <li data-target="#main-carousel" data-slide-to="2"></li>
+                        <li data-target="#main-carousel" data-slide-to="3"></li>
+			        </ol>
+
                     {_.get(section, 'title', null) && (
                     <h1 className="hero__title">{_.get(section, 'title', null)}</h1>
                     )}
@@ -26,7 +33,7 @@ export default class HeroSection extends React.Component {
                     </div>
                     )}
                 </div>
-                
+
               </div>
             </section>
         );
