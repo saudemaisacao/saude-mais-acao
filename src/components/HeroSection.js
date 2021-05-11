@@ -7,7 +7,7 @@ import CtaButtons from './CtaButtons';
 export default class HeroSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
-        let items = _.get(section, 'hero-items', null);
+        let items = _.get(section, 'hero_items', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
                 <div id="carouselIndicators" className="carousel slide my-carousel my-carousel" data-ride="carousel">
