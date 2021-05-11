@@ -7,18 +7,7 @@ sections:
     title: Saúde+Ação
     items: 
         - 
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    
   - type: grid_section
     section_id: clients
     title: Clientes
