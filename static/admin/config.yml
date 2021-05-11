@@ -320,7 +320,7 @@ collections:
                 name: title
                 label: Título
                 required: false
-                hint: The title of the section
+                hint: O título da seção
               - widget: list
                 name: hero_items
                 label: Itens do hero
