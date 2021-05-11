@@ -22,7 +22,7 @@ export default class HeroSection extends React.Component {
                 <div className="hero__actions button-group">
                   <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                 </div>
-                
+
                 <div class="container">
 		<div class="carousel slide" id="main-carousel" data-ride="carousel">
 			<ol class="carousel-indicators">
@@ -30,7 +30,7 @@ export default class HeroSection extends React.Component {
 				<li data-target="#main-carousel" data-slide-to="1"></li>
 				<li data-target="#main-carousel" data-slide-to="2"></li>
 				<li data-target="#main-carousel" data-slide-to="3"></li>
-			</ol><!-- /.carousel-indicators -->
+			</ol>
 			
 			<div class="carousel-inner">
 				<div class="carousel-item active">
