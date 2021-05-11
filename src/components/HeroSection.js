@@ -20,7 +20,7 @@ export default class HeroSection extends React.Component {
                     {
                        items.map((item) {
                            return (
-                         <div className="carousel-item">
+                            <div className="carousel-item">
                            <div className="container container--lg">
                              {_.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
