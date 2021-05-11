@@ -9,12 +9,12 @@ sections:
       - type: hero_item
         title: Parceria Start.se
         subtitle: >-
-            We are a brand and design practice. We work closely with you, your team to
-            deliver inspiring work, which enables your organization to grow. [Let's
-            talk](/contact/).
+          We are a brand and design practice. We work closely with you, your
+          team to deliver inspiring work, which enables your organization to
+          grow. [Let's talk](/contact/).
         image: images/logo.svg
         image_alt: Item 1
-        actions: 
+        actions:
           - label: saiba mais
             url: '#'
             style: link
@@ -26,11 +26,11 @@ sections:
         title: Aplicativo saúde
         image: images/logo.svg
         subtitle: >-
-            We are a brand and design practice. We work closely with you, your team to
-            deliver inspiring work, which enables your organization to grow. [Let's
-            talk](/contact/).
+          We are a brand and design practice. We work closely with you, your
+          team to deliver inspiring work, which enables your organization to
+          grow. [Let's talk](/contact/).
         image_alt: Item 1
-        actions: 
+        actions:
           - label: saiba mais
             url: '#'
             style: link
@@ -109,7 +109,7 @@ sections:
     type: portfolio_section
   - type: portfolio_section
     section_id: latest-projects
-    title: Downloads
+    title: e-Books
     subtitle: Faça o download de conteúdo rico gratuitamente
     layout_style: tiles
     projects_number: 2
