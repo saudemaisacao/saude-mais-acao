@@ -24,10 +24,10 @@ export default class HeroSection extends React.Component {
                         )}
                         {_.get(item, 'subtitle', null) && (
                         <div className="hero__body text-block">
-                        {markdownify(_.get(section, 'subtitle', null))}
+                        {markdownify(_.get(item, 'subtitle', null))}
                         </div>
                         )}
-                        {_.get(section, 'actions', null) && (
+                        {_.get(item, 'actions', null) && (
                         <div className="hero__actions button-group">
                         <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                         </div>
