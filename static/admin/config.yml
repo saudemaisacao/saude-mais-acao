@@ -326,11 +326,11 @@ collections:
                 label: Itens do hero
                 required: true
                 fields:
-                 - widget: markdown
-                  name: subtitle
-                  label: Subtítulo
-                  required: false
-                  hint: O subtítulo da seção
+                  - widget: markdown
+                    name: subtitle
+                    label: Subtítulo
+                    required: false
+                    hint: O subtítulo da seção
                   -
               - widget: list
                 name: actions
