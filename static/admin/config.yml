@@ -336,6 +336,10 @@ collections:
                     label: Subtítulo
                     required: false
                     hint: O subtítulo do item
+                  - widget: string
+                    name: image
+                    label: Imagem
+                    hint: A imagem de fundo do item
                   - widget: list
                     name: actions
                     label: Ações 
