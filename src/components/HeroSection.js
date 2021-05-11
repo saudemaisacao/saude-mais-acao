@@ -18,12 +18,12 @@ export default class HeroSection extends React.Component {
                     </ol>
                     <div className="carousel-inner" role="listbox">
                     {
-                        items.map((item) {
-                            <div className="carousel-item">
-                          <div className="container container--lg">
-                            {_.get(item, 'title', null) && (
+                       items.map((item) {
+                         <div className="carousel-item">
+                           <div className="container container--lg">
+                             {_.get(item, 'title', null) && (
                                 <h1 className="hero__title">{_.get(item, 'title', null)}</h1>
-                            )}
+                             )}
                             {_.get(item, 'actions', null) && (
                                 <div className="hero__actions button-group">
                                  <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
