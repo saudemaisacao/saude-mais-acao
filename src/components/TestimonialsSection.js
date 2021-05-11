@@ -2,8 +2,6 @@ import React from 'react';
 import _ from 'lodash';
 
 import {withPrefix} from '../utils';
-import {markdownify} from '../utils';
-import CtaButtons from './CtaButtons';
 
 export default class TestimonialsSection extends React.Component {
     render() {
