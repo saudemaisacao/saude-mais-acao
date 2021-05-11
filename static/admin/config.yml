@@ -88,7 +88,7 @@ collections:
                 name: nav_links
                 label: Navigation links
                 required: false
-                hint: A list of navigation links
+                hint: Lista de links de navegação
                 fields:
                   - widget: string
                     name: label
