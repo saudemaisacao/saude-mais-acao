@@ -6,10 +6,7 @@ sections:
     section_id: hero
     title: Saúde+Ação
     hero-items: 
-        - content: >-
-            We are a brand and design practice. We work closely with you, your team to
-            deliver inspiring work, which enables your organization to grow. [Let's
-            talk](/contact/).
+        - content: 
         actions:
         - label: lorem-ipsum
             url: '#'
