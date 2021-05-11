@@ -17,7 +17,6 @@ sections:
                 new_window: false
                 no_follow: false
                 type: action
-    
   - type: grid_section
     section_id: clients
     title: Clientes
