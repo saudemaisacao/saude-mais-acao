@@ -1,6 +1,6 @@
 ---
 title: Investimentos de longo prazo
-subtitle: Brand Development
+subtitle: Guia prático para garantir um futuro mais tranquilo
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
