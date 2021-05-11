@@ -82,7 +82,7 @@ sections:
     title: Nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
-    projects_number: 3
+    projects_number: 2
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: portfolio_section
