@@ -18,8 +18,6 @@ export default class HeroSection extends React.Component {
                     </ol>
                     <div className="carousel-inner" role="listbox">
                     {
-                        
-                    }
                         <div className="carousel-item">
                           <div className="container container--lg">
                             {_.get(item, 'title', null) && (
@@ -37,6 +35,8 @@ export default class HeroSection extends React.Component {
                             )}
                             </div>
                         </div>
+                    }
+                        
                     </div>
                     <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
                         <span className="carousel-control-prev-icon" aria-hidden="true"></span>
