@@ -49,7 +49,7 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Dr. Romeu
+        title: Dr. Romeu Fadu
         subtitle: Creative Producer
         image: images/team-3.png
         content: >-
