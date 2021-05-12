@@ -1244,12 +1244,12 @@ collections:
             label: Template
             required: true
             default: blog
-  - name: downloads
-    label: Downloads
+  - name: blog
+    label: Blog
     files:
-      - name: downloads
-        label: Downloads
-        file: src/pages/downloads/index.md
+      - name: blog
+        label: Blog
+        file: src/pages/blog/index.md
         fields:
           - widget: string
             name: title
@@ -1267,14 +1267,14 @@ collections:
             required: false
             default: false
           - widget: select
-            name: layout_style
-            label: Layout style
-            required: false
-            default: mosaic
-            hint: The style of the portfolio layout
+            name: col_number
+            label: Columns
+            required: true
+            default: three
+            hint: The number of columns in the post grid
             options:
-              - mosaic
-              - tiles
+              - two
+              - three
           - widget: object
             name: seo
             label: Seo
@@ -1349,113 +1349,8 @@ collections:
             name: template
             label: Template
             required: true
-            default: downloads
-  - name: cursos
-    label: Cursos
-    files:
-      - name: cursos
-        label: Cursos
-        file: src/pages/cursos/index.md
-        fields:
-          - widget: string
-            name: title
-            label: Title
-            required: true
-            hint: O título da página
-          - widget: string
-            name: subtitle
-            label: Subtitle
-            required: false
-            hint: O texto mostrado logo abaixo do título
-          - widget: boolean
-            name: hide_title
-            label: Hide page title and subtitle
-            required: false
-            default: false
-          - widget: select
-            name: layout_style
-            label: Layout style
-            required: false
-            default: mosaic
-            hint: The style of the portfolio layout
-            options:
-              - mosaic
-              - tiles
-          - widget: object
-            name: seo
-            label: Seo
-            required: false
-            fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                default: ''
-                hint: The page title that goes into the <title> tag
-              - widget: string
-                name: description
-                label: Description
-                required: false
-                default: ''
-                hint: >-
-                  The page description that goes into the <meta
-                  name="description"> tag
-              - widget: list
-                name: robots
-                label: Robots
-                required: false
-                hint: The items that go into the <meta name="robots"> tag
-                field:
-                  label: Select
-                  name: select
-                  widget: select
-                  options:
-                    - all
-                    - index
-                    - follow
-                    - noindex
-                    - nofollow
-                    - noimageindex
-                    - notranslate
-                    - none
-              - widget: list
-                name: extra
-                label: Extra
-                required: false
-                hint: >-
-                  Additional definition for specific meta tags such as
-                  open-graph, twitter, etc.
-                fields:
-                  - widget: string
-                    name: name
-                    label: Name
-                    required: false
-                    default: ''
-                  - widget: string
-                    name: value
-                    label: Value
-                    required: false
-                    default: ''
-                  - widget: string
-                    name: keyName
-                    label: Key Name
-                    required: false
-                    default: name
-                  - widget: boolean
-                    name: relativeUrl
-                    label: Relative Url
-                    required: false
-              - widget: hidden
-                name: type
-                label: Object Type
-                required: true
-                hint: The type of the object
-                default: stackbit_page_meta
-          - widget: hidden
-            name: template
-            label: Template
-            required: true
-            default: cursos
+            default: blog 
+
 
   - name: page
     label: Páginas
