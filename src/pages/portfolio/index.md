@@ -1,6 +1,6 @@
 ---
 title: Downloads
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Faça o download de conteúdo rico e alavanque seus investimentos
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
