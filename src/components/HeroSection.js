@@ -1,6 +1,10 @@
 import React from 'react';
 import _ from 'lodash';
 
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+
+
 import {withPrefix} from '../utils';
 import {markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
