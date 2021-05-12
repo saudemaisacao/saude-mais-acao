@@ -571,7 +571,7 @@ models:
         label: All projects button URL
         default: '#'
 
-    downloads_section:
+  downloads_section:
     type: object
     label: Seção de downloads
     extends:
