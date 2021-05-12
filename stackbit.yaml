@@ -9,7 +9,8 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 logicFields:
-  - portfolio_section.projects_number
+  - portfolio_section.items_number
+  - downloads_section.items_number
   - posts_section.posts_number
   - advanced.sections.projects_number
   - advanced.sections.posts_number
