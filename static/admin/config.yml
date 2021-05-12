@@ -1176,7 +1176,7 @@ collections:
             name: subtitle
             label: Subtítulo
             required: false
-            hint: The text shown just below the page title
+            hint: O texto logo abaixo do título
           - widget: boolean
             name: hide_title
             label: Hide page title and subtitle
