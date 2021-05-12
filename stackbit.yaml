@@ -240,7 +240,7 @@ models:
   downloads:
     type: page
     urlPath: /downloads
-    label: Todos os cursos
+    label: Todos os downloads
     layout: cursos
     file: cursos/index.md
     hideContent: true
