@@ -6,7 +6,8 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
-      > Educação e Planejamento Financeiro
+      > Nossa missão é cuidar da saúde financeira daqueles que cuidam da saúde
+      das pessoas.
 
 
       Empresa criada por médicos com o objetivo de auxiliar todos os
@@ -17,12 +18,6 @@ sections:
       O objetivo maior da Saúde + Ação: Educação e Planejamento Financeiro é
       ajudar que todos os profissionais da saúde conquistem e mantenham a
       independência financeira.
-
-
-      ### Missão
-
-
-      Cuidar da saúde financeira daqueles que cuidam da saúde das pessoas.
 
 
       ### Visão
