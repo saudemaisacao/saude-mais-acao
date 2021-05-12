@@ -24,7 +24,7 @@ sections:
             type: action
       - type: hero_item
         title: Aplicativo saúde
-        image: images/Post 1.png
+        image: /images/photo-1588792164216-c72e6a14ae0b.jpg
         subtitle: >-
           We are a brand and design practice. We work closely with you, your
           team to deliver inspiring work, which enables your organization to
