@@ -1455,7 +1455,7 @@ collections:
             name: template
             label: Template
             required: true
-            default: blog
+            default: downloads
 
   - name: page
     label: Páginas
