@@ -22,7 +22,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: Site title
+        description: Tìtulo do site
         required: true
       - type: string
         name: domain
