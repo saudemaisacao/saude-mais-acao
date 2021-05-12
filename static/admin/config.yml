@@ -1783,8 +1783,8 @@ collections:
         default: project
     filter:
       field: template
-      value: project
-      
+      value: download
+
   - name: project
     label: Cursos
     folder: src/pages/cursos
