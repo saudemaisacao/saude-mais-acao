@@ -40,20 +40,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-  - type: cta_section
-    section_id: cta
-    title: Alguma dúvida?
-    content: >
-      Fale conosco pelo endereço <email@example.com> e entraremos em contato o
-      mais breve possível!
-    actions:
-      - type: action
-        label: entrar em contato
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: Novidades
     subtitle: lorem-ipsum
@@ -96,5 +82,19 @@ sections:
     hide_labels: false
     submit_label: Quero receber conteúdo
     type: form_section
+  - type: cta_section
+    section_id: cta
+    title: Alguma dúvida?
+    content: >
+      Fale conosco pelo endereço <email@example.com> e entraremos em contato o
+      mais breve possível!
+    actions:
+      - type: action
+        label: entrar em contato
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
 template: advanced
 ---
