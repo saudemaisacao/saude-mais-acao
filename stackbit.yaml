@@ -136,7 +136,7 @@ models:
             - action
   advanced:
     type: page
-    label: Advanced Page
+    label: Página avançada
     layout: advanced
     hideContent: true
     fields:
