@@ -10,12 +10,12 @@ sections:
       das pessoas.
 
 
-      Empresa criada por médicos com o objetivo de auxiliar todos os
-      profissionais da saúde a cuidarem adequadamente de suas finanças pessoais
-      e das finanças de seus consultórios.
+      A Saúde Mais Ação é uma empresa que foi criada por médicos com o objetivo
+      de auxiliar todos os profissionais da saúde a cuidarem adequadamente de
+      suas finanças pessoais e das finanças de seus consultórios.
 
 
-      O objetivo maior da Saúde + Ação: Educação e Planejamento Financeiro é
+      O maior objetivo da Saúde + Ação: Educação e Planejamento Financeiro é
       ajudar que todos os profissionais da saúde conquistem e mantenham a
       independência financeira.
 
