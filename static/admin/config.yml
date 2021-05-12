@@ -39,7 +39,7 @@ collections:
               - dark
           - widget: select
             name: accent_color
-            label: Accent color
+            label: Cor de destaque
             required: true
             default: pink
             hint: The accent color of the site
@@ -51,7 +51,7 @@ collections:
               - yellow
           - widget: select
             name: base_font
-            label: Font
+            label: Fonte
             required: true
             default: fraunces
             options:
