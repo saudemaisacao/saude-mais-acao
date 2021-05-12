@@ -238,39 +238,39 @@ models:
         models:
           - stackbit_page_meta
   downloads:
-      type: page
-      urlPath: /downloads
-      label: Todos os cursos
-      layout: cursos
-      file: cursos/index.md
-      hideContent: true
-      singleInstance: true
-      fields:
-        - type: string
-          name: title
-          label: Title
-          description: The title of the page
-          required: true
-        - type: string
-          name: subtitle
-          label: Subtitle
-          description: The text shown just below the page title
-        - type: boolean
-          name: hide_title
-          label: Hide page title and subtitle
-          default: false
-        - type: enum
-          name: layout_style
-          label: Layout style
-          description: The style of the portfolio layout
-          options:
-            - mosaic
-            - tiles
-          default: mosaic
-        - type: model
-          name: seo
-          models:
-            - stackbit_page_meta
+    type: page
+    urlPath: /downloads
+    label: Todos os cursos
+    layout: cursos
+    file: cursos/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title
+      - type: boolean
+        name: hide_title
+        label: Hide page title and subtitle
+        default: false
+      - type: enum
+        name: layout_style
+        label: Layout style
+        description: The style of the portfolio layout
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   
   page:
     type: page
