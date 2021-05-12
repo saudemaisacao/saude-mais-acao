@@ -83,7 +83,7 @@ sections:
         image: images/logo-5.svg
         image_alt: Logo 5
   - section_id: lorem-ipsum
-    title: Nossos cursos
+    title: Conheça nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 2
