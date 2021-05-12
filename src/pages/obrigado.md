@@ -23,7 +23,7 @@ sections:
     view_all_label: Veja mais
     view_all_url: '#'
     type: downloads_section
-  - section_id: lorem-ipsum
+  - section_id: cursos
     title: Conheça nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
