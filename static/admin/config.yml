@@ -1355,7 +1355,7 @@ collections:
     files:
       - name: blog
         label: Blog
-        file: src/pages/blog/index.md
+        file: src/pages/downloads/index.md
         fields:
           - widget: string
             name: title
