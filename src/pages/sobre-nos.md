@@ -76,9 +76,22 @@ sections:
         title: Dr. Romeu Fadul
         subtitle: Creative Producer
         image: images/team-3.png
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
+        content: >
+          *   Médico Oftalmologista em Doenças da Retina e Vítreo
+
+
+          *   Doutor em Oftalmologia pela Faculdade de Medicina da Universidade
+          de São Paulo (FMUSP).
+
+
+          *   Professor Adjunto de Oftalmologia da Universidade Federal do Pará
+          (UFPA).
+
+
+          *   MBA em Gestão, Empreendedorismo e Marketing (PUC-RS).
+
+
+          *   Consultor Certificado Evernote no Brasil
         actions:
           - type: action
             label: Twitter
