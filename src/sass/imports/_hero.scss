@@ -29,6 +29,11 @@
     }
   }
   &__background {
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 70vh;
+    z-index: -1;
   }
   &__.carousel_container {
     position: relative;
