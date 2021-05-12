@@ -559,7 +559,7 @@ models:
         default: mosaic
         required: true
       - type: number
-        name: projects_number
+        name: items_number
         label: Number of projects to display
         required: true
       - type: string
