@@ -1350,7 +1350,7 @@ collections:
             label: Template
             required: true
             default: downloads
-  - name: portfolio
+  - name: cursos
     label: Cursos
     files:
       - name: cursos
