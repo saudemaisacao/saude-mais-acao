@@ -30,7 +30,7 @@ collections:
             hint: A square icon that represents your website
           - widget: select
             name: color_scheme
-            label: Color scheme
+            label: Esquema de cores
             required: true
             default: light
             hint: The color scheme used for the site
