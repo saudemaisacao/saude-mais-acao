@@ -82,14 +82,6 @@ sections:
       - type: grid_item
         image: images/logo-5.svg
         image_alt: Logo 5
-  - section_id: lorem-ipsum
-    title: Conheça nossos cursos
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 2
-    view_all_label: Ver todos
-    view_all_url: '#'
-    type: portfolio_section
   - type: portfolio_section
     section_id: latest-projects
     title: e-Books gratuitos
@@ -98,6 +90,14 @@ sections:
     projects_number: 2
     view_all_label: Ver todos
     view_all_url: portfolio
+  - section_id: lorem-ipsum
+    title: Conheça nossos cursos
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 2
+    view_all_label: Ver todos
+    view_all_url: '#'
+    type: portfolio_section
   - section_id: lorem-ipsum
     title: Receba conteúdo
     subtitle: lorem-ipsum
