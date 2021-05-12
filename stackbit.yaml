@@ -347,7 +347,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  project:
+  curso:
     type: page
     urlPath: '/cursos/{slug}'
     label: Curso
