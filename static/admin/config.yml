@@ -1618,9 +1618,9 @@ collections:
       field: template
       value: post
 
-- name: project
-    label: Cursos
-    folder: src/pages/cursos
+- name: download
+    label: Download
+    folder: src/pages/downloads
     create: true
     extension: md
     identifier_field: title
