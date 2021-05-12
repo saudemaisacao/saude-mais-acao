@@ -60,7 +60,7 @@ collections:
               - system-sans
           - widget: object
             name: header
-            label: Header Configuration
+            label: Conigurações do cabeçalho
             required: false
             fields:
               - widget: string
