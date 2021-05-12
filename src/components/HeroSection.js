@@ -12,7 +12,7 @@ export default class HeroSection extends React.Component {
             <section id={_.get(section, 'section_id', null)} className="hero">
             <ul className="hero">
                 {_.get(section, 'hero_items', null) && (
-                    <li className='hero__carousel-item'>
+                    <ul className='hero__carousel-item'>
                      {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
                         <div key={item_idx}>
                         {_.get(item, 'image', null) && (
@@ -39,7 +39,7 @@ export default class HeroSection extends React.Component {
                         </div>
                         </div>
                      ))}
-                    </li>
+                    </ul>
                 )}
             </ul>
              {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
