@@ -1784,7 +1784,6 @@ collections:
     filter:
       field: template
       value: download
-
   - name: project
     label: Cursos
     folder: src/pages/cursos
