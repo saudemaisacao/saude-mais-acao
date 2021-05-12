@@ -21,7 +21,7 @@ collections:
             label: Domínio
             required: false
             hint: >-
-              The domain of your site, including the protocol, e.g.
+              O domínio do seu site, incluindo o protocolo, e.x.
               https://mysite.com
           - widget: image
             name: favicon
@@ -30,7 +30,7 @@ collections:
             hint: O ícone que representa seu site
           - widget: select
             name: color_scheme
-            label: Color scheme
+            label: Esquema de cores
             required: true
             default: light
             hint: The color scheme used for the site
@@ -39,7 +39,7 @@ collections:
               - dark
           - widget: select
             name: accent_color
-            label: Accent color
+            label: Cor de destaque
             required: true
             default: pink
             hint: The accent color of the site
@@ -51,7 +51,7 @@ collections:
               - yellow
           - widget: select
             name: base_font
-            label: Font
+            label: Fonte
             required: true
             default: fraunces
             options:
