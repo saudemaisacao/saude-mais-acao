@@ -1163,7 +1163,7 @@ collections:
   - name: cursos
     label: Todos os cursos
     files:
-      - name: portfolio
+      - name: cursos
         label: Portfolio
         file: src/pages/portfolio/index.md
         fields:
