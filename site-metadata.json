@@ -37,7 +37,7 @@
             {
                 "type": "action",
                 "label": "Contato",
-                "url": "/contact/",
+                "url": "https://www.saudeinvestimentos.com.br/controle/auth/login",
                 "style": "button"
             }
         ]
