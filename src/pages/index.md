@@ -48,7 +48,7 @@ sections:
       mais breve possível!
     actions:
       - type: action
-        label: Começar
+        label: entrar em contato
         url: /contact
         style: button
     image: images/cta.svg
