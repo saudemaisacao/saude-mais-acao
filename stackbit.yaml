@@ -315,7 +315,7 @@ models:
     urlPath: '/cursos/{slug}'
     label: Project
     layout: project
-    folder: portfolio
+    folder: cursos
     hideContent: true
     fields:
       - type: string
