@@ -43,8 +43,8 @@ export default class HeroSection extends React.Component {
                 )}
             </div>
             <input type="radio" class="cs_anchor radio" name="slider" id="slide1"/>
-    <input type="radio" class="cs_anchor radio" name="slider" id="slide2"/>
-    <input type="radio" class="cs_anchor radio" name="slider" id="slide3"/>
+            <input type="radio" class="cs_anchor radio" name="slider" id="slide2"/>
+            <input type="radio" class="cs_anchor radio" name="slider" id="slide3"/>
             </section>
         );
     }
