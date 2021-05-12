@@ -281,6 +281,8 @@ models:
     exclude:
       - blog/**
       - portfolio/**
+      - portfolio/**
+      - portfolio/**
     fields:
       - type: string
         name: title
