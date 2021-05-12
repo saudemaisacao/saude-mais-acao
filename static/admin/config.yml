@@ -1867,7 +1867,7 @@ collections:
       field: template
       value: project
   - name: download
-    label: Download
+    label: Downloads
     folder: src/pages/downloads
     create: true
     extension: md
