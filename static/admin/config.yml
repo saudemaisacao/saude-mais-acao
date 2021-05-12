@@ -15,7 +15,7 @@ collections:
             name: title
             label: Title
             required: true
-            hint: Site title
+            hint: Título do site
           - widget: string
             name: domain
             label: Domínio
