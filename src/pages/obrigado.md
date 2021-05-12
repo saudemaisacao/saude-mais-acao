@@ -1,6 +1,6 @@
 ---
 title: Obrigado!
-hide_title: false
+hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: Obrigado!
