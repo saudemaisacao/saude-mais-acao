@@ -33,9 +33,7 @@ sections:
         title: Dr. Francinaldo Gomes
         subtitle: 'Co-Founder, Creative Director'
         image: images/team-1.png
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+        content: "*   Neurocirurgião\r\n\n*   Mestre em Neurociências\r\n\n*   Autor dos Livros Bolsa Valores para Médicos (Editora DOC, 2012), Finanças no Consultório: Como maximizar os resultados (Editora DOC, 2017) e do Livro Enriquecer Faz Bem à Saúde (Editora DOC, 2018)\r\n\n*   Escritor da coluna Investimentos da revista DOC e da revista SBN Hoje.\r\n\n*   Especialista em investimento em ações e mercado de opções\r\n\n*   MBA em finanças com ênfase em gestão de investimentos\r\n\n*   Membro da Comissão de Apoio, Qualificação e Gestão Empresarial da Sociedade Brasileira de Neurocirurgia\n"
         actions:
           - type: action
             label: Twitter
