@@ -1244,8 +1244,8 @@ collections:
             label: Template
             required: true
             default: blog
-  - name: blog
-    label: Blog
+  - name: cursos
+    label: Cursos
     files:
       - name: blog
         label: Blog
