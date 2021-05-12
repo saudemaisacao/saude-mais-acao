@@ -280,7 +280,7 @@ models:
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - cursos/**
       - portfolio/**
       - portfolio/**
     fields:
