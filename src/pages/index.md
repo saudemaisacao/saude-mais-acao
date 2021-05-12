@@ -75,8 +75,8 @@ sections:
     view_all_label: Ver todos
     view_all_url: downloads
     type: downloads_section
-  - type: cta_section
-    section_id: cta
+  - section_id: cta
+    type: cta_section
     title: Alguma dúvida?
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
@@ -89,14 +89,14 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: newsletter
     title: Receba conteúdo gratuito
     subtitle: Inscreva-se na newsletter e receba todas as novidades!
     content: >
       ##### Inscreva-se na nossa newsletter e receba conteúdo gratuito. Comece a
       investir agora.
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_id: form-newsletter
+    form_action: enviar
     form_fields:
       - input_type: text
         name: seu-email@exemplo.com

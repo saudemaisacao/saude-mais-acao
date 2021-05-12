@@ -17,23 +17,23 @@ logicFields:
 models:
   config:
     type: config
-    label: Configuração do site
+    label: Configurações do site
     fields:
       - type: string
         name: title
         label: Title
-        description: Tìtulo do site
+        description: Título do site
         required: true
       - type: string
         name: domain
         label: Domínio
         description: >-
-          O domínio do seu site, incluindo o protocolo, e.x.
+          The domain of your site, including the protocol, e.g.
           https://mysite.com
       - type: image
         name: favicon
         label: Favicon
-        description: O ícone que represente seu site
+        description: A square icon that represents your website
       - type: enum
         name: color_scheme
         label: Color scheme
@@ -203,11 +203,10 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  
   cursos:
     type: page
     urlPath: /cursos
-    label: Cursos
+    label: Todos os cursos
     layout: cursos
     file: cursos/index.md
     hideContent: true
@@ -238,51 +237,49 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  
   downloads:
     type: page
-      urlPath: /downloads
-      label: Downloads
-      layout: downloads
-      file: downloads/index.md
-      hideContent: true
-      singleInstance: true
-      fields:
-        - type: string
-          name: title
-          label: Título
-          description: O título da página
-          required: true
-        - type: string
-          name: subtitle
-          label: Subtítulo
-          description: O texto mostrado logo abaixo do título
-        - type: boolean
-          name: hide_title
-          label: Esconder o título e subtítulo da página
-          default: false
-        - type: enum
-          name: layout_style
-          label: Layout style
-          description: The style of the portfolio layout
-          options:
-            - mosaic
-            - tiles
-          default: mosaic
-        - type: model
-          name: seo
-          models:
-            - stackbit_page_meta
-
+    urlPath: /downloads
+    label: Todos os downloads
+    layout: downloads
+    file: downloads/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title
+      - type: boolean
+        name: hide_title
+        label: Hide page title and subtitle
+        default: false
+      - type: enum
+        name: layout_style
+        label: Layout style
+        description: The style of the portfolio layout
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+  
   page:
     type: page
-    label: Page
+    label: Página
     layout: page
     exclude:
       - blog/**
       - cursos/**
       - downloads/**
-      - portfolio/**
     fields:
       - type: string
         name: title
@@ -305,11 +302,10 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  
   post:
     type: page
     urlPath: '/blog/{slug}'
-    label: Post
+    label: Postagem
     layout: post
     folder: blog
     fields:
@@ -350,23 +346,22 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  
   curso:
     type: page
     urlPath: '/cursos/{slug}'
-    label: Curso
+    label: Project
     layout: project
     folder: cursos
     hideContent: true
     fields:
       - type: string
         name: title
-        label: Título
-        description: O título do curso
+        label: Title
+        description: The title of the project
         required: true
       - type: string
         name: subtitle
-        label: Subtítulo
+        label: Subtitle
         description: The text shown just below the project title
       - type: date
         name: date
@@ -393,49 +388,48 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  
   download:
     type: page
-    urlPath: '/downloads/{slug}'
-    label: Curso
-    layout: download
-    folder: downloads
-    hideContent: true
-    fields:
-      - type: string
-        name: title
-        label: Título
-        description: O título do download
-        required: true
-      - type: string
-        name: subtitle
-        label: Subtítulo
-        description: The text shown just below the project title
-      - type: date
-        name: date
-        label: Date
-        required: true
-      - type: image
-        name: thumb_image
-        label: Thumbnail image
-        description: The image shown in the portfolio grid
-      - type: string
-        name: thumb_image_alt
-        label: Thumbnail image alt text
-        description: The alt text of the thumbnail image
-      - type: list
-        name: sections
-        label: Sections
-        description: Project sections
-        items:
-          type: model
+      urlPath: '/downloads/{slug}'
+      label: Project
+      layout: download
+      folder: downloads
+      hideContent: true
+      fields:
+        - type: string
+          name: title
+          label: Title
+          description: The title of the project
+          required: true
+        - type: string
+          name: subtitle
+          label: Subtitle
+          description: The text shown just below the project title
+        - type: date
+          name: date
+          label: Date
+          required: true
+        - type: image
+          name: thumb_image
+          label: Thumbnail image
+          description: The image shown in the portfolio grid
+        - type: string
+          name: thumb_image_alt
+          label: Thumbnail image alt text
+          description: The alt text of the thumbnail image
+        - type: list
+          name: sections
+          label: Sections
+          description: Project sections
+          items:
+            type: model
+            models:
+              - image_section
+              - text_section
+        - type: model
+          name: seo
           models:
-            - image_section
-            - text_section
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
+            - stackbit_page_meta
 
   section:
     type: object
@@ -583,7 +577,7 @@ models:
             - action
   portfolio_section:
     type: object
-    label: Portfolio Section
+    label: Seção de cursos
     extends:
       - section
     fields:
@@ -601,7 +595,7 @@ models:
         default: mosaic
         required: true
       - type: number
-        name: projects_number
+        name: items_number
         label: Number of projects to display
         required: true
       - type: string
@@ -612,9 +606,71 @@ models:
         name: view_all_url
         label: All projects button URL
         default: '#'
+  downloads_section:
+    type: object
+    label: Seção de downloads
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section
+      - type: enum
+        name: layout_style
+        label: Layout Style
+        description: The layout style of the projects section
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+        required: true
+      - type: number
+        name: items_number
+        label: Number of projects to display
+        required: true
+      - type: string
+        name: view_all_label
+        label: All projects button label
+        description: The text displayed inside the button
+      - type: string
+        name: view_all_url
+        label: All projects button URL
+        default: '#'
+
+    type: object
+      label: Downloads Section
+      extends:
+        - section
+      fields:
+        - type: string
+          name: subtitle
+          label: Subtitle
+          description: The subtitle of the section
+        - type: enum
+          name: layout_style
+          label: Layout Style
+          description: The layout style of the projects section
+          options:
+            - mosaic
+            - tiles
+          default: mosaic
+          required: true
+        - type: number
+          name: projects_number
+          label: Number of projects to display
+          required: true
+        - type: string
+          name: view_all_label
+          label: All projects button label
+          description: The text displayed inside the button
+        - type: string
+          name: view_all_url
+          label: All projects button URL
+          default: '#'
   posts_section:
     type: object
-    label: Posts Section
+    label: Seção de postagens
     extends:
       - section
     fields:
@@ -850,22 +906,22 @@ models:
         description: Add rel="nofollow" attribute to the link
   stackbit_page_meta:
     type: object
-    label: Metadados da página
+    label: Page meta data
     fields:
       - type: string
         name: title
-        label: Título
-        description: O título da página que entra na etiqueta <title>
+        label: Title
+        description: The page title that goes into the <title> tag
         default: ''
       - type: string
         name: description
-        label: Descrição
-        description: A descrição da página que entra na etiqueta <meta name="description">
+        label: Description
+        description: The page description that goes into the <meta name="description"> tag
         default: ''
       - type: list
         name: robots
         label: Robots
-        description: Os itens que entram na etiqueta <meta name="robots">
+        description: The items that go into the <meta name="robots"> tag
         items:
           type: enum
           options:

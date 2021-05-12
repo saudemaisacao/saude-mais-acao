@@ -2,7 +2,7 @@
 title: Obrigado!
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: titulo
     title: Obrigado!
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
@@ -15,7 +15,7 @@ sections:
 
       *   dolor sit amet
     type: content_section
-  - section_id: lorem-ipsum
+  - section_id: downloads
     title: Você também vai gostar
     subtitle: lorem-ipsum
     layout_style: mosaic
@@ -23,7 +23,7 @@ sections:
     view_all_label: Veja mais
     view_all_url: '#'
     type: downloads_section
-  - section_id: lorem-ipsum
+  - section_id: cursos
     title: Conheça nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
