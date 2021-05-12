@@ -2,9 +2,9 @@ import React from 'react';
 import _ from 'lodash';
 
 import {getPages, Link, withPrefix} from '../utils';
-import PortfolioItem from './PortfolioItem';
+import CursosItem from './CursosItem';
 
-export default class PortfolioSection extends React.Component {
+export default class CursosSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let layout_style = _.get(section, 'layout_style', null) || 'mosaic';
@@ -35,7 +35,7 @@ export default class PortfolioSection extends React.Component {
                       </Link>
                     </article>
                     ) : 
-                      <PortfolioItem key={curso_idx + '.1'} {...this.props} curso_page={curso} />
+                      <CursosItem key={curso_idx + '.1'} {...this.props} curso_page={curso} />
                   ))}
                 </div>
               </div>

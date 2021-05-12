@@ -13,8 +13,8 @@ import HeroSection from './HeroSection';
 import Icon from './Icon';
 import ImageSection from './ImageSection';
 
-import PortfolioItem from './PortfolioItem';
-import PortfolioSection from './PortfolioSection';
+import CursosItem from './CursosItem';
+import CursosSection from './CursosSection';
 
 import DownloadItem from './DownloadItem';
 import DownloadsSection from './DownloadsSection';
@@ -40,8 +40,8 @@ export {
     HeroSection,
     Icon,
     ImageSection,
-    PortfolioItem,
-    PortfolioSection,
+    CursosItem,
+    CursosSection,
     DownloadsSection,
     DownloadItem,
     PostsSection,
@@ -65,8 +65,8 @@ export default {
     HeroSection,
     Icon,
     ImageSection,
-    PortfolioItem,
-    PortfolioSection,
+    CursosItem,
+    CursosSection,
     DownloadsSection,
     DownloadItem,
     PostsSection,

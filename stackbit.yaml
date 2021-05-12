@@ -575,7 +575,7 @@ models:
           type: model
           models:
             - action
-  portfolio_section:
+  cursos_section:
     type: object
     label: Seção de cursos
     extends:

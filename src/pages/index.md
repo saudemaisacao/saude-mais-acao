@@ -66,7 +66,7 @@ sections:
     items_number: 2
     view_all_label: Ver todos
     view_all_url: cursos
-    type: portfolio_section
+    type: cursos_section
   - section_id: downloads
     title: e-Books gratuitos
     subtitle: Faça o download de conteúdo rico gratuitamente

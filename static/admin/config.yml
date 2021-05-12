@@ -685,7 +685,7 @@ collections:
                 hint: The type of the object
                 default: grid_section
           
-          - name: portfolio_section
+          - name: cursos_section
             widget: object
             label: Cursos Section
             fields:
@@ -735,7 +735,7 @@ collections:
                 label: Object Type
                 required: true
                 hint: The type of the object
-                default: portfolio_section
+                default: cursos_section
           
           - name: downloads_section
             widget: object
@@ -1455,7 +1455,7 @@ collections:
             name: template
             label: Template
             required: true
-            default: portfolio
+            default: cursos
 
   - name: page
     label: Páginas

@@ -4,7 +4,7 @@ import {graphql} from 'gatsby';
 
 import components, {Layout} from '../components/index';
 import {getPages} from '../utils';
-import PortfolioItem from '../components/PortfolioItem';
+import CursosItem from '../components/CursosItem';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -59,13 +59,13 @@ export default class Project extends React.Component {
                           {(curr_index !== 0) && ((() => {
                               let prev_project = projects_sorted[prev_index];
                               return (
-                                <PortfolioItem {...this.props} project_page={prev_project} />
+                                <CursosItem {...this.props} project_page={prev_project} />
                               );
                           })())}
                           {(curr_index < project_index_length) && ((() => {
                               let next_project = projects_sorted[next_index];
                               return (
-                                <PortfolioItem {...this.props} project_page={next_project} />
+                                <CursosItem {...this.props} project_page={next_project} />
                               );
                           })())}
                         </div>

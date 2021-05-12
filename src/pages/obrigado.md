@@ -30,6 +30,6 @@ sections:
     items_number: 2
     view_all_label: Veja mais
     view_all_url: '#'
-    type: portfolio_section
+    type: cursos_section
 template: advanced
 ---
