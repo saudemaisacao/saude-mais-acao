@@ -1618,7 +1618,7 @@ collections:
       field: template
       value: post
 
-- name: download
+  - name: download
     label: Download
     folder: src/pages/downloads
     create: true
