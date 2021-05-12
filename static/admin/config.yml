@@ -1272,7 +1272,7 @@ collections:
     files:
       - name: downloads
         label: Todos os downloads
-        file: src/pages/cursos/index.md
+        file: src/pages/downloads/index.md
         fields:
           - widget: string
             name: title
