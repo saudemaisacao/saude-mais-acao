@@ -65,7 +65,7 @@ collections:
             fields:
               - widget: string
                 name: title
-                label: Header title
+                label: Título do cabeçalho
                 required: false
                 hint: The title displayed in the header if no logo image added
               - widget: image
