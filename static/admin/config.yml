@@ -1350,7 +1350,7 @@ collections:
             label: Template
             required: true
             default: blog 
-  - name: blog
+  - name: downloads
     label: Blog
     files:
       - name: blog
