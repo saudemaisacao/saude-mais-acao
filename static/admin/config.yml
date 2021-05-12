@@ -1267,8 +1267,8 @@ collections:
             required: true
             default: cursos
 
-  - name: cursos
-    label: Todos os cursos
+  - name: downloads
+    label: Todos os downloads
     files:
       - name: cursos
         label: Todos os cursos
