@@ -15,7 +15,7 @@ sections:
     title: Você também vai gostar
     subtitle: lorem-ipsum
     layout_style: mosaic
-    items_number: 0
+    items_number: 2
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: downloads_section
