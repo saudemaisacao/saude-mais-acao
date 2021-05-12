@@ -91,7 +91,7 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: Receba conteúdo gratuito
-    subtitle: lorem-ipsum
+    subtitle: Inscreva-se na newsletter e receba todas as novidades!
     content: >
       ##### Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
