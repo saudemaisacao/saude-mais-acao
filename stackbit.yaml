@@ -204,7 +204,7 @@ models:
           - stackbit_page_meta
   portfolio:
     type: page
-    urlPath: /portfolio
+    urlPath: /cursos
     label: Portfolio
     layout: portfolio
     file: portfolio/index.md
