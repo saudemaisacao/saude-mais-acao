@@ -1617,7 +1617,6 @@ collections:
     filter:
       field: template
       value: post
-
   - name: download
     label: Download
     folder: src/pages/downloads
