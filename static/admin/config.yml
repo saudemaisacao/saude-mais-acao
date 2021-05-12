@@ -1379,7 +1379,7 @@ collections:
       field: template
       value: page
   - name: post
-    label: Posts
+    label: Postagens
     folder: src/pages/blog
     create: true
     extension: md
