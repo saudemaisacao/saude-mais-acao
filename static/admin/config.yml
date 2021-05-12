@@ -13,7 +13,7 @@ collections:
         fields:
           - widget: string
             name: title
-            label: Title
+            label: Título
             required: true
             hint: Título do site
           - widget: string
