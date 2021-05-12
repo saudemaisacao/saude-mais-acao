@@ -1617,6 +1617,8 @@ collections:
     filter:
       field: template
       value: post
+
+
   - name: project
     label: Cursos
     folder: src/pages/cursos
