@@ -572,7 +572,7 @@ models:
         default: '#'
   downloads_section:
     type: object
-      label: Download Section
+      label: Downloads Section
       extends:
         - section
       fields:
