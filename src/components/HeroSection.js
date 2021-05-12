@@ -12,7 +12,7 @@ export default class HeroSection extends React.Component {
             <section id={_.get(section, 'section_id', null)} className="hero">
             <div>
                 {_.get(section, 'hero_items', null) && (
-                    <div>
+                    <ul>
                      {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
                         <div key={item_idx} className='hero__carousel-item'>
                         {_.get(item, 'image', null) && (
