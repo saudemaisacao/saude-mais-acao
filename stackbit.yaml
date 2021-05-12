@@ -541,7 +541,7 @@ models:
             - action
   portfolio_section:
     type: object
-    label: Cursos Section
+    label: Seção de cursos
     extends:
       - section
     fields:
