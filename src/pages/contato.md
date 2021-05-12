@@ -52,7 +52,7 @@ sections:
       - type: form_field
         input_type: textarea
         name: message
-        label: Message
+        label: Mensagem
         default_value: Your message
       - type: form_field
         input_type: checkbox
