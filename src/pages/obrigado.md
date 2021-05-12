@@ -12,7 +12,7 @@ sections:
         url: /
         style: button
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Você também vai gostar
     subtitle: lorem-ipsum
     layout_style: mosaic
     items_number: 0
