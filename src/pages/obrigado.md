@@ -15,7 +15,7 @@ sections:
 
       *   dolor sit amet
     type: content_section
-  - section_id: lorem-ipsum
+  - section_id: downloads
     title: Você também vai gostar
     subtitle: lorem-ipsum
     layout_style: mosaic
