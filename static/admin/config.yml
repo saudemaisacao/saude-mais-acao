@@ -1247,9 +1247,9 @@ collections:
   - name: cursos
     label: Cursos
     files:
-      - name: blog
-        label: Blog
-        file: src/pages/blog/index.md
+      - name: cursos
+        label: Cursos
+        file: src/pages/cursos/index.md
         fields:
           - widget: string
             name: title
