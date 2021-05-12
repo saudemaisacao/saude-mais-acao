@@ -1,7 +1,7 @@
 ---
 title: 'Comprar e vender ações: como fazer de maneira lucrativa?'
 date: '2021-01-15'
-thumb_image: images/post-5-thumb.jpg
+thumb_image: /images/post_thumbnail-33c5686c8e67d409cdf64236bc40996a (1).jpeg
 thumb_image_alt: White wooden table with a chair
 image: images/post-5.jpg
 image_alt: White wooden table with a chair
