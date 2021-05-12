@@ -2,6 +2,22 @@
 title: Obrigado!
 hide_title: false
 sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
   - type: hero_section
     content: >-
       Obrigado por fazer o download do nosso conteúdo! Esperamos que seja útil.
@@ -27,21 +43,5 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: portfolio_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 template: advanced
 ---
