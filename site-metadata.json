@@ -35,12 +35,6 @@
                 "style": "link"
             },
             {
-                "type": "action",
-                "label": "Acesso ao Saúde Investimentos",
-                "url": "https://www.saudeinvestimentos.com.br/controle/auth/login",
-                "style": "button"
-            },
-            {
                 "label": "Cursos",
                 "url": "/cursos/",
                 "style": "link",
@@ -48,6 +42,12 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "type": "action",
+                "label": "Acesso ao Saúde Investimentos",
+                "url": "https://www.saudeinvestimentos.com.br/controle/auth/login",
+                "style": "button"
             }
         ]
     },
