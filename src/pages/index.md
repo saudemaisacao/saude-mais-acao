@@ -93,8 +93,8 @@ sections:
     title: Receba conteúdo gratuito
     subtitle: Inscreva-se na newsletter e receba todas as novidades!
     content: >
-      ##### Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ##### Inscreva-se na nossa newsletter e receba conteúdo gratuito. Comece a
+      investir agora.
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
