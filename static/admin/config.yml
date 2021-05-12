@@ -1266,7 +1266,6 @@ collections:
             label: Template
             required: true
             default: cursos
-
   - name: downloads
     label: Todos os downloads
     files:
