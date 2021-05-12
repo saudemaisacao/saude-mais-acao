@@ -1169,7 +1169,7 @@ collections:
         fields:
           - widget: string
             name: title
-            label: Title
+            label: Título
             required: true
             hint: The title of the page
           - widget: string
