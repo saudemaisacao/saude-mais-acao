@@ -1270,7 +1270,7 @@ collections:
   - name: downloads
     label: Todos os downloads
     files:
-      - name: cursos
+      - name: downloads
         label: Todos os cursos
         file: src/pages/cursos/index.md
         fields:
