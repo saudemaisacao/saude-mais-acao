@@ -24,14 +24,14 @@
             },
             {
                 "type": "action",
-                "label": "e-Books",
-                "url": "/downloads/",
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Blog",
-                "url": "/blog/",
+                "label": "e-Books",
+                "url": "/downloads/",
                 "style": "link"
             },
             {
