@@ -1,7 +1,7 @@
 ---
 title: 'IPO de ações: entenda o que é a sigla e saiba como investir!'
 date: '2021-01-05'
-thumb_image: images/post-4-thumb.jpg
+thumb_image: /images/original-ad7c2e1518376c2c99554907e8ee76c5-scaled.jpeg
 thumb_image_alt: White concrete building
 image: images/post-4.jpg
 image_alt: White concrete building
