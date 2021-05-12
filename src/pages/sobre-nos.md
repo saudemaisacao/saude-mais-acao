@@ -6,7 +6,7 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
-      ## Educação e Planejamento Financeiro
+      > Educação e Planejamento Financeiro
 
 
       Empresa criada por médicos com o objetivo de auxiliar todos os
