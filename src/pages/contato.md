@@ -5,8 +5,8 @@ sections:
   - type: form_section
     section_id: contact-form
     content: |
-      Let’s build something great together.<br>
-      Complete our contact form or send us an email at <email@example.com>.
+      Entre em contato conosco e responderemos o mais breve possível!
+      Complete o formulário para enviar um e-mail para <email@example.com>.
 
       ***
 
