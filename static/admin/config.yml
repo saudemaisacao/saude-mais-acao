@@ -5,10 +5,10 @@ media_folder: static/images
 public_folder: /images
 collections:
   - name: config
-    label: Configurações do site
+    label: Site Configuration
     files:
       - name: config
-        label: Configurações do site
+        label: Site Configuration
         file: site-metadata.json
         fields:
           - widget: string
