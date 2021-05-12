@@ -1164,7 +1164,7 @@ collections:
     label: Todos os cursos
     files:
       - name: cursos
-        label: Portfolio
+        label: Todos os cursos
         file: src/pages/portfolio/index.md
         fields:
           - widget: string
