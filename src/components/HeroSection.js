@@ -10,9 +10,9 @@ export default class HeroSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
-            <div>
+            <ul>
                 {_.get(section, 'hero_items', null) && (
-                    <ul>
+                    <li>
                      {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
                         <div key={item_idx} className='hero__carousel-item'>
                         {_.get(item, 'image', null) && (
@@ -39,9 +39,9 @@ export default class HeroSection extends React.Component {
                         </div>
                         </div>
                      ))}
-                    </ul>
+                    </li>
                 )}
-            </div>
+            </ul>
              {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
                 <input key={item_idx} type="radio" className="cs_anchor radio" name="slider" id={item_idx}/>
              ))}
