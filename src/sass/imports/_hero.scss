@@ -22,7 +22,7 @@
   }
 
   &__container {
-    margin-left: 3vw;
+    padding-left: $container-padding;
     height: 70vh;
     display: flex;
   }

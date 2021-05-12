@@ -1,11 +1,11 @@
 ---
 title: Downloads
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Faça o download de conteúdo rico gratuitamente
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
-  title: Portfolio
-  description: This is the portfolio page
+  title: Downloads
+  description: Faça o download de conteúdo rico gratuitamente
   extra:
     - name: 'og:type'
       value: website

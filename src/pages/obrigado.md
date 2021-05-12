@@ -1,11 +1,10 @@
 ---
-title: Thank You!
+title: Obrigado!
 hide_title: false
 sections:
   - type: hero_section
     content: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+      Obrigado por fazer o download do nosso conteúdo! Esperamos que seja útil. Sucesso!
     actions:
       - type: action
         label: Back to homepage

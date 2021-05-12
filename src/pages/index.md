@@ -7,13 +7,11 @@ sections:
     title: Saúde+Ação
     hero_items:
       - type: hero_item
-        title: Parceria Start.se
+        title: A Saúde Mais Ação fez uma parceria com a StartSe
         subtitle: >-
-          We are a brand and design practice. We work closely with you, your
-          team to deliver inspiring work, which enables your organization to
-          grow. [Let's talk](/contact/).
+          Uma empresa de educação pioneira quando o assunto é tecnologias disruptivas.
         image: /images/bg-app.jpg
-        image_alt: Item 1
+        image_alt: Parceria com a StartSe
         light_text: true
         actions:
           - label: saiba mais
@@ -24,14 +22,27 @@ sections:
             no_follow: false
             type: action
       - type: hero_item
-        title: Aplicativo saúde
-        image: /images/photo-1588792164216-c72e6a14ae0b.jpg
-        light_text: false
+        title: Baixe o APP Saúde Investimentos
         subtitle: >-
-          We are a brand and design practice. We work closely with you, your
-          team to deliver inspiring work, which enables your organization to
-          grow. [Let's talk](/contact/).
-        image_alt: Item 1
+          para que vc possa organizar, escolher e comparar seus investimentos
+        image: /images/photo-1588792164216-c72e6a14ae0b.jpg
+        image_alt: App saúde investimentos
+        light_text: false
+        actions:
+          - label: saiba mais
+            url: '#'
+            style: link
+            icon: instagram
+            new_window: false
+            no_follow: false
+            type: action
+      - type: hero_item
+        title: Conheça a estratégia “Enriquecer faz bem à saúde”
+        subtitle: >-
+          Já ensinamos milhares de médicos a como construir sua independência financeira
+        image: /images/bg-app.jpg
+        image_alt: Parceria com a StartSe
+        light_text: true
         actions:
           - label: saiba mais
             url: '#'
