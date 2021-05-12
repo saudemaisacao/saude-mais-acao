@@ -1700,7 +1700,7 @@ collections:
     filter:
       field: template
       value: post
-  - name: curso
+  - name: project
     label: Cursos
     folder: src/pages/cursos
     create: true
