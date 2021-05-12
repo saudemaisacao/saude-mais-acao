@@ -26,10 +26,9 @@ sections:
         title: Aplicativo saúde
         image: /images/photo-1588792164216-c72e6a14ae0b.jpg
         light_text: false
-        subtitle: >-
-          We are a brand and design practice. We work closely with you, your
-          team to deliver inspiring work, which enables your organization to
-          grow. [Let's talk](/contact/).
+        subtitle: >
+          Uma empresa de educação pioneira quando o assunto é tecnologias
+          disruptivas.
         image_alt: Item 1
         actions:
           - label: saiba mais
