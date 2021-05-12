@@ -352,6 +352,8 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  download:
+  
   section:
     type: object
     label: Section
