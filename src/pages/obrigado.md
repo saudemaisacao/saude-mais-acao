@@ -20,7 +20,7 @@ sections:
     view_all_url: '#'
     type: downloads_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
     items_number: 0
