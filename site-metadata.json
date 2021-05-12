@@ -36,7 +36,7 @@
             },
             {
                 "type": "action",
-                "label": "Contato",
+                "label": "Acesso ao Saúde Investimentos",
                 "url": "https://www.saudeinvestimentos.com.br/controle/auth/login",
                 "style": "button"
             }
