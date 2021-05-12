@@ -23,7 +23,7 @@ sections:
             no_follow: false
             type: action
       - type: hero_item
-        title: Aplicativo saúde
+        title: A Saúde Mais Ação fez uma parceria com a StartSe
         image: /images/photo-1588792164216-c72e6a14ae0b.jpg
         light_text: false
         subtitle: >
