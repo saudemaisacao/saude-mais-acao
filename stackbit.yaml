@@ -635,7 +635,7 @@ models:
           default: '#'
   posts_section:
     type: object
-    label: Sessão de postagens
+    label: Seção de postagens
     extends:
       - section
     fields:
