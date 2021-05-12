@@ -60,7 +60,7 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-    submit_label: Enviarmensagem
+    submit_label: Enviar mensagem
 seo:
   type: stackbit_page_meta
   title: Contact
