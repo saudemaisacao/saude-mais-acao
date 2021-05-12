@@ -1267,7 +1267,7 @@ collections:
             required: true
             default: cursos
   - name: page
-    label: Pages
+    label: Páginas
     folder: src/pages
     create: true
     extension: md
