@@ -281,7 +281,7 @@ models:
     exclude:
       - blog/**
       - cursos/**
-      - portfolio/**
+      - downloads/**
       - portfolio/**
     fields:
       - type: string
