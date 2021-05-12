@@ -95,7 +95,7 @@ sections:
     content: >
       ##### Inscreva-se na nossa newsletter e receba conteúdo gratuito. Comece a
       investir agora.
-    form_id: lorem-ipsum
+    form_id: form-newsletter
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
