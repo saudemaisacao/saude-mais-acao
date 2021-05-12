@@ -152,7 +152,7 @@ models:
       - type: list
         name: sections
         label: Sections
-        description: Page sections
+        description: Seções de página
         items:
           type: model
           models:
@@ -160,7 +160,8 @@ models:
             - content_section
             - cta_section
             - grid_section
-            - portfolio_section
+            - cursos_section
+            - downloads_section
             - posts_section
             - testimonials_section
             - form_section
@@ -228,7 +229,7 @@ models:
       - type: enum
         name: layout_style
         label: Layout style
-        description: The style of the portfolio layout
+        description: O layout da seção de cursos
         options:
           - mosaic
           - tiles
@@ -262,7 +263,7 @@ models:
       - type: enum
         name: layout_style
         label: Layout style
-        description: The style of the portfolio layout
+        description: O layout da seção de downloads
         options:
           - mosaic
           - tiles
