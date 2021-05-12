@@ -570,7 +570,7 @@ models:
         name: view_all_url
         label: All projects button URL
         default: '#'
-  downloads_section:
+
     type: object
       label: Downloads Section
       extends:
