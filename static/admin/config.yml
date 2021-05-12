@@ -5,7 +5,7 @@ media_folder: static/images
 public_folder: /images
 collections:
   - name: config
-    label: Site Configuration
+    label: Configurações do site
     files:
       - name: config
         label: Site Configuration
