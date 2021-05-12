@@ -6,7 +6,7 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
-      > foco no cliente, organização, transparência, ética e eficiência.
+      > *foco no cliente, organização, transparência, ética e eficiência*
 
 
       A Saúde Mais Ação é uma empresa que foi criada por médicos com o objetivo
