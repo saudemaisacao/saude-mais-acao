@@ -242,7 +242,8 @@ models:
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - cursos/**
+      - downloads/**
     fields:
       - type: string
         name: title
