@@ -1372,7 +1372,7 @@ collections:
             name: template
             label: Template
             required: true
-            default: downloads
+            default: download
   
   - name: page
     label: Páginas
