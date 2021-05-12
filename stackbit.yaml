@@ -205,8 +205,8 @@ models:
   portfolio:
     type: page
     urlPath: /cursos
-    label: Portfolio
-    layout: portfolio
+    label: Todos os cursos
+    layout: cursos
     file: portfolio/index.md
     hideContent: true
     singleInstance: true
