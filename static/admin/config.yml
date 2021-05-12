@@ -1266,6 +1266,7 @@ collections:
             label: Template
             required: true
             default: cursos
+  
   - name: page
     label: Páginas
     folder: src/pages
