@@ -18,6 +18,12 @@
             },
             {
                 "type": "action",
+                "label": "Sobre nós",
+                "url": "/sobre-nos/",
+                "style": "link"
+            },
+            {
+                "type": "action",
                 "label": "e-Books",
                 "url": "/downloads/",
                 "style": "link"
@@ -26,12 +32,6 @@
                 "type": "action",
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Sobre nós",
-                "url": "/sobre-nos/",
                 "style": "link"
             },
             {
