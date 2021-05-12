@@ -1458,7 +1458,7 @@ collections:
             default: portfolio
 
   - name: page
-    label: Pages
+    label: Páginas
     folder: src/pages
     create: true
     extension: md
