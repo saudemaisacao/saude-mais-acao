@@ -26,7 +26,7 @@ models:
         required: true
       - type: string
         name: domain
-        label: Domain
+        label: Domínio
         description: >-
           O domínio do seu site, incluindo o protocolo, e.x.
           https://mysite.com
