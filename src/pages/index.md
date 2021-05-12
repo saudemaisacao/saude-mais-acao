@@ -47,22 +47,6 @@ sections:
     col_number: three
     actions: []
     type: posts_section
-  - type: portfolio_section
-    section_id: latest-projects
-    title: e-Books gratuitos
-    subtitle: Faça o download de conteúdo rico gratuitamente
-    layout_style: tiles
-    projects_number: 2
-    view_all_label: Ver todos
-    view_all_url: portfolio
-  - section_id: lorem-ipsum
-    title: Conheça nossos cursos
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 2
-    view_all_label: Ver todos
-    view_all_url: '#'
-    type: portfolio_section
   - section_id: lorem-ipsum
     title: Receba conteúdo
     subtitle: conheça nossa newsletter
@@ -82,6 +66,22 @@ sections:
     hide_labels: false
     submit_label: Quero receber conteúdo
     type: form_section
+  - type: portfolio_section
+    section_id: latest-projects
+    title: e-Books gratuitos
+    subtitle: Faça o download de conteúdo rico gratuitamente
+    layout_style: tiles
+    projects_number: 2
+    view_all_label: Ver todos
+    view_all_url: portfolio
+  - section_id: lorem-ipsum
+    title: Conheça nossos cursos
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 2
+    view_all_label: Ver todos
+    view_all_url: '#'
+    type: portfolio_section
   - type: cta_section
     section_id: cta
     title: Alguma dúvida?
