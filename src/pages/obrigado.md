@@ -3,7 +3,7 @@ title: Obrigado!
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Obrigado!
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
