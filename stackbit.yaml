@@ -571,36 +571,36 @@ models:
         label: All projects button URL
         default: '#'
   downloads_section:
-  type: object
-    label: Portfolio Section
-    extends:
-      - section
-    fields:
-      - type: string
-        name: subtitle
-        label: Subtitle
-        description: The subtitle of the section
-      - type: enum
-        name: layout_style
-        label: Layout Style
-        description: The layout style of the projects section
-        options:
-          - mosaic
-          - tiles
-        default: mosaic
-        required: true
-      - type: number
-        name: projects_number
-        label: Number of projects to display
-        required: true
-      - type: string
-        name: view_all_label
-        label: All projects button label
-        description: The text displayed inside the button
-      - type: string
-        name: view_all_url
-        label: All projects button URL
-        default: '#'
+    type: object
+      label: Download Section
+      extends:
+        - section
+      fields:
+        - type: string
+          name: subtitle
+          label: Subtitle
+          description: The subtitle of the section
+        - type: enum
+          name: layout_style
+          label: Layout Style
+          description: The layout style of the projects section
+          options:
+            - mosaic
+            - tiles
+          default: mosaic
+          required: true
+        - type: number
+          name: projects_number
+          label: Number of projects to display
+          required: true
+        - type: string
+          name: view_all_label
+          label: All projects button label
+          description: The text displayed inside the button
+        - type: string
+          name: view_all_url
+          label: All projects button URL
+          default: '#'
   posts_section:
     type: object
     label: Posts Section
