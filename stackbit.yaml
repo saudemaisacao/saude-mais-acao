@@ -573,7 +573,7 @@ models:
 
     downloads_section:
     type: object
-    label: Seção de cursos
+    label: Seção de downloads
     extends:
       - section
     fields:
