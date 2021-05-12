@@ -18,15 +18,6 @@ sections:
 
       - dolor sit amet
     type: content_section
-  - type: hero_section
-    content: >-
-      Obrigado por fazer o download do nosso conteúdo! Esperamos que seja útil.
-      Sucesso!
-    actions:
-      - type: action
-        label: Back to homepage
-        url: /
-        style: button
   - section_id: lorem-ipsum
     title: Você também vai gostar
     subtitle: lorem-ipsum
