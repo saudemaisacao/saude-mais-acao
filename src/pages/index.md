@@ -75,8 +75,8 @@ sections:
     view_all_label: Ver todos
     view_all_url: downloads
     type: downloads_section
-  - type: cta_section
-    section_id: cta
+  - section_id: cta
+    type: cta_section
     title: Alguma dúvida?
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
