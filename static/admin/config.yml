@@ -4,7 +4,6 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
-
   - name: config
     label: Configurações do site
     files:
@@ -282,7 +281,7 @@ collections:
                 hint: The type of the object
                 default: footer
   - name: advanced
-    label: Advanced Pages
+    label: Páginas avançadas
     folder: src/pages
     create: true
     extension: md
@@ -292,17 +291,17 @@ collections:
     fields:
       - widget: string
         name: title
-        label: Title
+        label: Título
         required: true
-        hint: The title of the page
+        hint: O título da página
       - widget: boolean
         name: hide_title
-        label: Hide page title
+        label: Esconder título da página
         required: false
         default: true
       - widget: list
         name: sections
-        label: Sections
+        label: Seções
         required: false
         hint: Seções da página
         types:
@@ -315,8 +314,8 @@ collections:
                 label: ID
                 required: false
                 hint: >-
-                  A unique identifier of the section, must not contain
-                  whitespace
+                  O identificador da seção, não pode 
+                  conter espaço em branco
               - widget: string
                 name: title
                 label: Título
@@ -391,7 +390,7 @@ collections:
                           - youtube
                       - widget: boolean
                         name: new_window
-                        label: Make the link open a new tab/window
+                        label: Faça o link abrir em uma nova tab/janela
                         required: false
                         default: false
                       - widget: boolean
@@ -1701,7 +1700,7 @@ collections:
     filter:
       field: template
       value: post
-  - name: project
+  - name: curso
     label: Cursos
     folder: src/pages/cursos
     create: true
@@ -1867,7 +1866,7 @@ collections:
     filter:
       field: template
       value: project
-  - name: ebook
+  - name: download
     label: Downloads
     folder: src/pages/downloads
     create: true
@@ -2029,7 +2028,7 @@ collections:
         name: template
         label: Template
         required: true
-        default: ebook
+        default: download
     filter:
       field: template
-      value: ebook
+      value: download
