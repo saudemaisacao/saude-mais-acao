@@ -20,7 +20,7 @@ sections:
     view_all_url: '#'
     type: downloads_section
   - section_id: lorem-ipsum
-    title: lorem-ipsumA
+    title: Leia também
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
