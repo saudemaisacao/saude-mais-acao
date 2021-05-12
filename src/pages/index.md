@@ -89,7 +89,7 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: newsletter
     title: Receba conteúdo gratuito
     subtitle: Inscreva-se na newsletter e receba todas as novidades!
     content: >
