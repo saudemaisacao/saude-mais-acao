@@ -101,7 +101,7 @@ sections:
       - input_type: text
         name: seu-email@exemplo.com
         label: Seu melhor e-mail
-        default_value: lorem-ipsum
+        default_value: seu-email@exemplo.com
         options: []
         is_required: false
         type: form_field
