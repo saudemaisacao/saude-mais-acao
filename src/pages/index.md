@@ -9,7 +9,8 @@ sections:
       - type: hero_item
         title: A Saúde Mais Ação fez uma parceria com a StartSe
         subtitle: >-
-          Uma empresa de educação pioneira quando o assunto é tecnologias disruptivas.
+          Uma empresa de educação pioneira quando o assunto é tecnologias
+          disruptivas.
         image: /images/bg-app.jpg
         image_alt: Parceria com a StartSe
         light_text: true
@@ -23,8 +24,7 @@ sections:
             type: action
       - type: hero_item
         title: Baixe o APP Saúde Investimentos
-        subtitle: >-
-          para que vc possa organizar, escolher e comparar seus investimentos
+        subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
         image: /images/photo-1588792164216-c72e6a14ae0b.jpg
         image_alt: App saúde investimentos
         light_text: false
@@ -39,7 +39,8 @@ sections:
       - type: hero_item
         title: Conheça a estratégia “Enriquecer faz bem à saúde”
         subtitle: >-
-          Já ensinamos milhares de médicos a como construir sua independência financeira
+          Já ensinamos milhares de médicos a como construir sua independência
+          financeira
         image: /images/bg-app.jpg
         image_alt: Parceria com a StartSe
         light_text: true
@@ -51,7 +52,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-
   - section_id: blog
     title: Últimas notícias
     subtitle: lorem-ipsum
@@ -59,16 +59,14 @@ sections:
     col_number: three
     actions: []
     type: posts_section
-
   - section_id: cursos
-    title: Nossos cursos
+    title: Conheça nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
     items_number: 2
     view_all_label: Ver todos
     view_all_url: cursos
     type: portfolio_section
-
   - section_id: downloads
     title: e-Books
     subtitle: Faça o download de conteúdo rico gratuitamente
@@ -77,7 +75,6 @@ sections:
     view_all_label: Ver todos
     view_all_url: downloads
     type: downloads_section
-
   - type: cta_section
     section_id: cta
     title: Fale conosco
