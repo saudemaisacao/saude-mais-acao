@@ -92,7 +92,7 @@ sections:
     type: portfolio_section
   - type: portfolio_section
     section_id: latest-projects
-    title: e-Books
+    title: e-Books gratuitos
     subtitle: Faça o download de conteúdo rico gratuitamente
     layout_style: tiles
     projects_number: 2
