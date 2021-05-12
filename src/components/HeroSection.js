@@ -39,7 +39,7 @@ export default class HeroSection extends React.Component {
                         </div>
                         </div>
                      ))}
-                    </div>
+                    </ul>
                 )}
             </div>
              {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
