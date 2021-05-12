@@ -43,9 +43,9 @@ sections:
   - type: cta_section
     section_id: cta
     title: Alguma dúvida?
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Fale conosco pelo endereço <email@example.com> e entraremos em contato o
+      mais breve possível!
     actions:
       - type: action
         label: Começar
