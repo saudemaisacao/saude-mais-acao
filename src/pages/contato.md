@@ -61,7 +61,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
     submit_label: Enviar mensagem
-    title: Formulário
+    title: Alguma dúvida?
 seo:
   type: stackbit_page_meta
   title: Contact
