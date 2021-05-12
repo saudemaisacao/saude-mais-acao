@@ -109,7 +109,7 @@ sections:
     form_fields:
       - input_type: text
         name: seu melhor e-mail
-        label: e-mail
+        label: seu melhor e-mail
         default_value: seuemail@exemplo.com
         options: []
         is_required: false
