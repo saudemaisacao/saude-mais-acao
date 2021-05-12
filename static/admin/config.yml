@@ -1780,7 +1780,7 @@ collections:
         name: template
         label: Template
         required: true
-        default: project
+        default: download
     filter:
       field: template
       value: download
