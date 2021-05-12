@@ -45,9 +45,26 @@ sections:
         title: Dr. Alexandre Rosa
         subtitle: 'Co-Founder, Creative Director'
         image: images/team-2.png
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+        content: >
+          *   Residência em Cirurgia Geral no Hospital das Clínicas – USP, SP
+
+
+          *   Research Fellow Section of Plastic Surgery-West Virginia
+          University
+
+
+          *   Cirurgião Plástico do Hospital Sírio Libanês desde 2000
+
+
+          *   Membro da ADECIP-HC-FMUSP na qualidade de Titular
+
+
+          *   Autor e Co-Autor de 28 Artigos Científicos, com 105 Cursos na Área
+          Médica e 58 Congressos e Simpósios
+
+
+          *   Coordenador científico dos Cursos de Cirurgia Plástica do
+          Instituto de Ensino e Pesquisa do Hospital Sírio Libanês
         actions:
           - type: action
             label: Twitter
