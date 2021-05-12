@@ -40,6 +40,13 @@ sections:
             new_window: false
             no_follow: false
             type: action
+  - section_id: lorem-ipsum
+    title: Últimas notícias
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: posts_section
   - type: grid_section
     section_id: clients
     title: Clientes
@@ -117,13 +124,6 @@ sections:
     projects_number: 2
     view_all_label: Ver todos
     view_all_url: portfolio
-  - section_id: lorem-ipsum
-    title: Últimas notícias
-    subtitle: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions: []
-    type: posts_section
   - type: cta_section
     section_id: cta
     title: Fale conosco
