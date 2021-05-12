@@ -1455,7 +1455,7 @@ collections:
             name: template
             label: Template
             required: true
-            default: portfolio
+            default: cursos
 
   - name: page
     label: Páginas
