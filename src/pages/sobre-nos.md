@@ -35,7 +35,7 @@ sections:
             icon: twitter
             new_window: true
       - type: grid_item
-        title: Alexandre Rosa
+        title: Dr. Alexandre Rosa
         subtitle: 'Co-Founder, Creative Director'
         image: images/team-2.png
         content: >-
