@@ -1174,7 +1174,7 @@ collections:
             hint: The title of the page
           - widget: string
             name: subtitle
-            label: Subtitle
+            label: Subtítulo
             required: false
             hint: The text shown just below the page title
           - widget: boolean
