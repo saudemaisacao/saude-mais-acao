@@ -241,7 +241,7 @@ models:
     type: page
     urlPath: /downloads
     label: Todos os downloads
-    layout: cursos
+    layout: downloads
     file: cursos/index.md
     hideContent: true
     singleInstance: true
