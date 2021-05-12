@@ -1259,7 +1259,7 @@ collections:
                 name: type
                 label: Object Type
                 required: true
-                hint: The type of the object
+                hint: O tipo do objeto
                 default: stackbit_page_meta
           - widget: hidden
             name: template
