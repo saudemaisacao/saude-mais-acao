@@ -237,6 +237,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  
   page:
     type: page
     label: Página
