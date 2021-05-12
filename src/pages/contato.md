@@ -44,7 +44,7 @@ sections:
         input_type: select
         name: subject
         label: Qual o assunto?
-        default_value: ovaf roP
+        default_value: 'Por favor, selecione'
         options:
           - Branding
           - Design
