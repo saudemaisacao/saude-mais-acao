@@ -242,7 +242,7 @@ models:
     urlPath: /downloads
     label: Todos os downloads
     layout: downloads
-    file: cursos/index.md
+    file: downloads/index.md
     hideContent: true
     singleInstance: true
     fields:
