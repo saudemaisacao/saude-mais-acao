@@ -1171,7 +1171,7 @@ collections:
             name: title
             label: Título
             required: true
-            hint: The title of the page
+            hint: O título da página
           - widget: string
             name: subtitle
             label: Subtítulo
