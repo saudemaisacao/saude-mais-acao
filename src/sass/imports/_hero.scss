@@ -1,17 +1,41 @@
 .hero {
   margin: 0;
   padding: 0;
-  margin-bottom: 3.33333em;
+  margin-top: -5em;
   padding-top: 0;
-  padding-bottom: 1.66667em;
+  padding-bottom: 1em;
+  width: 100vw;
+
+  @media only screen and (max-width: 601px) {
+    margin-top: -4em;
+  }
 
   &__title {
     font-size: 2.22222em;
+    text-align: left;
   }
 
   &__body {
     font-size: 1.11111em;
     line-height: 1.5;
+    text-align: left;
+  }
+
+  &__container {
+    margin-left: 3vw;
+    height: 70vh;
+    display: flex;
+  }
+  &__bottom {
+    width: 50vw;
+    align-self: flex-end;
+    align-items: flex-end;
+    align-content: flex-end;
+
+    @media only screen and (max-width: 601px) {
+      margin-top: 50vh;
+      width: 100vw;
+    }
   }
 
   &__body,
@@ -30,81 +54,24 @@
   }
   &__background {
     position: absolute;
+    object-fit: cover;
     top: 0;
-    width: 100vw;
-    height: 70vh;
+    left: 0;
+    height: 80vh;
     z-index: -1;
-  }
-  &__.carousel_container {
-    position: relative;
-    margin: auto;
-  }
-  &__.carousel-item {
-    display: none;
-    transition: all 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
-    transition-timing-function: cubic-bezier(0.770, 0.000, 0.175, 1.000);
+
+    @media only screen and (max-width: 601px) {
+      height: 100vh;
+      width: 100vw;
+    }
+
   }
 
 }
 
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
+.thumbs.animated, .carousel-status {
+  display: none;
 }
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-
 
 @media only screen and (min-width: 601px) {
   .hero {

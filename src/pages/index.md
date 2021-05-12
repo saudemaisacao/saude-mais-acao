@@ -14,6 +14,7 @@ sections:
           grow. [Let's talk](/contact/).
         image: /images/bg-app.jpg
         image_alt: Item 1
+        light_text: true
         actions:
           - label: saiba mais
             url: '#'
@@ -25,6 +26,7 @@ sections:
       - type: hero_item
         title: Aplicativo saúde
         image: /images/photo-1588792164216-c72e6a14ae0b.jpg
+        light_text: false
         subtitle: >-
           We are a brand and design practice. We work closely with you, your
           team to deliver inspiring work, which enables your organization to

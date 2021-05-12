@@ -345,6 +345,10 @@ collections:
                     name: image_alt
                     label: Image Alt
                     hint: A descrição da imagem do fundo
+                  - widght: boolean
+                    name: light_text
+                    label: Light text
+                    hint: O texto deve ser claro
                   - widget: list
                     name: actions
                     label: Ações 
