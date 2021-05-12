@@ -1,5 +1,5 @@
 ---
-title: "Comprar e vender ações: "
+title: Compra e venda de ações
 subtitle: como fazer de maneira lucrativa?
 date: 2021-05-12T20:28:32.041Z
 excerpt: "O mundo da renda variável pode ser um local de difícil exploração, não
