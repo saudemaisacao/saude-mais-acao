@@ -96,7 +96,7 @@ sections:
       ##### Inscreva-se na nossa newsletter e receba conteúdo gratuito. Comece a
       investir agora.
     form_id: form-newsletter
-    form_action: lorem-ipsum
+    form_action: enviar
     form_fields:
       - input_type: text
         name: seu-email@exemplo.com
