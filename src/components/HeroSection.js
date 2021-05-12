@@ -41,7 +41,7 @@ export default class HeroSection extends React.Component {
                      ))}
                     </ul>
                 )}
-            </ul>
+            </div>
              {_.map(_.get(section, 'hero_items', null), (item, item_idx) => (
                 <input key={item_idx} type="radio" className="cs_anchor radio" name="slider" id={item_idx}/>
              ))}
