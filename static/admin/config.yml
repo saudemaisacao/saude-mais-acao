@@ -8,7 +8,7 @@ collections:
     label: Configurações do site
     files:
       - name: config
-        label: Site Configuration
+        label: Configurações do site
         file: site-metadata.json
         fields:
           - widget: string
