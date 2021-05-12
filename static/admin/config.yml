@@ -1349,7 +1349,7 @@ collections:
             name: template
             label: Template
             required: true
-            default: blog 
+            default: cursos 
   - name: downloads
     label: Downloads
     files:
