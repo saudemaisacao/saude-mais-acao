@@ -8,10 +8,9 @@ sections:
     hero_items:
       - type: hero_item
         title: Parceria Start.se
-        subtitle: >-
-          We are a brand and design practice. We work closely with you, your
-          team to deliver inspiring work, which enables your organization to
-          grow. [Let's talk](/contact/).
+        subtitle: >
+          Uma empresa de educação pioneira quando o assunto é tecnologias
+          disruptivas.
         image: /images/bg-app.jpg
         image_alt: Item 1
         light_text: true
