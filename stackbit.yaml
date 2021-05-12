@@ -237,7 +237,6 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-
     downloads:
       type: page
       urlPath: /downloads
