@@ -18,7 +18,7 @@ collections:
             hint: Site title
           - widget: string
             name: domain
-            label: Domain
+            label: Domínio
             required: false
             hint: >-
               The domain of your site, including the protocol, e.g.
