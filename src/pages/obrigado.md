@@ -28,7 +28,7 @@ sections:
     subtitle: lorem-ipsum
     layout_style: mosaic
     items_number: 2
-    view_all_label: lorem-ipsum
+    view_all_label: Ver mais
     view_all_url: '#'
     type: portfolio_section
 template: advanced
