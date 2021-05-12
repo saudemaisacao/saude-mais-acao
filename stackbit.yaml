@@ -237,7 +237,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-    downloads:
+  downloads:
       type: page
       urlPath: /downloads
       label: Todos os cursos
