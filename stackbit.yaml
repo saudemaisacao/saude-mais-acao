@@ -237,9 +237,10 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-    cursos:
+
+    downloads:
     type: page
-    urlPath: /cursos
+    urlPath: /downloads
     label: Todos os cursos
     layout: cursos
     file: cursos/index.md
