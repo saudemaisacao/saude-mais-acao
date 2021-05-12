@@ -100,7 +100,7 @@ sections:
     type: portfolio_section
   - section_id: lorem-ipsum
     title: Receba conteúdo
-    subtitle: lorem-ipsum
+    subtitle: conheça nossa newsletter
     content: >
       ##### Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
