@@ -1165,7 +1165,7 @@ collections:
     files:
       - name: cursos
         label: Todos os cursos
-        file: src/pages/portfolio/index.md
+        file: src/pages/cursos/index.md
         fields:
           - widget: string
             name: title
