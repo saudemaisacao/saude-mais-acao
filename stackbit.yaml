@@ -13,7 +13,7 @@ logicFields:
   - downloads_section.items_number
   - posts_section.posts_number
   - advanced.sections.items_number
-  - advanced.sections.items_number
+  - advanced.sections.projects_number
   - advanced.sections.posts_number
 models:
   config:
