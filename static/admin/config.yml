@@ -1161,7 +1161,7 @@ collections:
             required: true
             default: blog
   - name: cursos
-    label: Portfolio
+    label: Todos os cursos
     files:
       - name: portfolio
         label: Portfolio
