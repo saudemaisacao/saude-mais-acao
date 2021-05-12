@@ -1,5 +1,5 @@
 ---
-title: Understanding Street Photography
+title: 'IPO de ações: entenda o que é a sigla e saiba como investir!'
 date: '2021-01-05'
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
