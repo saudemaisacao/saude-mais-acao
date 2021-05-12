@@ -5,6 +5,7 @@ import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
 import {withPrefix, htmlToReact, getPages} from '../utils';
+import DownloadsSection from '../components/DownloadsSection';
 import BlogFeedItem from '../components/BlogFeedItem';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
@@ -63,7 +64,8 @@ export default class Post extends React.Component {
                     (post_index_length > 0) && (
                     <nav key={post_item_idx} className="section section--posts">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">Read Next</h2>
+
+                        <h2 className="section__title line-top">Leia também</h2>
                         <div className="grid post-feed post-feed--col-two">
                           {(curr_index !== 0) && ((() => {
                               let prev_post = posts_sorted[prev_index];
