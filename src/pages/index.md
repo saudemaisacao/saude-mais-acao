@@ -77,7 +77,7 @@ sections:
     type: downloads_section
   - type: cta_section
     section_id: cta
-    title: Fale conosco
+    title: Alguma dúvida?
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
       about your project by getting started below.
