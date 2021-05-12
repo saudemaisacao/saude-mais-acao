@@ -1,13 +1,13 @@
 ---
-title: The Book
-subtitle: Editorial Design
-date: '2020-04-10'
-thumb_image: images/work-book-cover-1-thumb.jpg
-thumb_image_alt: The Book preview
+title: Enriquecer faz bem a saúde
+subtitle: Brand Development
+date: '2020-03-10'
+thumb_image: images/work-branding-1-thumb.jpg
+thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: images/work-book-cover-1.jpg
-    image_alt: The Book 1
+    image: images/work-branding-1.jpg
+    image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
   - type: text_section
@@ -21,8 +21,8 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-book-cover-2.jpg
-    image_alt: The Book 2
+    image: images/work-branding-2.jpg
+    image_alt: Aimi 2
     width: wide
   - type: text_section
     content: >-
@@ -31,8 +31,8 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-book-cover-3.jpg
-    image_alt: The Book 3
+    image: images/work-branding-3.jpg
+    image_alt: Aimi 3
     width: wide
   - type: text_section
     content: >-
@@ -46,30 +46,30 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: The Book
+  title: Aimi
   description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: The Book
+      value: Aimi
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-book-cover-1.jpg
+      value: images/work-branding-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Book
+      value: Aimi
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/work-book-cover-1.jpg
+      value: images/work-branding-1.jpg
       relativeUrl: true
-template: project
+template: curso
 ---

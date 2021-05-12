@@ -51,90 +51,33 @@ sections:
             new_window: false
             no_follow: false
             type: action
-  - type: grid_section
-    section_id: clients
-    title: Clientes
-    subtitle: A few of the companies we're proud to call partners
-    col_number: three
-    grid_items:
-      - type: grid_item
-        image: images/logo-1.svg
-        image_alt: Logo 1
-      - type: grid_item
-        image: images/logo-2.svg
-        image_alt: Logo 2
-      - type: grid_item
-        image: images/logo-3.svg
-        image_alt: Logo 3
-      - type: grid_item
-        image: images/logo-4.svg
-        image_alt: Logo 4
-      - type: grid_item
-        image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
-    section_id: services
-    title: Services
-    subtitle: What we do
-    col_number: three
-    grid_items:
-      - type: grid_item
-        title: Business design
-        image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - type: grid_item
-        title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - type: grid_item
-        title: Experience design
-        image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
-  - section_id: lorem-ipsum
-    title: Nossos cursos
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 2
-    view_all_label: Ver todos
-    view_all_url: '#'
-    type: portfolio_section
-  - type: portfolio_section
-    section_id: latest-projects
-    title: e-Books
-    subtitle: Faça o download de conteúdo rico gratuitamente
-    layout_style: tiles
-    projects_number: 2
-    view_all_label: Ver todos
-    view_all_url: portfolio
-  - section_id: lorem-ipsum
+
+  - section_id: blog
     title: Últimas notícias
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
     actions: []
     type: posts_section
+
+  - section_id: cursos
+    title: Nossos cursos
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    items_number: 2
+    view_all_label: Ver todos
+    view_all_url: cursos
+    type: portfolio_section
+
+  - section_id: downloads
+    title: e-Books
+    subtitle: Faça o download de conteúdo rico gratuitamente
+    layout_style: tiles
+    items_number: 2
+    view_all_label: Ver todos
+    view_all_url: downloads
+    type: downloads_section
+
   - type: cta_section
     section_id: cta
     title: Fale conosco

@@ -12,9 +12,15 @@ import Header from './Header';
 import HeroSection from './HeroSection';
 import Icon from './Icon';
 import ImageSection from './ImageSection';
+
 import PortfolioItem from './PortfolioItem';
 import PortfolioSection from './PortfolioSection';
+
+import DownloadItem from './DownloadItem';
+import DownloadsSection from './DownloadsSection';
+
 import PostsSection from './PostsSection';
+
 import TestimonialsSection from './TestimonialsSection';
 import TextSection from './TextSection';
 import Layout from './Layout';
@@ -36,6 +42,8 @@ export {
     ImageSection,
     PortfolioItem,
     PortfolioSection,
+    DownloadsSection,
+    DownloadItem,
     PostsSection,
     TestimonialsSection,
     TextSection,
@@ -59,6 +67,8 @@ export default {
     ImageSection,
     PortfolioItem,
     PortfolioSection,
+    DownloadsSection,
+    DownloadItem,
     PostsSection,
     TestimonialsSection,
     TextSection,

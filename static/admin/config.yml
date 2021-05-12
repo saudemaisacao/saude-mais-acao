@@ -4,6 +4,7 @@ backend:
 media_folder: static/images
 public_folder: /images
 collections:
+
   - name: config
     label: Configurações do site
     files:
@@ -411,6 +412,7 @@ collections:
                 required: true
                 hint: The type of the object
                 default: hero_section
+          
           - name: content_section
             widget: object
             label: Content Section
@@ -453,6 +455,7 @@ collections:
                 required: true
                 hint: The type of the object
                 default: content_section
+          
           - name: cta_section
             widget: object
             label: CTA Section
@@ -554,6 +557,7 @@ collections:
                 required: true
                 hint: The type of the object
                 default: cta_section
+         
           - name: grid_section
             widget: object
             label: Grid Section
@@ -681,9 +685,10 @@ collections:
                 required: true
                 hint: The type of the object
                 default: grid_section
+          
           - name: portfolio_section
             widget: object
-            label: Portfolio Section
+            label: Cursos Section
             fields:
               - widget: string
                 name: section_id
@@ -712,7 +717,7 @@ collections:
                   - mosaic
                   - tiles
               - widget: number
-                name: projects_number
+                name: items_number
                 label: Number of projects to display
                 required: true
                 valueType: int
@@ -732,6 +737,59 @@ collections:
                 required: true
                 hint: The type of the object
                 default: portfolio_section
+          
+          - name: downloads_section
+            widget: object
+            label: Downloads Section
+            fields:
+              - widget: string
+                name: section_id
+                label: ID
+                required: false
+                hint: >-
+                  A unique identifier of the section, must not contain
+                  whitespace
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of the section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section
+              - widget: select
+                name: layout_style
+                label: Layout Style
+                required: true
+                default: mosaic
+                hint: The layout style of the projects section
+                options:
+                  - mosaic
+                  - tiles
+              - widget: number
+                name: items_number
+                label: Number of projects to display
+                required: true
+                valueType: int
+              - widget: string
+                name: view_all_label
+                label: All projects button label
+                required: false
+                hint: The text displayed inside the button
+              - widget: string
+                name: view_all_url
+                label: All projects button URL
+                required: false
+                default: '#'
+              - widget: hidden
+                name: type
+                label: Object Type
+                required: true
+                hint: The type of the object
+                default: downloads_section
+
           - name: posts_section
             widget: object
             label: Posts Section
@@ -829,6 +887,7 @@ collections:
                 required: true
                 hint: The type of the object
                 default: posts_section
+          
           - name: testimonials_section
             widget: object
             label: Testimonials Section
@@ -892,6 +951,7 @@ collections:
                 required: true
                 hint: The type of the object
                 default: testimonials_section
+          
           - name: form_section
             widget: object
             label: Form Section
@@ -1000,6 +1060,7 @@ collections:
                 required: true
                 hint: The type of the object
                 default: form_section
+      
       - widget: object
         name: seo
         label: Seo
@@ -1184,12 +1245,12 @@ collections:
             label: Template
             required: true
             default: blog
-  - name: portfolio
-    label: Portfolio
+  - name: downloads
+    label: Downloads
     files:
-      - name: portfolio
-        label: Portfolio
-        file: src/pages/portfolio/index.md
+      - name: downloads
+        label: Downloads
+        file: src/pages/downloads/index.md
         fields:
           - widget: string
             name: title
@@ -1289,7 +1350,114 @@ collections:
             name: template
             label: Template
             required: true
+            default: downloads
+  - name: cursos
+    label: Cursos
+    files:
+      - name: cursos
+        label: Cursos
+        file: src/pages/cursos/index.md
+        fields:
+          - widget: string
+            name: title
+            label: Title
+            required: true
+            hint: O título da página
+          - widget: string
+            name: subtitle
+            label: Subtitle
+            required: false
+            hint: O texto mostrado logo abaixo do título
+          - widget: boolean
+            name: hide_title
+            label: Hide page title and subtitle
+            required: false
+            default: false
+          - widget: select
+            name: layout_style
+            label: Layout style
+            required: false
+            default: mosaic
+            hint: The style of the portfolio layout
+            options:
+              - mosaic
+              - tiles
+          - widget: object
+            name: seo
+            label: Seo
+            required: false
+            fields:
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                default: ''
+                hint: The page title that goes into the <title> tag
+              - widget: string
+                name: description
+                label: Description
+                required: false
+                default: ''
+                hint: >-
+                  The page description that goes into the <meta
+                  name="description"> tag
+              - widget: list
+                name: robots
+                label: Robots
+                required: false
+                hint: The items that go into the <meta name="robots"> tag
+                field:
+                  label: Select
+                  name: select
+                  widget: select
+                  options:
+                    - all
+                    - index
+                    - follow
+                    - noindex
+                    - nofollow
+                    - noimageindex
+                    - notranslate
+                    - none
+              - widget: list
+                name: extra
+                label: Extra
+                required: false
+                hint: >-
+                  Additional definition for specific meta tags such as
+                  open-graph, twitter, etc.
+                fields:
+                  - widget: string
+                    name: name
+                    label: Name
+                    required: false
+                    default: ''
+                  - widget: string
+                    name: value
+                    label: Value
+                    required: false
+                    default: ''
+                  - widget: string
+                    name: keyName
+                    label: Key Name
+                    required: false
+                    default: name
+                  - widget: boolean
+                    name: relativeUrl
+                    label: Relative Url
+                    required: false
+              - widget: hidden
+                name: type
+                label: Object Type
+                required: true
+                hint: The type of the object
+                default: stackbit_page_meta
+          - widget: hidden
+            name: template
+            label: Template
+            required: true
             default: portfolio
+
   - name: page
     label: Pages
     folder: src/pages
@@ -1534,8 +1702,8 @@ collections:
       field: template
       value: post
   - name: project
-    label: Projects
-    folder: src/pages/portfolio
+    label: Cursos
+    folder: src/pages/cursos
     create: true
     extension: md
     identifier_field: title
@@ -1699,3 +1867,169 @@ collections:
     filter:
       field: template
       value: project
+  - name: ebook
+    label: Downloads
+    folder: src/pages/downloads
+    create: true
+    extension: md
+    identifier_field: title
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    fields:
+      - widget: string
+        name: title
+        label: Título
+        required: true
+        hint: O título do ebook
+      - widget: string
+        name: subtitle
+        label: Subtítulo
+        required: false
+        hint: The text shown just below the project title
+      - widget: date
+        name: date
+        label: Data
+        required: true
+      - widget: image
+        name: thumb_image
+        label: Thumbnail image
+        required: false
+        hint: The image shown in the portfolio grid
+      - widget: string
+        name: thumb_image_alt
+        label: Thumbnail image alt text
+        required: false
+        hint: The alt text of the thumbnail image
+      - widget: list
+        name: sections
+        label: Sections
+        required: false
+        hint: Project sections
+        types:
+          - name: image_section
+            widget: object
+            label: Image Section
+            fields:
+              - widget: image
+                name: image
+                label: Image
+                required: false
+                hint: The image of the section
+              - widget: string
+                name: image_alt
+                label: Image Alt Text
+                required: false
+                hint: The alt text of the section image
+              - widget: string
+                name: caption
+                label: Caption
+                required: false
+                hint: The caption of the image
+              - widget: select
+                name: width
+                label: Width
+                required: true
+                default: regular
+                hint: The width of the image
+                options:
+                  - regular
+                  - wide
+              - widget: hidden
+                name: type
+                label: Object Type
+                required: true
+                hint: The type of the object
+                default: image_section
+          - name: text_section
+            widget: object
+            label: Text Section
+            fields:
+              - widget: markdown
+                name: content
+                label: Content
+                required: false
+                hint: The text content of the section
+              - widget: hidden
+                name: type
+                label: Object Type
+                required: true
+                hint: The type of the object
+                default: text_section
+      - widget: object
+        name: seo
+        label: Seo
+        required: false
+        fields:
+          - widget: string
+            name: title
+            label: Title
+            required: false
+            default: ''
+            hint: The page title that goes into the <title> tag
+          - widget: string
+            name: description
+            label: Description
+            required: false
+            default: ''
+            hint: >-
+              The page description that goes into the <meta name="description">
+              tag
+          - widget: list
+            name: robots
+            label: Robots
+            required: false
+            hint: The items that go into the <meta name="robots"> tag
+            field:
+              label: Select
+              name: select
+              widget: select
+              options:
+                - all
+                - index
+                - follow
+                - noindex
+                - nofollow
+                - noimageindex
+                - notranslate
+                - none
+          - widget: list
+            name: extra
+            label: Extra
+            required: false
+            hint: >-
+              Additional definition for specific meta tags such as open-graph,
+              twitter, etc.
+            fields:
+              - widget: string
+                name: name
+                label: Name
+                required: false
+                default: ''
+              - widget: string
+                name: value
+                label: Value
+                required: false
+                default: ''
+              - widget: string
+                name: keyName
+                label: Key Name
+                required: false
+                default: name
+              - widget: boolean
+                name: relativeUrl
+                label: Relative Url
+                required: false
+          - widget: hidden
+            name: type
+            label: Object Type
+            required: true
+            hint: The type of the object
+            default: stackbit_page_meta
+      - widget: hidden
+        name: template
+        label: Template
+        required: true
+        default: ebook
+    filter:
+      field: template
+      value: ebook

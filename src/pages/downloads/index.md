@@ -1,11 +1,11 @@
 ---
 title: Downloads
-subtitle: Faça o download de conteúdo rico gratuitamente
+subtitle: Faça o download de conteúdo rico sobre investimentos gratuitamente
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
   title: Downloads
-  description: Faça o download de conteúdo rico gratuitamente
+  description: Faça o download de conteúdo rico sobre investimentos para médicos gratuitamente
   extra:
     - name: 'og:type'
       value: website
@@ -29,5 +29,5 @@ seo:
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true
-template: portfolio
+template: downloads
 ---

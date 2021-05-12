@@ -4,7 +4,7 @@ import _ from 'lodash';
 import {getPages, Link, withPrefix} from '../utils';
 import PortfolioItem from './PortfolioItem';
 
-export default class CursosSection extends React.Component {
+export default class PortfolioSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let layout_style = _.get(section, 'layout_style', null) || 'mosaic';
