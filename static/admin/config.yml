@@ -1140,9 +1140,6 @@ collections:
       value: advanced
   - name: blog
     label: Blog
-    folder: src/blog
-    create: true
-    extension: md
     files:
       - name: blog
         label: Blog
