@@ -1,5 +1,5 @@
 ---
-title: Enriquecer faz bem a saúde
+title: Enriquecer faz bem a saúde 2
 subtitle: Curso
 date: 2020-02-10
 thumb_image: images/work-poster-1-thumb.jpg

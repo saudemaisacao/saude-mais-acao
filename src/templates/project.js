@@ -18,7 +18,7 @@ export const query = graphql`
 
 export default class Project extends React.Component {
     render() {
-        let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/portfolio'), 'frontmatter.date', 'desc');
+        let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/cursos'), 'frontmatter.date', 'desc');
         let project_item_len = _.size(projects_sorted);
         return (
             <Layout {...this.props}>
@@ -54,7 +54,7 @@ export default class Project extends React.Component {
                     (project_index_length > 0) && (
                     <nav key={project_item_idx} className="section section--portfolio">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">More Projects</h2>
+                        <h2 className="section__title line-top">Mais cursos</h2>
                         <div className="grid portfolio-feed portfolio-feed--tiles">
                           {(curr_index !== 0) && ((() => {
                               let prev_project = projects_sorted[prev_index];

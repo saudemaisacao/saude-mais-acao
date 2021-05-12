@@ -54,18 +54,18 @@ export default class Download extends React.Component {
                     (project_index_length > 0) && (
                     <nav key={download_item_idx} className="section section--portfolio">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">More Projects</h2>
+                        <h2 className="section__title line-top">Mais downloads</h2>
                         <div className="grid portfolio-feed portfolio-feed--tiles">
                           {(curr_index !== 0) && ((() => {
-                              let prev_project = downloads_sorted[prev_index];
+                              let prev_download = downloads_sorted[prev_index];
                               return (
-                                <DownloadItem {...this.props} project_page={prev_project} />
+                                <DownloadItem {...this.props} download_page={prev_download} />
                               );
                           })())}
                           {(curr_index < project_index_length) && ((() => {
-                              let next_project = downloads_sorted[next_index];
+                              let next_download = downloads_sorted[next_index];
                               return (
-                                <DownloadItem {...this.props} project_page={next_project} />
+                                <DownloadItem {...this.props} project_page={next_download} />
                               );
                           })())}
                         </div>
