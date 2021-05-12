@@ -37,7 +37,7 @@ sections:
       - type: form_field
         input_type: email
         name: email
-        label: Email
+        label: E-mail
         default_value: Your email address
         is_required: true
       - type: form_field
