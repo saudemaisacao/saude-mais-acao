@@ -1353,8 +1353,8 @@ collections:
   - name: downloads
     label: Downloads
     files:
-      - name: blog
-        label: Blog
+      - name: downloads
+        label: Downloads
         file: src/pages/downloads/index.md
         fields:
           - widget: string
