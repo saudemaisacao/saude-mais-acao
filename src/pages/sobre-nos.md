@@ -6,13 +6,13 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
-      > Nossa missão é cuidar da saúde financeira daqueles que cuidam da saúde
-      das pessoas.
+      > foco no cliente, organização, transparência, ética e eficiência.
 
 
       A Saúde Mais Ação é uma empresa que foi criada por médicos com o objetivo
       de auxiliar todos os profissionais da saúde a cuidarem adequadamente de
-      suas finanças pessoais e das finanças de seus consultórios.
+      suas finanças pessoais e das finanças de seus consultórios. Nossa missão é
+      cuidar da saúde financeira daqueles que cuidam da saúde das pessoas.
 
 
       O maior objetivo da Saúde + Ação: Educação e Planejamento Financeiro é
@@ -20,19 +20,9 @@ sections:
       independência financeira.
 
 
-      ### Visão
-
-
-      Tornar-se referência na formação de investidores, na orientação de seus
-      investimentos, no cuidado e evolução de seu patrimônio financeiro de
-      profissionais da área da saúde.
-
-
-      ### Valores
-
-
-      Conhecimento financeiro, foco no cliente, organização, transparência,
-      ética e eficiência.
+      A nossa visão é tornarmo-nos referência na formação de investidores, na
+      orientação de seus investimentos, no cuidado e evolução de seu patrimônio
+      financeiro de profissionais da área da saúde.
   - type: grid_section
     section_id: team
     title: Os experts
