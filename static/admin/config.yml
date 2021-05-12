@@ -1511,7 +1511,7 @@ collections:
       value: post
   - name: project
     label: Cursos
-    folder: src/pages/portfolio
+    folder: src/pages/cursos
     create: true
     extension: md
     identifier_field: title
