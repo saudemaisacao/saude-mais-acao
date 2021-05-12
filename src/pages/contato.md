@@ -4,59 +4,47 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >-
-      Let’s build something great together.<br>
-
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
-
+    content: |
+      Entre em contato conosco e responderemos o mais breve possível!
+      Complete o formulário para enviar um e-mail para <email@example.com>.
 
       ***
 
+      ## Nós estamos em
 
-      ## Our Offices
-
-
-      ### San Francisco
+      ### Cidade
 
       1234 Some St.<br>
-
       San Francisco, CA 12345<br>
-
       1-234-556-7890<br>
+      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
+      ### Cidade
 
       1234 Some St.<br>
-
       New York, NY 12345<br>
-
       1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
-    form_action: /thank-you
+    form_action: /obrigado
     form_fields:
       - type: form_field
         input_type: text
         name: name
-        label: Name
+        label: Nome
         default_value: Your name
         is_required: true
       - type: form_field
         input_type: email
         name: email
-        label: Email
+        label: E-mail
         default_value: Your email address
         is_required: true
       - type: form_field
         input_type: select
         name: subject
-        label: What services are you looking for?
-        default_value: Please select
+        label: Qual o assunto?
+        default_value: 'Por favor, selecione'
         options:
           - Branding
           - Design
@@ -64,15 +52,16 @@ sections:
       - type: form_field
         input_type: textarea
         name: message
-        label: Message
+        label: Mensagem
         default_value: Your message
       - type: form_field
         input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Eu aceito que esse formulário colete os dados que forneci para entrar
+          em contato comigo.
+    submit_label: Enviar mensagem
+    title: Alguma dúvida?
 seo:
   type: stackbit_page_meta
   title: Contact
