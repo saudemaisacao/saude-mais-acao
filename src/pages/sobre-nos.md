@@ -30,7 +30,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Dr. Francisnaldo Gomes
+        title: Dr. Francinaldo Gomes
         subtitle: 'Co-Founder, Creative Director'
         image: images/team-1.png
         content: >-
