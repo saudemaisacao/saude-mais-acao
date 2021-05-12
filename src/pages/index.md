@@ -40,6 +40,20 @@ sections:
             new_window: false
             no_follow: false
             type: action
+  - type: cta_section
+    section_id: cta
+    title: Fale conosco
+    content: >-
+      Say hello at [email@example.com](mailto:email@example.com) or tell us more
+      about your project by getting started below.
+    actions:
+      - type: action
+        label: Começar
+        url: /contact
+        style: button
+    image: images/cta.svg
+    image_alt: Illustration
+    bg_color: light
   - section_id: lorem-ipsum
     title: Últimas notícias
     subtitle: lorem-ipsum
@@ -124,20 +138,6 @@ sections:
     projects_number: 2
     view_all_label: Ver todos
     view_all_url: portfolio
-  - type: cta_section
-    section_id: cta
-    title: Fale conosco
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
-    actions:
-      - type: action
-        label: Começar
-        url: /contact
-        style: button
-    image: images/cta.svg
-    image_alt: Illustration
-    bg_color: light
   - section_id: lorem-ipsum
     title: Receba conteúdo
     subtitle: lorem-ipsum
