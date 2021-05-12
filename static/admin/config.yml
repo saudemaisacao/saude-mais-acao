@@ -281,7 +281,7 @@ collections:
                 hint: The type of the object
                 default: footer
   - name: advanced
-    label: Advanced Pages
+    label: Páginas avançadas
     folder: src/pages
     create: true
     extension: md
