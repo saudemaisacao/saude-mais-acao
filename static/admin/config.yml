@@ -1351,7 +1351,7 @@ collections:
             required: true
             default: blog 
   - name: downloads
-    label: Blog
+    label: Downloads
     files:
       - name: blog
         label: Blog
