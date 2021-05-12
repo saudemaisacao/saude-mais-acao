@@ -31,7 +31,7 @@
             {
                 "type": "action",
                 "label": "Sobre nós",
-                "url": "/about/",
+                "url": "/sobre-nos/",
                 "style": "link"
             },
             {
