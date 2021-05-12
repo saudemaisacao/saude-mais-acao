@@ -356,8 +356,8 @@ models:
     type: page
       urlPath: '/downloads/{slug}'
       label: Project
-      layout: project
-      folder: cursos
+      layout: download
+      folder: downloads
       hideContent: true
       fields:
         - type: string
