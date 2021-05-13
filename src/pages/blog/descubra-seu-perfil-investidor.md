@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: post
 date: '2018-02-11'
+thumb_image: /images/post1x960-1.jpg
 ---
 ## Lorem ipsum
 
