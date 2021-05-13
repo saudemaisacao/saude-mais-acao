@@ -341,6 +341,11 @@ collections:
                     label: Imagem
                     required: true
                     hint: A imagem de fundo do item
+                  - widget: image
+                    name: image
+                    label: Imagem
+                    required: true
+                    hint: A imagem de fundo do item
                   - widget: string
                     name: image_alt
                     label: Image Alt
