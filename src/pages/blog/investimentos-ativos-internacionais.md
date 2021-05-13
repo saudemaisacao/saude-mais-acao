@@ -1,6 +1,5 @@
 ---
 title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
-subtitle: lorem-ipsum
 date: '2018-12-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
