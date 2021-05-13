@@ -35,7 +35,9 @@ export default class HeroSection extends React.Component {
                             />
                             )}
                             <div className="hero__container container--lg">
-                                <div></div>
+                                <div>
+                                    <imag>
+                                </div>
                                 <div className="hero__bottom">
                                 {_.get(item, 'title', null) && (
                                 <h1 className={'hero__title ' + _.get(item, 'light_text', null)}>{_.get(item, 'title', null)}</h1>
