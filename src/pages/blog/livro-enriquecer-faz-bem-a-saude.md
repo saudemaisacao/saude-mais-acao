@@ -1,6 +1,5 @@
 ---
 title: Press Release livro enriquecer faz bem à saúde
-date: '2021-05-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
