@@ -1,6 +1,5 @@
 ---
 title: 'Dólar em alta: 5 aplicações financeiras para ganhar dinheiro'
-subtitle: lorem-ipsum
 thumb_image_alt: dolar
 image_alt: lorem-ipsum
 excerpt: >-
