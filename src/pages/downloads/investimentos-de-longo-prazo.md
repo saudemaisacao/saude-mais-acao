@@ -9,7 +9,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         background: /images/melodic-triceratops.png
-        light_text: 'true'
+        light_text: 'false'
         subtitle: |
           Guia prático para garantir um futuro mais tranquilo
     type: hero_section
