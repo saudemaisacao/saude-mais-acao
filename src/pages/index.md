@@ -31,7 +31,7 @@ sections:
         image_alt: App saúde investimentos
         light_text: true
         actions:
-          - label: saiba mais
+          - label: Google Play
             url: '#'
             style: link
             icon: instagram
