@@ -377,7 +377,7 @@ models:
         description: The alt text of the thumbnail image
       - type: list
         name: sections
-        label: Sections
+        label: Seções
         description: Project sections
         items:
           type: model
