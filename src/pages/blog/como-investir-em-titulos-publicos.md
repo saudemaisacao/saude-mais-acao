@@ -14,6 +14,7 @@ template: post
 date: '2018-06-10'
 thumb_image: >-
   /images/247329-como-investir-em-titulos-publicos-atraves-do-tesouro-direto-descubra-aqui.jpg
+image: /images/groovy-olive.jpg
 ---
 ## Lorem ipsum
 
