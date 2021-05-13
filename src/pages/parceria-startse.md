@@ -189,8 +189,8 @@ sections:
         image: /images/transformacao@2x.jpg
       - title: Cultura de Inovação para Resultado
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Gere Engajamento em Todas as Áreas da Sua Empresa e Transforme Tudo
+          Isso em Resultados
         image_alt: curso
         content: null
         actions: []
