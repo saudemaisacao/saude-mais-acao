@@ -80,7 +80,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/decodificando-china@2x.jpg
-      - title: lorem-ipsum
+      - title: Executive Program
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
