@@ -62,8 +62,8 @@ sections:
         image: /images/perpetual-elm.jpg
       - title: LGPD na prática
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Como aplicar a LGPD de maneira simples para blindar sua empresa contra
+          multas milionárias e conquistar a confiança de seus clientes
         image_alt: curso
         content: null
         actions: []
