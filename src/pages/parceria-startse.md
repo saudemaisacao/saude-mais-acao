@@ -161,8 +161,8 @@ sections:
         image: /images/important-europa.jpg
       - title: Decodificando a China
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Aprenda a fazer negócios com quem carrega as maiores oportunidades do
+          mercado global
         image_alt: curso
         content: null
         actions: []
