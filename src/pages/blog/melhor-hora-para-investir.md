@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/6_1600x700-1.jpg
+image: /images/remarkable-thyme.jpg
 ---
 ## Lorem ipsum
 
