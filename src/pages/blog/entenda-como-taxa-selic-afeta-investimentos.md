@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2018-12-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a\_pergunta é necessário explicar o que quer dizer essa taxa."
 seo:
   title: ''
   description: ''
