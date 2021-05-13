@@ -151,8 +151,8 @@ models:
         default: true
       - type: list
         name: sections
-        label: Sections
-        description: Page sections
+        label: Seções
+        description: Seções da página
         items:
           type: model
           models:
