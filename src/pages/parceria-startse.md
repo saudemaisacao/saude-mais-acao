@@ -164,6 +164,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/smart-wallaby.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
