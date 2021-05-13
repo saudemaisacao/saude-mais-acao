@@ -378,7 +378,7 @@ models:
       - type: list
         name: sections
         label: Seções
-        description: Project sections
+        description: Seção de cursos
         items:
           type: model
           models:
