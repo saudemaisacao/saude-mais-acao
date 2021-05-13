@@ -79,6 +79,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/decodificando-china@2x.jpg
     type: grid_section
 seo:
   title: ''
