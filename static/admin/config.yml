@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: preview
   accept_roles: #optional - accepts all users if left out
-    - administrador
+    - admin
     - editor
 localbackend: true
 publish_mode: editorial_workflow
