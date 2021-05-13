@@ -74,7 +74,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/best-eucalyptus.jpg
       - title: A jornada do empreendedor
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
