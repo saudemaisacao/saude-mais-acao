@@ -90,8 +90,8 @@ sections:
         image: /images/fabulous-lavender.jpg
       - title: Educação 4.0
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Acabe com 100 anos de ineficiência e crie soluções capazes de
+          transformar o Ensino no Brasil.
         image_alt: curso
         content: null
         actions: []
