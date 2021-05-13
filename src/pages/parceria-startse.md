@@ -22,11 +22,14 @@ sections:
     col_number: three
     grid_items:
       - title: Construtech Masters
-        subtitle: Como as startups e as novas tecnologias estão transformando o universo da construção civil
+        subtitle: >-
+          Como as startups e as novas tecnologias estão transformando o universo
+          da construção civil
         image_alt: curso
-        content:
+        content: null
         actions: []
         type: grid_item
+        image: /images/caring-aspen.jpg
     type: grid_section
 seo:
   title: ''
