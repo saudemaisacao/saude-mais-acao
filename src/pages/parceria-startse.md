@@ -128,7 +128,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/legal-class@2x.jpg
       - title: Reinvente sua carreira
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
