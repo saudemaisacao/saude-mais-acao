@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Enriquecer faz bem a saúde
 hide_title: true
 sections: []
 seo:
