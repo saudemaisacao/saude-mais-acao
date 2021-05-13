@@ -17,12 +17,12 @@ logicFields:
 models:
   config:
     type: config
-    label: Site Configuration
+    label: Configurações do site
     fields:
       - type: string
         name: title
-        label: Title
-        description: Site title
+        label: Título
+        description: Título do site
         required: true
       - type: string
         name: domain
