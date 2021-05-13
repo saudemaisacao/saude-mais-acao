@@ -46,7 +46,7 @@ models:
       - type: enum
         name: accent_color
         label: Cor de destaque
-        description: The accent color of the site
+        description: A cor de destaque do seu site
         options:
           - pink
           - green
