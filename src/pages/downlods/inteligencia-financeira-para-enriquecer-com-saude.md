@@ -20,6 +20,7 @@ sections:
         image_alt: lorem-ipsum
         light_text: lorem-ipsum
         actions: []
+        background: /images/instagramArtboard 1 copy.png
     type: hero_section
 seo:
   title: ''
