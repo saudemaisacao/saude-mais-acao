@@ -1587,13 +1587,6 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     fields:
-      - widget: relation
-        name: author
-        label: Autor
-        collection: authors
-        search_fields: ["name.first", "twitterHandle"]
-        value_field: name.first
-        display_fields: ["twitterHandle", "followerCount"]
       - widget: string
         name: title
         label: Title
