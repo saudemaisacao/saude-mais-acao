@@ -10,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+date: '2018-09-11'
 ---
 Não importa qual a sua profissão ou quanto você ganha. Chegará o dia em que você terá que parar de trabalhar seja por vontade própria ou não. E terá que tirar dinheiro de algum lugar para manter seu padrão de vida. Não dá para contar com o governo, com os [bancos](https://economia.uol.com.br/noticias/redacao/2018/11/08/lucro-bancos-balanco-economatica.htm) ou mesmo com os filhos. Cabe a você, enquanto ainda jovem saudável e ativo, conquistar a manter a sua saúde financeira. Uma pessoa que não cuida das suas finanças passará o resto da vida trabalhando para enriquecer terceiros e não para seu próprio enriquecimento.
 
