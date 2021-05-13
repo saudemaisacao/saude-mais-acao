@@ -170,8 +170,9 @@ sections:
         image: /images/adorable-daffodil.jpg
       - title: Os Pilares do sucesso do amanhã
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Aprenda o melhor modelo de gestão para adaptar sua empresa às
+          tendências do seu nicho, inovando e mantendo o crescimento constante
+          do seu negócio
         image_alt: curso
         content: null
         actions: []
