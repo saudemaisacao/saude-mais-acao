@@ -189,8 +189,9 @@ sections:
         image: /images/transformacao@2x.jpg
       - title: Cultura de Inovação para Resultado
         subtitle: >-
-          Gere Engajamento em Todas as Áreas da Sua Empresa e Transforme Tudo
-          Isso em Resultados
+          Aplique no Seu Negócio O Mesmo Sistema de Partnership (Sociedade)
+          utilizado por empresas bilionárias como XP Investimentos, Ambev e
+          Goldman Sachs
         image_alt: curso
         content: null
         actions: []
