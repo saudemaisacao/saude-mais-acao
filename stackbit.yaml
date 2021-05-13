@@ -165,6 +165,10 @@ models:
             - posts_section
             - testimonials_section
             - form_section
+      - type: image
+        name: thumb_image
+        label: Thumbnail image
+        description: The image shown in the portfolio grid
       - type: model
         name: seo
         models:
