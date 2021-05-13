@@ -13,7 +13,7 @@ sections:
     type: hero_section
   - section_id: lorem-ipsum
     title: Você também vai gostar
-    subtitle: lorem-ipsum
+    subtitle: Outros downloads gratuitos
     layout_style: tiles
     items_number: 2
     view_all_label: lorem-ipsum
