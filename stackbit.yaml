@@ -270,7 +270,7 @@ models:
   post:
     type: page
     urlPath: '/blog/{slug}'
-    label: Post
+    label: Postagem
     layout: post
     folder: blog
     fields:
