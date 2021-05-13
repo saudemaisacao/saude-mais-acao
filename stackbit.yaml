@@ -93,7 +93,7 @@ models:
         description: The alt text of the logo image
       - type: boolean
         name: has_nav
-        label: Enable navigation menu
+        label: Ativar menu de navegação
         description: Display the navigation menu bar in the header
         default: true
       - type: list
