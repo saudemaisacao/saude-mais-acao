@@ -105,7 +105,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/ia-negocios@2x.jpg
-      - title: lorem-ipsum
+      - title: Sociedade & Cultura For Business
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
