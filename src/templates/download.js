@@ -73,8 +73,9 @@ export default class Download extends React.Component {
                         <h2 className="section__title line-top">Nossos cursos</h2>
                         <p className="section__subtitle"></p>
                         <div></div>
+                        <div className="extra-section">
                         <CursosSection {...this.props} className="extra-section" />
-
+                        </div>
                       </div>
                     </nav>
                     )

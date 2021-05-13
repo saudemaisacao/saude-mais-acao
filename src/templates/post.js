@@ -82,7 +82,9 @@ export default class Post extends React.Component {
             
                         <h2 className="section__title line-top">e-Books gratuitos</h2>
                         <p className="section__subtitle"></p>
-                        <DownloadsSection {...this.props} className="extra-section" />
+                        <div className="extra-section">
+                        <DownloadsSection {...this.props} />
+                        </div>
                       </div>
                     </nav>
                     )
