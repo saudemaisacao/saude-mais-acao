@@ -34,7 +34,7 @@ sections:
           - label: Google Play
             url: >-
               https://play.google.com/store/apps/details?id=com.bredi.saudeinvestimentos
-            style: link
+            style: button
             icon: instagram
             new_window: false
             no_follow: false
