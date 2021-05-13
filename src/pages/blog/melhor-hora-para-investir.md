@@ -28,7 +28,9 @@ Qual é a melhor hora para [investir](https://saudemaisacao.com.br/investimento
 
 Os [juros compostos](https://saudemaisacao.com.br/blog/dinheiro-trabalhar-por-voce-riqueza/) são usados para calcular o rendimento dos investimentos. E nessa modalidade de juros, o diferencial é o tempo. Portanto, quanto mais cedo começar a investir, maior será o ganho, porque o tempo estará a favor. E o efeito do tempo sobre o rendimento não é linear e, sim, exponencial.
 
-Está interessado em saber mais sobre o assunto? Neste post, explicaremos qual é a importância de conhecer os investimentos,  estabelecer objetivos e conhecer os riscos das aplicações financeiras. Continue lendo\![
+Está interessado em saber mais sobre o assunto? Neste post, explicaremos qual é a importância de conhecer os investimentos,  estabelecer objetivos e conhecer os riscos das aplicações financeiras. Continue lendo!
+
+![](/images/Juros_Compostos-2-600x600.jpg)[
 ](http://saudemaisacao.com.br/parceiros/?utm_source=cta-parceiros\&utm_medium=blog\&utm_campaign=cta-parceiros)
 
 ## **Qual é a importância de conhecer os investimentos?**
