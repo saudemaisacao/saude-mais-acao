@@ -1,6 +1,6 @@
 ---
 title: Como investir em títulos públicos por meio do tesouro direto?
-subtitle: lorem-ipsum
+subtitle: Descubra aqui!
 date: '2021-05-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
