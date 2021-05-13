@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: A Saúde Mais Ação fez uma parceria com a StartSe
 hide_title: true
 sections: []
 seo:
