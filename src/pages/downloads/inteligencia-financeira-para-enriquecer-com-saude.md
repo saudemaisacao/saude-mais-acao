@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Inteligência financeira para Enriquecer com Saúde
 hide_title: true
 sections: []
 seo:
