@@ -322,7 +322,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the project
+        description: O título do curso
         required: true
       - type: string
         name: subtitle
