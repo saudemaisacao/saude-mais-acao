@@ -2,7 +2,7 @@
 title: Press Release livro enriquecer faz bem à saúde
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "No Livro Enriquecer Faz Bem à Saúde o Dr. Francinaldo\_Gomes mostra, de forma clara e objetiva, uma estratégia vencedora de criação e multiplicação de riqueza."
 seo:
   title: ''
   description: ''
