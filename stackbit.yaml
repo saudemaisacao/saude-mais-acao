@@ -321,7 +321,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Título
         description: O título do curso
         required: true
       - type: string
