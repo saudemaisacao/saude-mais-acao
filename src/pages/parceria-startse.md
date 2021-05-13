@@ -206,9 +206,7 @@ sections:
         type: grid_item
         image: /images/marvelous-strawberry.jpg
       - title: Executive Program
-        subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+        subtitle: Programa de Gestão para Empresários e C-levels
         image_alt: curso
         content: null
         actions: []
