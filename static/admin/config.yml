@@ -1467,7 +1467,8 @@ collections:
             default: cursos
   - author:
     label: Autores
-    files:  - name: cursos
+    files:  
+      - name: cursos
         label: Todos os cursos
         file: src/pages/cursos/index.md
         fields:
