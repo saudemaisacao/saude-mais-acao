@@ -9,13 +9,7 @@ image_alt: lorem-ipsum
 excerpt: >-
   Qual é a melhor hora para investir? Com o propósito de multiplicar riqueza,
   não importa a profissão, os objetivos, o montante que se ganha ou mesmo se
-  você é patrão ou empregado. Investir significa multiplicar o patrimônio para
-  melhorar o bem-estar, a qualidade de vida, realizar seus sonhos, proporcionar
-  tranquilidade e, claro, dar uma boa qualidade de vida a seus entes queridos. 
-  Os juros compostos são usados para calcular o rendimento dos investimentos. E
-  nessa modalidade de juros, o diferencial é o tempo. Portanto, quanto mais cedo
-  começar a investir, maior será o ganho, porque o tempo estará a favor. E o
-  efeito do tempo sobre o rendimento não é linear e, sim, exponencial.
+  você é patrão ou empregado.
 seo:
   title: ''
   description: ''
