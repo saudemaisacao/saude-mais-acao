@@ -57,7 +57,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/construtech-online@2x.jpg
-      - title: lorem-ipsum
+      - title: Cultura de Inovação para Resultado
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
