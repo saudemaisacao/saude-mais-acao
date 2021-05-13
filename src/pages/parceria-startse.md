@@ -227,7 +227,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/friendly-parsley.jpg
     type: grid_section
 seo:
   title: ''
