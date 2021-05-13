@@ -658,7 +658,7 @@ models:
         required: true
       - type: image
         name: avatar
-        label: Author image
+        label: Imagem do autor
         description: The image of the testimonial author
       - type: string
         name: avatar_alt
