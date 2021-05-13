@@ -108,8 +108,8 @@ sections:
         image: /images/magenta-neptune.jpg
       - title: Inteligência Artificial para Negócios
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Descubra como a inteligência por trás de todo robô pode alavancar suas
+          receitas e ainda aumentar a produtividade humana em até 40%
         image_alt: curso
         content: null
         actions: []
