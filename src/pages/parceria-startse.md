@@ -22,7 +22,7 @@ sections:
     col_number: three
     grid_items:
       - title: Construtech Masters
-        subtitle: lorem-ipsum
+        subtitle: Como as startups e as novas tecnologias estão transformando o universo da construção civil
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
