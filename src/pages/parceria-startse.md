@@ -52,8 +52,9 @@ sections:
         image: /images/startup-style@2x.jpg
       - title: InvestClass
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Um treinamento exclusivo onde empreendedores e investidores em
+          startups estarão juntos para aprender os segredos de captação de
+          investimento.
         image_alt: curso
         content: null
         actions: []
