@@ -77,10 +77,10 @@
 
   &__image {
       position: absolute;
-      height: 50vh;
+      width: 30vw;
       right: -25vw;
       bottom: 10vh;
-    object-fit: contain;
+      object-fit: contain;
   }
 
 }
