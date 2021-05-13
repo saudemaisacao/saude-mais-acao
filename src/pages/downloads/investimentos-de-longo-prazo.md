@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     hero_items:
-      - title: Inteligência financeira para enriquecer com saúde
+      - title: Investimentos de longo prazo
         image_alt: lorem-ipsum
         actions: []
         background: /images/instagramArtboard 2opy.png
