@@ -1359,7 +1359,7 @@ collections:
     label: Cursos
     files:
       - name: cursos
-        label: Cursos
+        label: Todos os cursos
         file: src/pages/cursos/index.md
         fields:
           - widget: string
