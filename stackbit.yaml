@@ -180,7 +180,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the page
+        description: O título da página
         required: true
       - type: string
         name: subtitle
