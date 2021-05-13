@@ -32,8 +32,9 @@ sections:
         image: /images/caring-aspen.jpg
       - title: Sociedade & Cultura For Business
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Aplique no seu negócio o mesmo sistema de Partnership (Sociedade)
+          utilizado por empresas bilionárias como XP Investimentos, Ambev e
+          Goldman Sachs
         image_alt: curso
         content: null
         actions: []
