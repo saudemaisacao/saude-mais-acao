@@ -21,7 +21,7 @@ sections:
     subtitle: Online e presencial
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: InvestClass
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
