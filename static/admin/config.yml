@@ -1588,12 +1588,12 @@ collections:
     summary: '{{title}}'
     fields:
       - label: "Post Author"
-  name: "author"
-  widget: "relation"
-  collection: "authors"
-  search_fields: ["name.first", "twitterHandle"]
-  value_field: "name.first"
-  display_fields: ["twitterHandle", "followerCount"]
+        name: "author"
+        widget: "relation"
+        collection: "authors"
+        search_fields: ["name.first", "twitterHandle"]
+        value_field: "name.first"
+        display_fields: ["twitterHandle", "followerCount"]
       - widget: string
         name: title
         label: Title
