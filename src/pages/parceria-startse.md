@@ -23,7 +23,6 @@ sections:
     grid_items:
       - title: Construtech Masters
         subtitle: Como as startups e as novas tecnologias estão transformando o universo da construção civil
-        image:
         image_alt: curso
         content:
         actions: []
