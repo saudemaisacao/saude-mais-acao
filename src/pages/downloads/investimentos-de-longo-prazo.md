@@ -10,6 +10,8 @@ sections:
         actions: []
         background: /images/instagramArtboard 2opy.png
         light_text: 'true'
+        subtitle: |
+          Guia prático para garantir um futuro mais tranquilo
     type: hero_section
   - section_id: lorem-ipsum
     title: Você também vai gostar
