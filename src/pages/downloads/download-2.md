@@ -2,7 +2,7 @@
 title: Inteligência financeira para Enriquecer com Saúde
 subtitle: ''
 date: '2020-03-10'
-thumb_image: /images/panoramic-dolphin.png
+thumb_image: /images/scientific-zebra.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
