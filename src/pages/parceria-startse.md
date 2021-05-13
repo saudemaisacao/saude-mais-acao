@@ -116,6 +116,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
+        image: /images/card-lgpd-v2@2x.jpg
     type: grid_section
 seo:
   title: ''
