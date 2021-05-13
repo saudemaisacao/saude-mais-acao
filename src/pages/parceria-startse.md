@@ -62,6 +62,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
+        image: /images/cultura@2x.jpg
     type: grid_section
 seo:
   title: ''
