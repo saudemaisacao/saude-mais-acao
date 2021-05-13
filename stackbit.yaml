@@ -57,7 +57,7 @@ models:
         required: true
       - type: enum
         name: base_font
-        label: Font
+        label: Fonte
         options:
           - fraunces
           - karla
