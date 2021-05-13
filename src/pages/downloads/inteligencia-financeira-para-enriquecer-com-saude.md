@@ -23,7 +23,7 @@ sections:
     title: Conheça nossos cursos
     subtitle: lorem-ipsum
     layout_style: mosaic
-    items_number: 0
+    items_number: 2
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: cursos_section
