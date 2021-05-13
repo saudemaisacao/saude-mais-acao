@@ -117,8 +117,8 @@ sections:
         image: /images/marvelous-aluminum.jpg
       - title: StartUp de A a Z
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Como Criar uma Startup? Qual o Passo a Passo que Você Precisa Seguir
+          para Tirar Sua Ideia de Papel?
         image_alt: curso
         content: null
         actions: []
