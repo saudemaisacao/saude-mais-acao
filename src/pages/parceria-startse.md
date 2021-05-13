@@ -135,8 +135,8 @@ sections:
         image: /images/legal-class@2x.jpg
       - title: Reinvente sua carreira
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Como se reposicionar e se tornar um profissional 3.0, um profissional
+          que escolhe o que fazer e toma a direção da sua própria carreira.
         image_alt: curso
         content: null
         actions: []
