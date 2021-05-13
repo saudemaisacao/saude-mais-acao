@@ -13,6 +13,7 @@ seo:
 template: post
 date: '0002-02-11'
 thumb_image: /images/243275-dolar-em-alta-x-aplicacoes-financeiras-para-ganhar-dinheiro.jpg
+image: /images/243275-dolar-em-alta-x-aplicacoes-financeiras-para-ganhar-dinheiro.jpg
 ---
 ## Lorem ipsum
 
