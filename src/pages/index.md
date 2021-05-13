@@ -40,7 +40,8 @@ sections:
             no_follow: false
             type: action
           - label: App Store
-            url: '#'
+            url: >-
+              https://itunes.apple.com/br/app/sa%C3%BAde-investimentos/id1281517519?mt=8
             style: link
             icon: dribbble
             new_window: false
