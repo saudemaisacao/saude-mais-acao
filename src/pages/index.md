@@ -17,7 +17,7 @@ sections:
         light_text: true
         actions:
           - label: saiba mais
-            url: '#'
+            url: /parceria-startse
             style: link
             icon: instagram
             new_window: false
