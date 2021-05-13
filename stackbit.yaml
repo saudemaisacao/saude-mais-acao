@@ -219,7 +219,7 @@ models:
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Subtítulo
         description: The text shown just below the page title
       - type: boolean
         name: hide_title
