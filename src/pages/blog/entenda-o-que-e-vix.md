@@ -1,7 +1,6 @@
 ---
 title: "Entenda o que é VIX\_e como funciona o índice da volatilidade"
 subtitle: lorem-ipsum
-date: '2021-05-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
