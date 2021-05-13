@@ -6,7 +6,7 @@ thumb_image: /images/neat-potato.jpg
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
+    image: /images/blue-olive.jpg
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
