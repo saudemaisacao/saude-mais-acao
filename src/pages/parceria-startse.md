@@ -146,7 +146,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/splendid-petunia.jpg
       - title: Law Innovation
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
