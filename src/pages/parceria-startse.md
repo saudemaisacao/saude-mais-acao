@@ -114,7 +114,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/fintech-revolution@2x.jpg
-      - title: lorem-ipsum
+      - title: Gestão de Marketing para Empresários e Executivos
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
