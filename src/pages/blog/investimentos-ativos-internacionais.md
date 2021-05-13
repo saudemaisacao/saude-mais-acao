@@ -4,7 +4,10 @@ subtitle: lorem-ipsum
 date: '2018-12-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  O investimento internacional é aconselhável não apenas para quem tem uma
+  grande fortuna para diversificar, mas também para quem tem objetivos no
+  exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
 seo:
   title: ''
   description: ''
