@@ -18,7 +18,7 @@ sections:
 
           - dolor sit amet
         image_alt: lorem-ipsum
-        light_text: lorem-ipsum
+        light_text: Guia prático para garantir um futuro mais tranquilo
         actions: []
     type: hero_section
 seo:
