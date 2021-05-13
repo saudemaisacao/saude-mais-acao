@@ -16,7 +16,7 @@ export const query = graphql`
   }
 `;
 
-export default class Project extends React.Component {
+export default class Curso extends React.Component {
     render() {
         let projects_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/cursos'), 'frontmatter.date', 'desc');
         let project_item_len = _.size(projects_sorted);
