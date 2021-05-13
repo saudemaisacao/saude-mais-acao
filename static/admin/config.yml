@@ -692,7 +692,7 @@ collections:
           
           - name: cursos_section
             widget: object
-            label: Cursos Section
+            label: Seção de cursos
             fields:
               - widget: string
                 name: section_id
