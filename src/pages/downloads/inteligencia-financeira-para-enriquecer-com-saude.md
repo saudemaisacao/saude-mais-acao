@@ -24,7 +24,7 @@ sections:
     layout_style: mosaic
     items_number: 2
     view_all_label: Ver todos
-    view_all_url: '#'
+    view_all_url: /cursos
     type: cursos_section
 seo:
   title: ''
