@@ -6,7 +6,7 @@ thumb_image: /images/post_thumbnail-33c5686c8e67d409cdf64236bc40996a.jpeg
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
+    image: /images/caring-spider.jpeg
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
