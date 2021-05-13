@@ -202,7 +202,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-      - title: Construtech Masters
+      - title: Cultura de Inovação para Resultado
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
           da construção civil
