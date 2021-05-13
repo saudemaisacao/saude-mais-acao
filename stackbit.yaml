@@ -591,7 +591,7 @@ models:
         description: The text displayed inside the button
       - type: string
         name: view_all_url
-        label: All projects button URL
+        label: Ver todos os downloads URL
         default: '#'
   posts_section:
     type: object
