@@ -27,7 +27,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/image_2021-05-13_170529.png
-      - title: lorem-ipsum
+      - title: A jornada do empreendedor
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
