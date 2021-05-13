@@ -30,16 +30,6 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-      - title: Construtech Masters
-        subtitle: >-
-          Aplique no seu negócio o mesmo sistema de Partnership (Sociedade)
-          utilizado por empresas bilionárias como XP Investimentos, Ambev e
-          Goldman Sachs
-        image_alt: curso
-        content: null
-        actions: []
-        type: grid_item
-        image: /images/caring-aspen.jpg
       - title: Sociedade & Cultura For Business
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
