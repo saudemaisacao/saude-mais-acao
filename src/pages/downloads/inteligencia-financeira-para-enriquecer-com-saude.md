@@ -16,7 +16,7 @@ sections:
     subtitle: Outros downloads gratuitos
     layout_style: tiles
     items_number: 2
-    view_all_label: lorem-ipsum
+    view_all_label: Ver todos
     view_all_url: '#'
     type: downloads_section
   - section_id: lorem-ipsum
