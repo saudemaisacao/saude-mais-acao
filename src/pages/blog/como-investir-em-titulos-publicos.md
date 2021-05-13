@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-date: '0020-06-10'
+date: '2018-06-10'
 ---
 ## Lorem ipsum
 
