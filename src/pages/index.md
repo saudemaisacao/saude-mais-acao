@@ -25,7 +25,7 @@ sections:
       - type: hero_item
         title: Baixe o APP Saúde Investimentos
         subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
-        image: /images/bg-app.jpg
+        background: /images/bg-app.jpg
         image_alt: App saúde investimentos
         light_text: true
         actions:
