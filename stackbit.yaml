@@ -71,7 +71,7 @@ models:
           - header
       - type: model
         name: footer
-        label: Footer Configuration
+        label: Configurações de Rodapé
         models:
           - footer
   header:
