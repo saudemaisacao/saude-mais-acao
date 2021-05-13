@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Uma parceria onde quem ganha é você!
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
