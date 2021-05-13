@@ -3,7 +3,7 @@ title: A Saúde Mais Ação fez uma parceria com a StartSe
 hide_title: false
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Uma parceria onde quem ganha é você!
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
