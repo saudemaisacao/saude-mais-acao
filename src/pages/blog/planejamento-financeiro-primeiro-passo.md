@@ -1,6 +1,6 @@
 ---
 title: 'Planejamento Financeiro: O primeiro passo'
-date: '2021-12-01'
+date: '2018-12-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
