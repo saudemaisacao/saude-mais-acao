@@ -40,8 +40,8 @@ models:
         description: The color scheme used for the site
         options:
           - claro
-          - dark
-        default: light
+          - escuro
+        default: claro
         required: true
       - type: enum
         name: accent_color
