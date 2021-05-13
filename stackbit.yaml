@@ -403,7 +403,7 @@ models:
         required: true
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Subtítulo
         description: The text shown just below the project title
       - type: date
         name: date
