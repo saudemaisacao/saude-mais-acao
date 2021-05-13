@@ -18,9 +18,9 @@ thumb_image: >-
   /images/247329-como-investir-em-titulos-publicos-atraves-do-tesouro-direto-descubra-aqui.jpg
 image: /images/groovy-olive.jpg
 ---
-## Isso acontece pelo fato de ser uma aplicação bastante acessível, podendo ser adquirida com menos de R$ 50,00. Além disso, eles possuem rentabilidade bem atrativa, já que utiliza tanto a Selic quanto a inflação como índice e são bastante estáveis, diferentemente das ações, por exemplo. Não é a toa que com todas essas qualidades muitos ficam curiosos para saber como investir em títulos públicos. Pensando nisso, nós separamos um guia completo de como você pode investir neles. Confira!
+*Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de investimento que nos últimos anos tiveram uma grande popularização. Isso acontece pelo fato de ser uma aplicação bastante acessível, podendo ser adquirida com menos de R$ 50,00. Além disso, eles possuem rentabilidade bem atrativa, já que utiliza tanto a Selic quanto a inflação como índice e são bastante estáveis, diferentemente das ações, por exemplo. Não é a toa que com todas essas qualidades muitos ficam curiosos para saber como investir em títulos públicos. Pensando nisso, nós separamos um guia completo de como você pode investir neles. Confira!*
 
-**O que são os títulos públicos?**
+## **O que são os títulos públicos?**
 
 Títulos públicos são [ativos de renda fixa](https://saudemaisacao.com.br/blog/destaque-home/afinal-o-que-e-renda-fixa-e-renda-variavel/) emitidos pelo Governo Federal através do Tesouro Nacional. O que acontece é que, quando um investidor compra um título, ele está emprestando dinheiro para o Governo e em troca, depois de um certo período, pode receber a quantia mais juros. Os títulos públicos são distribuídos pela plataforma Tesouro Direto que foi desenvolvida pelo Tesouro Nacional junto com a B3.
 
