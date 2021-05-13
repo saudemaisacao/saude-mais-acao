@@ -37,6 +37,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/image_2021-05-13_170529.png
     type: grid_section
 seo:
   title: ''
