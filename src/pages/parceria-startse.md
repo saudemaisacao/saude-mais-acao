@@ -182,7 +182,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/diligent-triceratops.jpg
       - title: Transformação digital para executivos
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
