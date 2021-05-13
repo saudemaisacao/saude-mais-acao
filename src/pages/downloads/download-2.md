@@ -6,7 +6,7 @@ thumb_image: /images/scientific-zebra.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: /images/good-amaranth.png
+    image: /images/instagramArtboard 2 copy.png
     image_alt: Aimi 1
     caption: Ebook Inteligência Financeira para enriquecer com saúde
     width: wide
