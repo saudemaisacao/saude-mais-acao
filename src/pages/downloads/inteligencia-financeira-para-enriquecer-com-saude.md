@@ -11,6 +11,14 @@ sections:
         background: /images/instagramArtboard 2opy.png
         light_text: 'true'
     type: hero_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    items_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: downloads_section
 seo:
   title: ''
   description: ''
