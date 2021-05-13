@@ -1,6 +1,6 @@
 ---
 title: Enriquecer faz bem a saúde
-hide_title: true
+hide_title: false
 sections: []
 seo:
   title: ''
