@@ -81,7 +81,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Header title
+        label: Título do Cabeçalho
         description: The title displayed in the header if no logo image added
       - type: image
         name: logo
