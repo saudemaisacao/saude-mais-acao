@@ -18,7 +18,7 @@ sections:
         actions:
           - label: saiba mais
             url: /parceria-startse
-            style: link
+            style: button
             icon: instagram
             new_window: false
             no_follow: false
