@@ -32,11 +32,11 @@ collections:
             name: color_scheme
             label: Esquema de cores
             required: true
-            default: light
+            default: claro
             hint: The color scheme used for the site
             options:
-              - light
-              - dark
+              - claro
+              - escuro
           - widget: select
             name: accent_color
             label: Cor de destaque
