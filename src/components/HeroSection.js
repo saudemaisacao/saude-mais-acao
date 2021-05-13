@@ -31,7 +31,6 @@ export default class HeroSection extends React.Component {
                             <img
                                 className='hero__background' 
                                 src={withPrefix(_.get(item, 'background', null))} 
-                                alt={_.get(item, 'image_alt', null)}
                             />
                             )}
                             <div className="hero__container container--lg">
