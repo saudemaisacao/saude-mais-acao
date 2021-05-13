@@ -25,7 +25,7 @@ thumb_image: >-
   /images/247329-como-investir-em-titulos-publicos-atraves-do-tesouro-direto-descubra-aqui.jpg
 image: /images/groovy-olive.jpg
 ---
-**O que são os títulos públicos?**
+## **O que são os títulos públicos?**
 
 Títulos públicos são [ativos de renda fixa](https://saudemaisacao.com.br/blog/destaque-home/afinal-o-que-e-renda-fixa-e-renda-variavel/) emitidos pelo Governo Federal através do Tesouro Nacional. O que acontece é que, quando um investidor compra um título, ele está emprestando dinheiro para o Governo e em troca, depois de um certo período, pode receber a quantia mais juros. Os títulos públicos são distribuídos pela plataforma Tesouro Direto que foi desenvolvida pelo Tesouro Nacional junto com a B3.
 
