@@ -61,7 +61,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/gestao-marketing-1@2x.jpg
-      - title: lorem-ipsum
+      - title: Startup de A a Z
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
