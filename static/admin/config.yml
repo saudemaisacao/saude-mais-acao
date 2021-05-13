@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: preview
   accept_roles: #optional - accepts all users if left out
-    - admin
+    - administrador
     - editor
 publish_mode: editorial_workflow
 media_folder: static/images
