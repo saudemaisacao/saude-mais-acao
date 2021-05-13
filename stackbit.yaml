@@ -626,7 +626,7 @@ models:
             - action
   testimonials_section:
     type: object
-    label: Seção de 
+    label: Seção de prova social
     extends:
       - section
     fields:
