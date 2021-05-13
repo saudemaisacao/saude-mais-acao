@@ -8,7 +8,7 @@ sections:
       - title: Investimentos de longo prazo
         image_alt: lorem-ipsum
         actions: []
-        background: /images/instagramArtboard 2opy.png
+        background: /images/melodic-triceratops.png
         light_text: 'true'
         subtitle: |
           Guia prático para garantir um futuro mais tranquilo
