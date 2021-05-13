@@ -43,6 +43,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/jornada-empreendedor@2x.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
