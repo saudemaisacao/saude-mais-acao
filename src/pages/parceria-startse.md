@@ -71,8 +71,8 @@ sections:
         image: /images/oval-strawberry.jpg
       - title: FinTech Revolution
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Como as principais Fintechs do Vale do Silício e da China estão
+          transformando o Sistema Financeiro
         image_alt: curso
         content: null
         actions: []
