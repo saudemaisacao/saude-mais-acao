@@ -1465,37 +1465,6 @@ collections:
             label: Template
             required: true
             default: cursos
-  - author:
-    label: Autores
-    files:  
-      - name: cursos
-        label: Todos os autores
-        file: src/pages/cursos/index.md
-        fields:
-          - widget: string
-            name: title
-            label: Title
-            required: true
-            hint: O título da página
-          - widget: string
-            name: subtitle
-            label: Subtitle
-            required: false
-            hint: O texto mostrado logo abaixo do título
-          - widget: boolean
-            name: hide_title
-            label: Hide page title and subtitle
-            required: false
-            default: false
-          - widget: select
-            name: layout_style
-            label: Layout style
-            required: false
-            default: mosaic
-            hint: The style of the portfolio layout
-            options:
-              - mosaic
-              - tiles
 
   - name: page
     label: Páginas
