@@ -174,15 +174,6 @@ sections:
         actions: []
         type: grid_item
         image: /images/cardo-os-pilares-do-sucesso-do-amanha@2x.jpg
-      - title: Gestão de Marketing para Empresários e Executivos
-        subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
-        image_alt: curso
-        content: null
-        actions: []
-        type: grid_item
-        image: /images/diligent-triceratops.jpg
       - title: Transformação digital para executivos
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
