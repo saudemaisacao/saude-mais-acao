@@ -3,7 +3,10 @@ title: 'Planejamento Financeiro: O primeiro passo'
 date: '2018-12-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Se você fica se perguntando o que é preciso fazer para conquistar a
+  independência financeira, o primeiro passo a ser dado é realizar um
+  planejamento financeiro para organizar o que entra e o que sai da sua conta.
 seo:
   title: ''
   description: ''
