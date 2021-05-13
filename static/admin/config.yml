@@ -337,8 +337,8 @@ collections:
                     required: false
                     hint: O subtítulo do item
                   - widget: image
-                    name: image
-                    label: Imagem
+                    name: background
+                    label: Background
                     required: true
                     hint: A imagem de fundo do item
                   - widget: image
