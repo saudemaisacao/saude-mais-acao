@@ -19,6 +19,14 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: downloads_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    items_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: cursos_section
 seo:
   title: ''
   description: ''
