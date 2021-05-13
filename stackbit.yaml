@@ -276,7 +276,7 @@ models:
       - type: string
         name: title
         label: Title
-        description: The title of the post
+        description: O título da postagem
         required: true
       - type: string
         name: subtitle
