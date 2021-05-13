@@ -97,7 +97,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/executive@2x.jpg
-      - title: lorem-ipsum
+      - title: Fintech Revolution
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
