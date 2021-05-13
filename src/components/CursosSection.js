@@ -9,7 +9,7 @@ export default class CursosSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         let layout_style = _.get(section, 'layout_style', null) || 'mosaic';
         let cursos_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/cursos'), 'frontmatter.date', 'desc');
-        let cursos_recent = cursos_sorted.slice(0, _.get(section, 'items_number', null));
+        let cursos_recent = cursos_sorted.slice(0, _.get(section, 'items_number', 2));
         let curso_len = _.size(cursos_recent);
         return (
             <section id={_.get(section, 'section_id', null)} className="section section--portfolio">

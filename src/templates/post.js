@@ -3,9 +3,8 @@ import _ from 'lodash';
 import moment from 'moment-strftime';
 import {graphql} from 'gatsby';
 
-import {Layout} from '../components/index';
+import {DownloadsSection, Layout} from '../components/index';
 import {withPrefix, htmlToReact, getPages} from '../utils';
-import DownloadsSection from '../components/DownloadsSection';
 import BlogFeedItem from '../components/BlogFeedItem';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
@@ -80,6 +79,10 @@ export default class Post extends React.Component {
                               );
                           })())}
                         </div>
+            
+                        <h2 className="section__title line-top">e-Books gratuitos</h2>
+                        <p className="section__subtitle"></p>
+                        <DownloadsSection {...this.props} className="extra-section" />
                       </div>
                     </nav>
                     )

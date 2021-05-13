@@ -9,7 +9,7 @@ export default class DownloadsSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         let layout_style = _.get(section, 'layout_style', null) || 'mosaic';
         let downloads_sorted = _.orderBy(getPages(this.props.pageContext.pages, '/downloads'), 'frontmatter.date', 'desc');
-        let downloads_recent = downloads_sorted.slice(0, _.get(section, 'items_number', null));
+        let downloads_recent = downloads_sorted.slice(0, _.get(section, 'items_number', 2));
         let download_len = _.size(downloads_recent);
         return (
             <section id={_.get(section, 'section_id', null)} className="section section--portfolio">

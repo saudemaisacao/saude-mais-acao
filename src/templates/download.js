@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
 
-import components, {Layout} from '../components/index';
+import components, {CursosSection, Layout} from '../components/index';
 import {getPages} from '../utils';
 import DownloadItem from '../components/DownloadItem';
 
@@ -54,7 +54,7 @@ export default class Download extends React.Component {
                     (project_index_length > 0) && (
                     <nav key={download_item_idx} className="section section--portfolio">
                       <div className="container container--lg">
-                        <h2 className="section__title line-top">Mais downloads</h2>
+                        <h2 className="section__title line-top">Você também vai gostar</h2>
                         <div className="grid portfolio-feed portfolio-feed--tiles">
                           {(curr_index !== 0) && ((() => {
                               let prev_download = downloads_sorted[prev_index];
@@ -69,6 +69,12 @@ export default class Download extends React.Component {
                               );
                           })())}
                         </div>
+
+                        <h2 className="section__title line-top">Nossos cursos</h2>
+                        <p className="section__subtitle"></p>
+                        <div></div>
+                        <CursosSection {...this.props} className="extra-section" />
+
                       </div>
                     </nav>
                     )
