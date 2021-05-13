@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/pink-moon.jpeg
+date: '2020-09-11'
 ---
 ## Lorem ipsum
 
