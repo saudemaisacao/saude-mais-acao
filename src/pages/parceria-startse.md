@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: Uma parceria onde quem ganha é você!
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
       A StartSe conta com diversos conteúdos, eventos e conferências, cursos
