@@ -105,7 +105,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/groovy-tomato.jpg
+        image: /images/magenta-neptune.jpg
       - title: Inteligência Artificial para Negócios
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
