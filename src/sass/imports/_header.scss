@@ -1,5 +1,5 @@
 .site-header {
-  background-color: rgba(255,255,255,.15);
+  background-color: rgba(255,255,255,.07);
   margin-bottom: 3.33333em;
   padding-bottom: 1em;
   padding-top: 1em;
@@ -57,7 +57,7 @@
 
   &__item--current,
   a:not(.button):hover {
-    color: $color-accent;
+    color: $color-titles;
   }
 }
 
@@ -93,7 +93,7 @@
 @media only screen and (max-width: 767px) {
   .site-header {
     &:after {
-      background: rgba(255,255,255,.6);
+      background: rgba(255,255,255,.7);
       content: "";
       height: 100vh;
       left: 0;

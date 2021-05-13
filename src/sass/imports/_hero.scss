@@ -24,14 +24,16 @@
 
   &__container {
     padding-left: $container-padding;
-    height: 60vh;
+    margin-top: 5em;
+    height: 80vh;
     display: flex;
+    align-items: center;
+    align-content: center;
   }
-  &__bottom {
-    width: 30vw;
-    align-self: flex-end;
-    align-items: flex-end;
-    align-content: flex-end;
+  &__text {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
 
     .hero__title.true {
       color: $color-gray-50;
@@ -42,10 +44,27 @@
 
     @media only screen and (max-width: 601px) {
       margin-top: 10vh;
-      height: 50vh;
-      width: 85vw;
+      height: 60vh;
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
+      max-width: 100%;
     }
   }
+
+  &__image {
+    object-fit: contain;
+    -o-object-fit: contain;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 100%;
+
+  @media only screen and (max-width: 601px) {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    height: 30vh;
+  }
+
+}
 
   &__body,
   &__actions {
@@ -72,21 +91,6 @@
     @media only screen and (max-width: 601px) {
       height: 100vh;
       width: 100vw;
-    }
-
-  }
-
-  &__image {
-      position: absolute;
-      height: 40vh;
-      right: -15vw;
-      bottom: 22vh;
-      object-fit: contain;
-
-    @media only screen and (max-width: 601px) {
-      height: 60vh;
-      top: 20vh;
-      right: 0;
     }
 
   }

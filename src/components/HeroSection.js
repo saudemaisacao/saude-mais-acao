@@ -34,16 +34,7 @@ export default class HeroSection extends React.Component {
                             />
                             )}
                             <div className="hero__container container--lg">
-                                <div>
-                                {_.get(item, 'image', null) && (
-                                    <img
-                                        className='hero__image' 
-                                        src={withPrefix(_.get(item, 'image', null))} 
-                                        alt={_.get(item, 'image_alt', null)}
-                                    />
-                                )}
-                                </div>
-                                <div className="hero__bottom">
+                                <div className="hero__text">
                                 {_.get(item, 'title', null) && (
                                 <h1 className={'hero__title ' + _.get(item, 'light_text', null)}>{_.get(item, 'title', null)}</h1>
                                 )}
@@ -56,6 +47,15 @@ export default class HeroSection extends React.Component {
                                 <div className="hero__actions button-group">
                                 <CtaButtons {...this.props} actions={_.get(item, 'actions', null)} />
                                 </div>
+                                )}
+                                </div>
+                                <div>
+                                {_.get(item, 'image', null) && (
+                                    <img
+                                        className='hero__image' 
+                                        src={withPrefix(_.get(item, 'image', null))} 
+                                        alt={_.get(item, 'image_alt', null)}
+                                    />
                                 )}
                                 </div>
                             </div>
