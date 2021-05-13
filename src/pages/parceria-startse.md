@@ -6,17 +6,16 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      A StartSe conta com diversos conteúdos, eventos e conferências, cursos
+      online e presenciais, imersões internacionais nos principais polos de
+      inovação do mundo e produtos de inovação corporativa para te deixar
+      preparado para o novo mundo que está aí.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Acreditamos que esta parceria tem muita sinergia, pois nosso intuito é
+      ajudar você a trilhar a sua jornada de conhecimento e aprendizado nessa
+      nova era que é chamada de “a nova economia”.
     type: content_section
 seo:
   title: ''
