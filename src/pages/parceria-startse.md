@@ -133,6 +133,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/card-law-innovation@2x.jpg
     type: grid_section
 seo:
   title: ''
