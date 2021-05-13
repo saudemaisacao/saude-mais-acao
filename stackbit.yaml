@@ -9,7 +9,7 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 logicFields:
-  - portfolio_section.projects_number
+  - cursos_section.items_number
   - downloads_section.items_number
   - posts_section.posts_number
   - advanced.sections.items_number
@@ -21,14 +21,14 @@ models:
     fields:
       - type: string
         name: title
-        label: Título
+        label: Title
         description: Título do site
         required: true
       - type: string
         name: domain
         label: Domínio
         description: >-
-          O domínio do seu site incluindo o protocolo, e.x.
+          The domain of your site, including the protocol, e.g.
           https://mysite.com
       - type: image
         name: favicon
@@ -36,17 +36,17 @@ models:
         description: A square icon that represents your website
       - type: enum
         name: color_scheme
-        label: Esquema de cores
+        label: Color scheme
         description: The color scheme used for the site
         options:
-          - claro
-          - escuro
-        default: claro
+          - light
+          - dark
+        default: light
         required: true
       - type: enum
         name: accent_color
-        label: Cor de destaque
-        description: A cor de destaque do seu site
+        label: Accent color
+        description: The accent color of the site
         options:
           - pink
           - green
@@ -57,7 +57,7 @@ models:
         required: true
       - type: enum
         name: base_font
-        label: Fonte
+        label: Font
         options:
           - fraunces
           - karla
@@ -66,22 +66,22 @@ models:
         required: true
       - type: model
         name: header
-        label: Configurações de Cabeçalho
+        label: Header Configuration
         models:
           - header
       - type: model
         name: footer
-        label: Configurações de Rodapé
+        label: Footer Configuration
         models:
           - footer
   header:
     type: object
-    label: Configurações de Cabeçalho
+    label: Header Configuration
     labelField: title
     fields:
       - type: string
         name: title
-        label: Título do Cabeçalho
+        label: Header title
         description: The title displayed in the header if no logo image added
       - type: image
         name: logo
@@ -93,12 +93,12 @@ models:
         description: The alt text of the logo image
       - type: boolean
         name: has_nav
-        label: Ativar menu de navegação
+        label: Enable navigation menu
         description: Display the navigation menu bar in the header
         default: true
       - type: list
         name: nav_links
-        label: Links de navegação
+        label: Navigation links
         description: A list of navigation links
         items:
           type: model
@@ -106,7 +106,7 @@ models:
             - action
   footer:
     type: object
-    label: Configurações de Rodapé
+    label: Footer Configuration
     labelField: content
     fields:
       - type: string
@@ -136,23 +136,23 @@ models:
             - action
   advanced:
     type: page
-    label: Página avançacada
+    label: Página avançada
     layout: advanced
     hideContent: true
     fields:
       - type: string
         name: title
-        label: Título
+        label: Title
         description: The title of the page
         required: true
       - type: boolean
         name: hide_title
-        label: Esconder título da página
+        label: Hide page title
         default: true
       - type: list
         name: sections
-        label: Seções
-        description: Seções da página
+        label: Sections
+        description: Seções de página
         items:
           type: model
           models:
@@ -160,7 +160,8 @@ models:
             - content_section
             - cta_section
             - grid_section
-            - portfolio_section
+            - cursos_section
+            - downloads_section
             - posts_section
             - testimonials_section
             - form_section
@@ -203,12 +204,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  portfolio:
+  cursos:
     type: page
-    urlPath: /portfolio
-    label: Portfolio
-    layout: portfolio
-    file: portfolio/index.md
+    urlPath: /cursos
+    label: Todos os cursos
+    layout: cursos
+    file: cursos/index.md
     hideContent: true
     singleInstance: true
     fields:
@@ -228,7 +229,7 @@ models:
       - type: enum
         name: layout_style
         label: Layout style
-        description: The style of the portfolio layout
+        description: O layout da seção de cursos
         options:
           - mosaic
           - tiles
@@ -237,13 +238,49 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  downloads:
+    type: page
+    urlPath: /downloads
+    label: Todos os downloads
+    layout: downloads
+    file: downloads/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title
+      - type: boolean
+        name: hide_title
+        label: Hide page title and subtitle
+        default: false
+      - type: enum
+        name: layout_style
+        label: Layout style
+        description: O layout da seção de downloads
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+  
   page:
     type: page
-    label: Page
+    label: Página
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - cursos/**
+      - downloads/**
     fields:
       - type: string
         name: title
@@ -269,7 +306,7 @@ models:
   post:
     type: page
     urlPath: '/blog/{slug}'
-    label: Post
+    label: Postagem
     layout: post
     folder: blog
     fields:
@@ -310,12 +347,12 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  project:
+  curso:
     type: page
-    urlPath: '/portfolio/{slug}'
-    label: Project
-    layout: project
-    folder: portfolio
+    urlPath: '/cursos/{slug}'
+    label: Curso
+    layout: curso
+    folder: cursos
     hideContent: true
     fields:
       - type: string
@@ -352,6 +389,49 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  download:
+    type: page
+      urlPath: '/downloads/{slug}'
+      label: Download
+      layout: download
+      folder: downloads
+      hideContent: true
+      fields:
+        - type: string
+          name: title
+          label: Title
+          description: The title of the project
+          required: true
+        - type: string
+          name: subtitle
+          label: Subtitle
+          description: The text shown just below the project title
+        - type: date
+          name: date
+          label: Date
+          required: true
+        - type: image
+          name: thumb_image
+          label: Thumbnail image
+          description: The image shown in the portfolio grid
+        - type: string
+          name: thumb_image_alt
+          label: Thumbnail image alt text
+          description: The alt text of the thumbnail image
+        - type: list
+          name: sections
+          label: Sections
+          description: Project sections
+          items:
+            type: model
+            models:
+              - image_section
+              - text_section
+        - type: model
+          name: seo
+          models:
+            - stackbit_page_meta
+
   section:
     type: object
     label: Section
@@ -496,9 +576,9 @@ models:
           type: model
           models:
             - action
-  portfolio_section:
+  cursos_section:
     type: object
-    label: Portfolio Section
+    label: Seção de cursos
     extends:
       - section
     fields:
@@ -516,7 +596,7 @@ models:
         default: mosaic
         required: true
       - type: number
-        name: projects_number
+        name: items_number
         label: Number of projects to display
         required: true
       - type: string
@@ -527,9 +607,71 @@ models:
         name: view_all_url
         label: All projects button URL
         default: '#'
+  downloads_section:
+    type: object
+    label: Seção de downloads
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section
+      - type: enum
+        name: layout_style
+        label: Layout Style
+        description: The layout style of the projects section
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+        required: true
+      - type: number
+        name: items_number
+        label: Number of projects to display
+        required: true
+      - type: string
+        name: view_all_label
+        label: All projects button label
+        description: The text displayed inside the button
+      - type: string
+        name: view_all_url
+        label: All projects button URL
+        default: '#'
+
+    type: object
+      label: Downloads Section
+      extends:
+        - section
+      fields:
+        - type: string
+          name: subtitle
+          label: Subtitle
+          description: The subtitle of the section
+        - type: enum
+          name: layout_style
+          label: Layout Style
+          description: The layout style of the projects section
+          options:
+            - mosaic
+            - tiles
+          default: mosaic
+          required: true
+        - type: number
+          name: projects_number
+          label: Number of projects to display
+          required: true
+        - type: string
+          name: view_all_label
+          label: All projects button label
+          description: The text displayed inside the button
+        - type: string
+          name: view_all_url
+          label: All projects button URL
+          default: '#'
   posts_section:
     type: object
-    label: Posts Section
+    label: Seção de postagens
     extends:
       - section
     fields:
