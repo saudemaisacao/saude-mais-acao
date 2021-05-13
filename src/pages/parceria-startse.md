@@ -80,8 +80,9 @@ sections:
         image: /images/best-eucalyptus.jpg
       - title: A jornada do empreendedor
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          A jornada que o fundador da StartSe percorreu capaz de transformar uma
+          pequena empresa de Minas Gerais em uma multinacional de 200 milhões em
+          3 anos.
         image_alt: curso
         content: null
         actions: []
