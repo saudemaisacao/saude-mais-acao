@@ -93,7 +93,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/gestao-inovadora@2x.jpg
-      - title: Gestão de Marketing para
+      - title: O poder da persuação digital
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
