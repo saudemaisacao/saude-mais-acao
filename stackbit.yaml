@@ -351,7 +351,7 @@ models:
     type: page
     urlPath: '/cursos/{slug}'
     label: Curso
-    layout: project
+    layout: curso
     folder: cursos
     hideContent: true
     fields:
