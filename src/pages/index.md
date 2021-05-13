@@ -41,7 +41,7 @@ sections:
         subtitle: >-
           Já ensinamos milhares de médicos a como construir sua independência
           financeira
-        image: /images/bg-estrategia.jpg
+        background: /images/bg-estrategia.jpg
         image_alt: Parceria com a StartSe
         light_text: true
         actions:
