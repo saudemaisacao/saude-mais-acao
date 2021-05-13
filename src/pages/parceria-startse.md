@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Uma parceria onde quem ganha é você!
 hide_title: true
 sections:
   - section_id: lorem-ipsum
