@@ -3,7 +3,7 @@ title: Descubra o perfil de investidor que mais combina com você
 subtitle: lorem-ipsum
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "Você sabe qual é o seu perfil de investidor? Ele é um dos parâmetros\_usados por algumas instituições que pode ajudá-lo a\_guiar as suas escolhas de investimentos"
 seo:
   title: ''
   description: ''
