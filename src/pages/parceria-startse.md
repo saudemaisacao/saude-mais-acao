@@ -99,8 +99,8 @@ sections:
         image: /images/card-educacao-quatro-ponto-zero@2x.jpg
       - title: Gestão de marketing para empresários e executivos
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Aprenda a crescer 385% suas vendas usando as mais recentes ferramentas
+          de Marketing Digital, em apenas 2 dias
         image_alt: curso
         content: null
         actions: []
