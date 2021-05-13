@@ -10,5 +10,5 @@ seo:
       value: ""
       keyName: name
   type: stackbit_page_meta
-template: project
+template: curso
 ---
