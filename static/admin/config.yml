@@ -1587,7 +1587,7 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     fields:
-      - label: "Post Author"
+      - label: Autor
         name: "author"
         widget: "relation"
         collection: "authors"
