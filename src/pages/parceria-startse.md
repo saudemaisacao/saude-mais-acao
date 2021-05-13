@@ -153,9 +153,7 @@ sections:
         type: grid_item
         image: /images/splendid-petunia.jpg
       - title: Law Innovation
-        subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+        subtitle: Como a tecnologia vai transformar o maior mercado jurídico do mundo?
         image_alt: curso
         content: null
         actions: []
