@@ -398,7 +398,7 @@ models:
       - type: string
         name: title
         label: Título
-        description: O título do curso
+        description: O título do download
         required: true
       - type: string
         name: subtitle
