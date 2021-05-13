@@ -76,7 +76,7 @@ models:
           - footer
   header:
     type: object
-    label: Header Configuration
+    label: Configurações de Cabeçalho
     labelField: title
     fields:
       - type: string
