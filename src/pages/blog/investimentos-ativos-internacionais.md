@@ -15,6 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: /images/7_1600x700-1.jpg
 ---
 O investimento internacional é aconselhável não apenas para quem tem uma grande fortuna para diversificar, mas também para quem tem objetivos no exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
 
