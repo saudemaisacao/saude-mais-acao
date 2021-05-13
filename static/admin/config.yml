@@ -293,6 +293,11 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     fields:
+      - widget: image
+        name: thumb_image
+        label: Thumbnail image
+        required: false
+        hint: The image shown in the portfolio grid
       - widget: string
         name: title
         label: Título

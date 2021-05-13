@@ -354,7 +354,7 @@ models:
     type: page
     urlPath: '/cursos/{slug}'
     label: Cursos
-    layout: curso
+    layout: advanced
     folder: cursos
     hideContent: true
     fields:
@@ -403,7 +403,7 @@ models:
     type: page
     urlPath: '/downloads/{slug}'
     label: Downloads
-    layout: curso
+    layout: advanced
     folder: downloads
     hideContent: true
     fields:
