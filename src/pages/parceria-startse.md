@@ -18,7 +18,7 @@ sections:
     type: content_section
   - section_id: lorem-ipsum
     title: Cursos
-    subtitle: lorem-ipsum
+    subtitle: Online e presencial
     col_number: three
     grid_items:
       - title: lorem-ipsum
