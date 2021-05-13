@@ -345,7 +345,7 @@ collections:
                     name: image
                     label: Imagem
                     required: true
-                    hint: A imagem de fundo do item
+                    hint: A imagem de destaque do item
                   - widget: string
                     name: image_alt
                     label: Image Alt
