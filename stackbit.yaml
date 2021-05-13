@@ -33,7 +33,7 @@ models:
       - type: image
         name: favicon
         label: Favicon
-        description: A square icon that represents your website
+        description: O ícone que representa seu site
       - type: enum
         name: color_scheme
         label: Esquema de cores
