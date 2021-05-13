@@ -17,7 +17,7 @@ sections:
     layout_style: tiles
     items_number: 2
     view_all_label: Ver todos
-    view_all_url: '#'
+    view_all_url: /downloads
     type: downloads_section
   - section_id: lorem-ipsum
     title: Conheça nossos cursos
