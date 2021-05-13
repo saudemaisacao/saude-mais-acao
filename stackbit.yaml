@@ -313,7 +313,7 @@ models:
           - stackbit_page_meta
   project:
     type: page
-    urlPath: '/portfolio/{slug}'
+    urlPath: '/cursos/{slug}'
     label: Project
     layout: project
     folder: portfolio
