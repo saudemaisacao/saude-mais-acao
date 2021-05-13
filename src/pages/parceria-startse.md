@@ -42,8 +42,9 @@ sections:
         image: /images/purple-mustard.jpg
       - title: StartUp Style
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Transforme ideias em startups utilizando o mesmo modelo do Vale do
+          Silício. A principal máquina de aceleração das empresas e negócios dos
+          últimos anos
         image_alt: curso
         content: null
         actions: []
