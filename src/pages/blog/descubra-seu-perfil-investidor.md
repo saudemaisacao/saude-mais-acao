@@ -13,6 +13,7 @@ seo:
 template: post
 date: '2018-02-11'
 thumb_image: /images/post1x960-1.jpg
+image: /images/important-whale.jpg
 ---
 ## Lorem ipsum
 
