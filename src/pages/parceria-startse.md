@@ -92,7 +92,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/card-educacao-quatro-ponto-zero@2x.jpg
       - title: Gestão de marketing para empresários e executivos
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
