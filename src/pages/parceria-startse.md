@@ -126,8 +126,8 @@ sections:
         image: /images/ultra-sage.jpg
       - title: Legal Class
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Treinamento exclusivo para empreendedores com advogados especializados
+          no mercado de startups
         image_alt: curso
         content: null
         actions: []
