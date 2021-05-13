@@ -18,7 +18,6 @@ sections:
 
           - dolor sit amet
         image_alt: lorem-ipsum
-        light_text: lorem-ipsum
         actions: []
         background: /images/ultra-goat.png
     type: hero_section
