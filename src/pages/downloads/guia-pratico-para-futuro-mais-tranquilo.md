@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Investimentos de longo prazo
 hide_title: true
 sections: []
 seo:
