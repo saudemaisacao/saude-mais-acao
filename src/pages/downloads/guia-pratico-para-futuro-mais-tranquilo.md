@@ -11,6 +11,7 @@ sections:
         image_alt: lorem-ipsum
         light_text: Guia prático para garantir um futuro mais tranquilo
         actions: []
+        background: /images/parallel-aspen.png
     type: hero_section
 seo:
   title: ''
