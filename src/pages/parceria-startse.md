@@ -198,8 +198,8 @@ sections:
         image: /images/cool-planet.jpg
       - title: CMO Program
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Torne-se um Estrategista de Marketing Inovador para Alavancar os
+          Resultados
         image_alt: curso
         content: null
         actions: []
