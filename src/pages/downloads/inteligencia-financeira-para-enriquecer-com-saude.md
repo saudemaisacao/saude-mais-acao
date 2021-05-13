@@ -9,6 +9,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         background: /images/instagramArtboard 2opy.png
+        light_text: 'true'
     type: hero_section
 seo:
   title: ''
