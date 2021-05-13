@@ -36,7 +36,7 @@ export default class HeroSection extends React.Component {
                             )}
                             <div className="hero__container container--lg">
                                 <div>
-                                    <imag>
+                                    <imag />
                                 </div>
                                 <div className="hero__bottom">
                                 {_.get(item, 'title', null) && (
