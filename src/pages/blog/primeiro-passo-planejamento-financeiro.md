@@ -1,7 +1,7 @@
 ---
 title: Saiba como desenvolver inteligência financeira com 4 dicas
 subtitle: lorem-ipsum
-date: '2021-05-13'
+date: '2021-01-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
