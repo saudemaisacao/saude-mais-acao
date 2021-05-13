@@ -99,7 +99,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/poder-persuasao-digital@2x.jpg
-      - title: lorem-ipsum
+      - title: Inteligência artificial para negócios
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
