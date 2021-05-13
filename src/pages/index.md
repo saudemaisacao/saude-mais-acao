@@ -27,7 +27,7 @@ sections:
         subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
         image: /images/bg-app.jpg
         image_alt: App saúde investimentos
-        light_text: false
+        light_text: true
         actions:
           - label: saiba mais
             url: '#'
