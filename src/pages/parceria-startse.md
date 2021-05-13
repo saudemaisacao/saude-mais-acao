@@ -131,7 +131,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/gestao-de-marketing@2x.jpg
-      - title: lorem-ipsum
+      - title: Gestão Inovadora para Médicos
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
