@@ -4,6 +4,7 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - administrador
     - editor
+localbackend: true
 publish_mode: editorial_workflow
 media_folder: static/images
 public_folder: /images
