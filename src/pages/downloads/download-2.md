@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/good-amaranth.png
     image_alt: Aimi 1
-    caption: This is the caption of the image
+    caption: Ebook Inteligência Financeira para enriquecer com saúde
     width: wide
   - type: text_section
     content: >-
