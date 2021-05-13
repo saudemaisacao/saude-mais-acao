@@ -643,7 +643,7 @@ models:
             - testimonial
   testimonial:
     type: object
-    label: Testimonial
+    label: Depoimento
     labelField: author
     fields:
       - type: string
