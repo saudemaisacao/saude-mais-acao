@@ -27,7 +27,7 @@ sections:
         title: Baixe o APP Saúde Investimentos
         subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
         background: /images/bg-app.jpg
-        image: /images/bg-parceria-startse.jpg
+        image: /images/mockup-app2.jpg
         image_alt: App saúde investimentos
         light_text: true
         actions:
