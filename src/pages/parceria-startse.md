@@ -98,7 +98,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
-        image: /images/invest-class@2x.jpg
+        image: /images/poder-persuasao-digital@2x.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
