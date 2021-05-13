@@ -16,6 +16,12 @@ sections:
       ajudar você a trilhar a sua jornada de conhecimento e aprendizado nessa
       nova era que é chamada de “a nova economia”.
     type: content_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
 seo:
   title: ''
   description: ''
