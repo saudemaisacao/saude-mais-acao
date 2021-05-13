@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
 subtitle: lorem-ipsum
 date: '2021-05-13'
 thumb_image_alt: lorem-ipsum
