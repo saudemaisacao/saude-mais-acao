@@ -11,7 +11,8 @@ sections:
         subtitle: >-
           Uma empresa de educação pioneira quando o assunto é tecnologias
           disruptivas.
-        image: /images/bg-app.jpg
+        background: /images/bg-parceria-startse.jpg
+        image: 
         image_alt: Parceria com a StartSe
         light_text: true
         actions:
@@ -25,9 +26,10 @@ sections:
       - type: hero_item
         title: Baixe o APP Saúde Investimentos
         subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
-        image: /images/photo-1588792164216-c72e6a14ae0b.jpg
+        background: /images/bg-app.jpg
+        image: /images/mockup-app2.png
         image_alt: App saúde investimentos
-        light_text: false
+        light_text: true
         actions:
           - label: saiba mais
             url: '#'
@@ -41,8 +43,9 @@ sections:
         subtitle: >-
           Já ensinamos milhares de médicos a como construir sua independência
           financeira
-        image: /images/bg-app.jpg
-        image_alt: Parceria com a StartSe
+        background: /images/bg-estrategia.jpg
+        image: /images/mockup-notebook2.png
+        image_alt: Enriquecer faz bem a saúde
         light_text: true
         actions:
           - label: saiba mais
@@ -66,7 +69,7 @@ sections:
     items_number: 2
     view_all_label: Ver todos
     view_all_url: cursos
-    type: portfolio_section
+    type: cursos_section
   - section_id: downloads
     title: e-Books gratuitos
     subtitle: Faça o download de conteúdo rico gratuitamente
@@ -75,8 +78,8 @@ sections:
     view_all_label: Ver todos
     view_all_url: downloads
     type: downloads_section
-  - type: cta_section
-    section_id: cta
+  - section_id: cta
+    type: cta_section
     title: Alguma dúvida?
     content: >-
       Say hello at [email@example.com](mailto:email@example.com) or tell us more
@@ -89,14 +92,14 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
+  - section_id: newsletter
     title: Receba conteúdo gratuito
     subtitle: Inscreva-se na newsletter e receba todas as novidades!
     content: >
       ##### Inscreva-se na nossa newsletter e receba conteúdo gratuito. Comece a
       investir agora.
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_id: form-newsletter
+    form_action: enviar
     form_fields:
       - input_type: text
         name: seu-email@exemplo.com
