@@ -560,7 +560,7 @@ models:
         description: The text displayed inside the button
       - type: string
         name: view_all_url
-        label: All projects button URL
+        label: Ver todos os cursos URL
         default: '#'
   downloads_section:
     type: object
