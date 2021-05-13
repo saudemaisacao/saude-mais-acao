@@ -12,6 +12,8 @@ seo:
   type: stackbit_page_meta
 template: post
 date: '2018-06-10'
+thumb_image: >-
+  /images/247329-como-investir-em-titulos-publicos-atraves-do-tesouro-direto-descubra-aqui.jpg
 ---
 ## Lorem ipsum
 
