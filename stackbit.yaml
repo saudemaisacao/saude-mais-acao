@@ -354,7 +354,7 @@ models:
     type: page
     urlPath: '/cursos/{slug}'
     label: Cursos
-    layout: advanced
+    layout: curso
     folder: cursos
     hideContent: true
     fields:
@@ -382,12 +382,19 @@ models:
       - type: list
         name: sections
         label: Seções
-        description: Seção de cursos
+        description: Seções da página
         items:
           type: model
           models:
-            - image_section
-            - text_section
+            - hero_section
+            - content_section
+            - cta_section
+            - grid_section
+            - cursos_section
+            - downloads_section
+            - posts_section
+            - testimonials_section
+            - form_section
       - type: model
         name: seo
         models:
@@ -396,7 +403,7 @@ models:
     type: page
     urlPath: '/downloads/{slug}'
     label: Downloads
-    layout: advanced
+    layout: curso
     folder: downloads
     hideContent: true
     fields:
@@ -423,13 +430,20 @@ models:
         description: The alt text of the thumbnail image
       - type: list
         name: sections
-        label: Sections
-        description: Seção de downloads
+        label: Seções
+        description: Seções da página
         items:
           type: model
           models:
-            - image_section
-            - text_section
+            - hero_section
+            - content_section
+            - cta_section
+            - grid_section
+            - cursos_section
+            - downloads_section
+            - posts_section
+            - testimonials_section
+            - form_section
       - type: model
         name: seo
         models:
