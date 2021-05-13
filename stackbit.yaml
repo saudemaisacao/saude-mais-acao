@@ -393,13 +393,13 @@ models:
     urlPath: '/downloads/{slug}'
     label: Downloads
     layout: curso
-    folder: cursos
+    folder: downloads
     hideContent: true
     fields:
       - type: string
         name: title
         label: Título
-        description: O título do curso
+        description: O título do download
         required: true
       - type: string
         name: subtitle
