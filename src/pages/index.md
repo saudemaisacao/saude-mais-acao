@@ -17,8 +17,8 @@ sections:
         light_text: true
         actions:
           - label: saiba mais
-            url: '#'
-            style: link
+            url: /parceria-startse
+            style: button
             icon: instagram
             new_window: false
             no_follow: false
@@ -31,10 +31,19 @@ sections:
         image_alt: App saúde investimentos
         light_text: true
         actions:
-          - label: saiba mais
-            url: '#'
-            style: link
+          - label: Google Play
+            url: >-
+              https://play.google.com/store/apps/details?id=com.bredi.saudeinvestimentos
+            style: button
             icon: instagram
+            new_window: false
+            no_follow: false
+            type: action
+          - label: App Store
+            url: >-
+              https://itunes.apple.com/br/app/sa%C3%BAde-investimentos/id1281517519?mt=8
+            style: button
+            icon: dribbble
             new_window: false
             no_follow: false
             type: action
@@ -50,7 +59,7 @@ sections:
         actions:
           - label: saiba mais
             url: '#'
-            style: link
+            style: button
             icon: instagram
             new_window: false
             no_follow: false
