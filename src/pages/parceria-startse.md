@@ -144,8 +144,9 @@ sections:
         image: /images/reinvente-sua-carreira@2x.jpg
       - title: O poder da Persuação Digital
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Os segredos do neuromarketing por trás do comportamento digital do
+          consumidor. Como entender e influenciar pessoas em suas decisões nos
+          meios digitais
         image_alt: curso
         content: null
         actions: []
