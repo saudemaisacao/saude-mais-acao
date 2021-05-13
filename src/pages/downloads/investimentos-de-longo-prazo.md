@@ -1,5 +1,5 @@
 ---
-title: Inteligência financeira para Enriquecer com Saúde
+title: Investimentos de longo prazo
 hide_title: true
 sections:
   - section_id: lorem-ipsum
