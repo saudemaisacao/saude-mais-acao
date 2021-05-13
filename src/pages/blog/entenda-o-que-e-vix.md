@@ -15,7 +15,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/pink-moon.jpeg
+thumb_image: /images/good-robin.jpeg
 date: '2020-09-11'
 image: /images/good-robin.jpeg
 ---
