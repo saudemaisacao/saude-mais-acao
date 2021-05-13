@@ -8,7 +8,7 @@ sections:
       - title: Inteligência financeira para Enriquecer com Saúde
         image_alt: lorem-ipsum
         actions: []
-        background: /images/ultra-goat.png
+        background: /images/instagramArtboard 2opy.png
     type: hero_section
 seo:
   title: ''
