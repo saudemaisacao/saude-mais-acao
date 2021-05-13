@@ -6,7 +6,7 @@ thumb_image: /images/panoramic-dolphin.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: /images/ultra-artichoke.png
+    image: /images/good-amaranth.png
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
