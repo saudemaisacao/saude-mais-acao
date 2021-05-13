@@ -1,5 +1,5 @@
 ---
-title: Dólar alto em aplicações financeiras
+title: 'Dólar em alta: 5 aplicações financeiras para ganhar dinheiro'
 subtitle: lorem-ipsum
 date: '2021-05-13'
 thumb_image_alt: lorem-ipsum
