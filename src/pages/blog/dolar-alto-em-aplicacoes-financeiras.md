@@ -3,7 +3,10 @@ title: 'Dólar em alta: 5 aplicações financeiras para ganhar dinheiro'
 subtitle: lorem-ipsum
 thumb_image_alt: dolar
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de
+  investimentos corretos ajuda o investidor a proteger o patrimônio contra
+  oscilações econômicas 
 seo:
   title: ''
   description: ''
