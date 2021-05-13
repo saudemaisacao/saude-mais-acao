@@ -71,5 +71,5 @@ seo:
     - name: 'twitter:image'
       value: images/work-branding-1.jpg
       relativeUrl: true
-template: project
+template: curso
 ---
