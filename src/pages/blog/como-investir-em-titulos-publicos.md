@@ -27,8 +27,6 @@ image: /images/groovy-olive.jpg
 ---
 **O que são os títulos públicos?**
 
-
-
 Títulos públicos são [ativos de renda fixa](https://saudemaisacao.com.br/blog/destaque-home/afinal-o-que-e-renda-fixa-e-renda-variavel/) emitidos pelo Governo Federal através do Tesouro Nacional. O que acontece é que, quando um investidor compra um título, ele está emprestando dinheiro para o Governo e em troca, depois de um certo período, pode receber a quantia mais juros. Os títulos públicos são distribuídos pela plataforma Tesouro Direto que foi desenvolvida pelo Tesouro Nacional junto com a B3.
 
 ## **Como os títulos funcionam?**
@@ -93,11 +91,7 @@ Outra cobrança está relacionada ao imposto, nesse caso, são dois: o IOF (Impo
 
 É utilizada a tabela regressiva, que funciona assim:
 
-*   22,5% para 
-
-    [investimentos](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/)
-
-     de até 180 dias;
+*   22,5% para [investimentos](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/) de até 180 dias;
 
 *   20% para aplicações de 181 dias até 360 dias;
 
