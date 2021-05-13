@@ -63,7 +63,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/cultura@2x.jpg
-      - title: lorem-ipsum
+      - title: Decodificando China
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
