@@ -1862,10 +1862,10 @@ collections:
         name: template
         label: Template
         required: true
-        default: project
+        default: curso
     filter:
       field: template
-      value: project
+      value: curso
   - name: download
     label: Downloads
     folder: src/pages/downloads
