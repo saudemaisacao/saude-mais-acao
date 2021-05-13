@@ -12,7 +12,7 @@ sections:
         light_text: 'true'
     type: hero_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Você também vai gostar
     subtitle: lorem-ipsum
     layout_style: tiles
     items_number: 2
