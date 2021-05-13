@@ -1,6 +1,8 @@
 ---
 title: Qual a melhor hora para investir?
-subtitle: lorem-ipsum
+subtitle: >-
+  Com o propósito de multiplicar riqueza, não importa a profissão, os objetivos,
+  o montante que se ganha ou mesmo se você é patrão ou empregado.
 date: '2018-12-10'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
