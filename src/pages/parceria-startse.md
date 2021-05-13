@@ -214,8 +214,8 @@ sections:
         image: /images/enthusiastic-yam.jpg
       - title: Gestão Inovadora para Médicos
         subtitle: >-
-          Como as startups e as novas tecnologias estão transformando o universo
-          da construção civil
+          Aprenda a aplicar as técnicas de gestão que potencializam seus
+          resultados
         image_alt: curso
         content: null
         actions: []
