@@ -1253,7 +1253,7 @@ collections:
     label: Downloads
     files:
       - name: downloads
-        label: Todos os Downloads
+        label: Todos os downloads
         file: src/pages/downloads/index.md
         fields:
           - widget: string
