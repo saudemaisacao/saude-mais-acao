@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: /images/233004-saiba-como-desenvolver-inteligencia-financeira-com-x-dicas.jpg
+image: /images/smiling-crane.jpg
 ---
 O conceito de inteligência financeira gira em torno da sabedoria e do domínio em lidar com os recursos financeiros que se ganha, bem como com o quanto se gasta. Afinal, o dinheiro não pode ditar as regras em sua vida. Ao contrário, você é quem precisa mandar nele.
 
