@@ -14,4 +14,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: advanced
+thumb_image: /images/convite-sao-luiz.jpg
 ---
