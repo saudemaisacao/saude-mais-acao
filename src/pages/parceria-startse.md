@@ -209,7 +209,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/marvelous-strawberry.jpg
       - title: Executive Program
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
