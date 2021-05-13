@@ -420,7 +420,7 @@ models:
       - type: list
         name: sections
         label: Sections
-        description: Project sections
+        description: Seção de downloads
         items:
           type: model
           models:
