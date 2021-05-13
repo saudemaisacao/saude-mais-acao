@@ -39,7 +39,7 @@ models:
         label: Esquema de cores
         description: The color scheme used for the site
         options:
-          - light
+          - claro
           - dark
         default: light
         required: true
