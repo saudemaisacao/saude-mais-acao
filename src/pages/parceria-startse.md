@@ -44,7 +44,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/jornada-empreendedor@2x.jpg
-      - title: lorem-ipsum
+      - title: Gestão de marketing para empresários e executivos
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
