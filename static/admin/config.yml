@@ -1587,9 +1587,9 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     fields:
-      - label: Autor
-        name: "author"
-        widget: "relation"
+      - widget: relation
+        label: Autor
+        name: author
         collection: "authors"
         search_fields: ["name.first", "twitterHandle"]
         value_field: "name.first"
