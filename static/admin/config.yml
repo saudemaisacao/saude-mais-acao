@@ -1631,8 +1631,8 @@ collections:
         default: download
     filter:
       field: template
-      value: download
-      
+      value: author
+
   - name: page
     label: Páginas
     folder: src/pages
