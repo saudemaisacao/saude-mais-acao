@@ -45,7 +45,7 @@ sections:
           financeira
         background: /images/bg-estrategia.jpg
         image: /images/mockup-notebook2.png
-        image_alt: Parceria com a StartSe
+        image_alt: Enriquecer faz bem a saúde
         light_text: true
         actions:
           - label: saiba mais
