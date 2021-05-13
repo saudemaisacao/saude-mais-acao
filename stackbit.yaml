@@ -106,7 +106,7 @@ models:
             - action
   footer:
     type: object
-    label: Footer Configuration
+    label: Configurações de Rodapé
     labelField: content
     fields:
       - type: string
