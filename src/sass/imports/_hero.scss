@@ -77,7 +77,8 @@
 
   &__image {
       position: absolute;
-      max-width: 30vw;
+      width: 30vw;
+      height: 50vh;
       right: -25vw;
       bottom: 10vh;
       object-fit: contain;
