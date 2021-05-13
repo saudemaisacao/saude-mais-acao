@@ -1466,6 +1466,8 @@ collections:
             required: true
             default: cursos
   - author:
+    label: Autores
+    name: author
 
   - name: page
     label: Páginas
