@@ -1469,7 +1469,7 @@ collections:
     label: Autores
     files:  
       - name: cursos
-        label: Todos os cursos
+        label: Todos os autores
         file: src/pages/cursos/index.md
         fields:
           - widget: string
