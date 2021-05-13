@@ -6,17 +6,8 @@ sections:
     title: lorem-ipsum
     hero_items:
       - title: Investimentos de longo prazo
-        subtitle: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        subtitle: |
+          Guia prático para garantir um futuro mais tranquilo
         image_alt: lorem-ipsum
         light_text: Guia prático para garantir um futuro mais tranquilo
         actions: []
