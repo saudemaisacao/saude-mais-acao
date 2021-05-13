@@ -142,7 +142,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Título
         description: The title of the page
         required: true
       - type: boolean
