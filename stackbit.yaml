@@ -626,7 +626,7 @@ models:
             - action
   testimonials_section:
     type: object
-    label: Seção de testemunhos
+    label: Seção de depoimentos
     extends:
       - section
     fields:
