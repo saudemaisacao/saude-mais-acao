@@ -160,7 +160,7 @@ models:
             - content_section
             - cta_section
             - grid_section
-            - portfolio_section
+            - cursos_section
             - posts_section
             - testimonials_section
             - form_section
