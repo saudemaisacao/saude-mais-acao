@@ -1592,7 +1592,7 @@ collections:
         label: Autor
         collection: authors
         search_fields: ["name.first", "twitterHandle"]
-        value_field: "name.first"
+        value_field: name.first
         display_fields: ["twitterHandle", "followerCount"]
       - widget: string
         name: title
