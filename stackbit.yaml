@@ -160,8 +160,6 @@ models:
             - content_section
             - cta_section
             - grid_section
-            - cursos_section
-            - downloads_section
             - posts_section
             - testimonials_section
             - form_section
