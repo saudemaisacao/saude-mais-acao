@@ -183,7 +183,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-              - title: Construtech Masters
+      - title: Construtech Masters
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
           da construção civil
@@ -192,7 +192,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-              - title: Construtech Masters
+      - title: Construtech Masters
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
           da construção civil
@@ -201,7 +201,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-              - title: Construtech Masters
+      - title: Construtech Masters
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
           da construção civil
@@ -210,7 +210,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-              - title: Construtech Masters
+      - title: Construtech Masters
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
           da construção civil
@@ -219,7 +219,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/caring-aspen.jpg
-              - title: Construtech Masters
+      - title: Construtech Masters
         subtitle: >-
           Como as startups e as novas tecnologias estão transformando o universo
           da construção civil
