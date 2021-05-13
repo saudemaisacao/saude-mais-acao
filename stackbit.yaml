@@ -653,7 +653,7 @@ models:
         required: true
       - type: string
         name: position
-        label: Author position
+        label: Posição do autor
         description: The position of the testimonial author
         required: true
       - type: image
