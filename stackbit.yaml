@@ -244,6 +244,7 @@ models:
     exclude:
       - blog/**
       - portfolio/**
+      - downloads/**
     fields:
       - type: string
         name: title
