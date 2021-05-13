@@ -11,7 +11,7 @@ sections:
         subtitle: >-
           Uma empresa de educação pioneira quando o assunto é tecnologias
           disruptivas.
-        image: /images/bg-app.jpg
+        image: /images/bg-parceria-startse.jpg
         image_alt: Parceria com a StartSe
         light_text: true
         actions:
@@ -25,7 +25,7 @@ sections:
       - type: hero_item
         title: Baixe o APP Saúde Investimentos
         subtitle: 'para que vc possa organizar, escolher e comparar seus investimentos'
-        image: /images/photo-1588792164216-c72e6a14ae0b.jpg
+        image: /images/bg-app.jpg
         image_alt: App saúde investimentos
         light_text: false
         actions:
@@ -41,7 +41,7 @@ sections:
         subtitle: >-
           Já ensinamos milhares de médicos a como construir sua independência
           financeira
-        image: /images/bg-app.jpg
+        image: /images/bg-estrategia.jpg
         image_alt: Parceria com a StartSe
         light_text: true
         actions:
