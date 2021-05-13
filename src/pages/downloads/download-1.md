@@ -2,7 +2,7 @@
 title: Investimentos de longo prazo
 subtitle: Guia prático para garantir um futuro mais tranquilo
 date: '2020-02-10'
-thumb_image: /images/post_thumbnail-33c5686c8e67d409cdf64236bc40996a.jpeg
+thumb_image: /images/thoughtful-basil.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
