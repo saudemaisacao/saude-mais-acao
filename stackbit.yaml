@@ -161,6 +161,7 @@ models:
             - cta_section
             - grid_section
             - portfolio_section
+            - downloads_section
             - posts_section
             - testimonials_section
             - form_section
