@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     hero_items:
-      - title: Inteligência financeira
+      - title: Inteligência financeira para Enriquecer com Saúde
         subtitle: >-
           ## Lorem ipsum
 
