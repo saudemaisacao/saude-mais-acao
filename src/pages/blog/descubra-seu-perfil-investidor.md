@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Descubra o perfil de investidor que mais combina com você
 subtitle: lorem-ipsum
 date: '2021-05-13'
 thumb_image_alt: lorem-ipsum
