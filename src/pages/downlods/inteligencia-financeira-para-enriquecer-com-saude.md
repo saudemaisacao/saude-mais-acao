@@ -1,6 +1,6 @@
 ---
 title: Inteligência financeira para enriquecer com saúde
-hide_title: true
+hide_title: false
 sections: []
 seo:
   title: ''
