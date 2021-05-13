@@ -389,10 +389,10 @@ models:
           - stackbit_page_meta
   download:
     type: page
-    urlPath: '/cursos/{slug}'
-    label: Cursos
-    layout: project
-    folder: cursos
+    urlPath: '/downloads/{slug}'
+    label: Downloads
+    layout: download
+    folder: downloads
     hideContent: true
     fields:
       - type: string
