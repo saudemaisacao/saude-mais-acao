@@ -345,11 +345,11 @@ models:
         name: seo
         models:
           - stackbit_page_meta
-  project:
+  curso:
     type: page
     urlPath: '/cursos/{slug}'
     label: Cursos
-    layout: project
+    layout: curso
     folder: cursos
     hideContent: true
     fields:
