@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     hero_items:
-      - title: lorem-ipsum
+      - title: Inteli
         subtitle: >-
           ## Lorem ipsum
 
