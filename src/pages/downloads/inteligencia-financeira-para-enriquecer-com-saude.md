@@ -1,7 +1,11 @@
 ---
 title: Inteligência financeira para Enriquecer com Saúde
 hide_title: true
-sections: []
+sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    hero_items: []
+    type: hero_section
 seo:
   title: ''
   description: ''
