@@ -12,7 +12,7 @@ sections:
           Uma empresa de educação pioneira quando o assunto é tecnologias
           disruptivas.
         background: /images/bg-parceria-startse.jpg
-        image: 
+        image: null
         image_alt: Parceria com a StartSe
         light_text: true
         actions:
@@ -57,7 +57,7 @@ sections:
             type: action
   - section_id: blog
     title: Últimas notícias
-    subtitle: lorem-ipsum
+    subtitle: Aprenda a investir e conquiste liberdade financeira
     posts_number: 3
     col_number: three
     actions: []
