@@ -1,7 +1,5 @@
 ---
-title: >-
-  A DOC Content e o Autor Francinaldo Gomes convidam você para palestra e
-  lançamento do livro Enriquecer faz bem à saúde
+title: Saiba como desenvolver inteligência financeira com 4 dicas
 subtitle: lorem-ipsum
 date: '2021-05-13'
 thumb_image_alt: lorem-ipsum
