@@ -28,7 +28,7 @@ models:
         name: domain
         label: Domínio
         description: >-
-          The domain of your site, including the protocol, e.g.
+          The domain of your site, including the protocol, e.x.
           https://mysite.com
       - type: image
         name: favicon
