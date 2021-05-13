@@ -11,7 +11,8 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/259009-como-montar-um-plano-de-investimentos-para-o-proximo-ano.jpg
+thumb_image: >-
+  /images/243355-estender-1000-palavras-o-planejamento-financeiro-o-primeiro-passo.jpg
 image: /images/thoughtful-yam.jpg
 ---
 Se você fica se perguntando o que é preciso fazer para conquistar a independência financeira, o primeiro passo a ser dado é realizar um planejamento financeiro para organizar o que entra e o que sai da sua conta.
