@@ -206,7 +206,7 @@ models:
   cursos:
     type: page
     urlPath: /cursos
-    label: Cursos
+    label: Todos os cursos
     layout: cursos
     file: cursos/index.md
     hideContent: true
