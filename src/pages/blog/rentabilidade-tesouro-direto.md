@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Qual a rentabilidade do Tesouro Direto? Descubra aqui
 subtitle: lorem-ipsum
 date: '2021-05-15'
 thumb_image_alt: lorem-ipsum
