@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+date: '0201-07-12'
 ---
 Uma das dúvidas mais frequentes de investidores iniciantes em títulos públicos é sobre a rentabilidade do Tesouro Direto. Esses títulos são dívidas emitidas pelo Tesouro Nacional para serem comprados por pessoas físicas.
 
