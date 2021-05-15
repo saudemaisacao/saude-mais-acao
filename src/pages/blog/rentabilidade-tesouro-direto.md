@@ -1,5 +1,5 @@
 ---
-title: Qual a rentabilidade do Tesouro Direto? Descubra aqui
+title: Qual a rentabilidade do Tesouro Direto? Descubra aqui!
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 template: post
 date: '2018-07-12'
+image: /images/256564-qual-a-rentabilidade-do-tesouro-direto-descubra-aqui.jpg
 ---
 Uma das dúvidas mais frequentes de investidores iniciantes em títulos públicos é sobre a rentabilidade do Tesouro Direto. Esses títulos são dívidas emitidas pelo Tesouro Nacional para serem comprados por pessoas físicas.
 
