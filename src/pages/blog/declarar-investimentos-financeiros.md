@@ -3,7 +3,10 @@ subtitle: lorem-ipsum
 date: '2021-05-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Você sabe como declarar investimentos financeiros? Trata-se de um procedimento
+  burocrático, mas é necessário para estar em dia com as obrigações da Receita
+  Federal. 
 seo:
   title: ''
   description: ''
