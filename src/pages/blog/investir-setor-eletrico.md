@@ -14,6 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_image: /images/255029-descubra-se-vale-a-pena-investir-em-acoes-do-setor-eletrico.jpg
 ---
 Todo investidor opta por investimentos mais seguros em momentos de crise econômica. Normalmente, os ativos mais procurados nesse cenário são o ouro e as ações do setor elétrico.
 
