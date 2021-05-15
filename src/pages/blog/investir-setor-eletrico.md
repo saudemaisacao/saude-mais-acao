@@ -1,6 +1,6 @@
 ---
 title: Descubra se vale a pena investir em ações do setor elétrico
-date: '2021-01-15'
+date: '2018-10-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
