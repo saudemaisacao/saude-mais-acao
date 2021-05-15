@@ -1,6 +1,5 @@
 ---
 title: Como vai a saúde financeira do seu consultório?
-subtitle: lorem-ipsum
 date: '2021-05-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
