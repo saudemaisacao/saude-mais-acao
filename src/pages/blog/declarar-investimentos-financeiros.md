@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 title: Como declarar os investimentos financeiros no imposto de renda?
-date: '2018-01-12'
+date: '2018-12-13'
 thumb_image: >-
   /images/261219-como-declarar-os-investimentos-financeiros-no-imposto-de-renda.jpg
 ---
