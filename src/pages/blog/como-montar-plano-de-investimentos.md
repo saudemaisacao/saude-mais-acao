@@ -3,7 +3,7 @@ title: Como montar um plano de investimentos para o próximo ano
 date: '2021-01-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: "Para muitos, entrar para o mundo dos negócios e começar a investir é um processo complexo. Em primeiro lugar,\_tudo o que envolve nossas finanças exige um cuidado, já que um erro pode ser fatal.\_Em segundo lugar, ao se tratar\_de aplicações, o interessado ainda precisa lidar com a imprevisibilidade do mercado."
+excerpt: "Para muitos, entrar para o mundo dos negócios e começar a investir é um processo complexo. Em primeiro lugar,\_tudo o que envolve nossas finanças exige um cuidado, já que um erro pode ser fatal."
 seo:
   title: ''
   description: ''
