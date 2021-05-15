@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 title: Como declarar os investimentos financeiros no imposto de renda?
+date: '2018-12-12'
 ---
 Você sabe como declarar investimentos financeiros? Trata-se de um procedimento burocrático, mas é necessário para estar em dia com as obrigações da Receita Federal. Não é novidade que o fisco tem aprimorado cada vez mais a fiscalização e, por isso, quem tiver alguma irregularidade pode cair na malha fina e ter várias dores de cabeça, o que ninguém deseja, não é mesmo?As pessoas que têm [aplicações financeiras](https://blog.rico.com.vc/aplicacoes-financeiras-mais-rentaveis-2018) na bolsa de valores e contam com elevado patrimônio precisam fazer a declaração do tributo. Os investidores que se enquadrarem em uma dessas condições abaixo precisarão acertar as contas com o leão no próximo ano. Os critérios são estes:
 
