@@ -1,11 +1,11 @@
 ---
 title: Como vai a saúde financeira do seu consultório?
-date: '2021-05-15'
+date: '2021-01-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: "Tão importante quanto cuidar das\_finanças pessoais, é cuidar da saúde financeira do consultório. Por uma razão muito simples: é de lá que vem renda. "
 seo:
-  title: 'Como vai a saúde financeira do seu consultório?'
+  title: Como vai a saúde financeira do seu consultório?
   description: ''
   robots: []
   extra: []
