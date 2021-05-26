@@ -15,48 +15,52 @@ date: '2020-06-15'
 thumb_image: /images/blog/educacao-financeira-para-as-criancas.jpeg
 image: /images/blog/educacao-financeira-para-as-criancas.jpeg
 ---
-Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de [investimentos](https://saudemaisacao.com.br/blog/como-investir-dinheiro-no-exterior/) corretos ajuda o investidor a proteger o patrimônio contra oscilações econômicas — como a desvalorização do real perante as moedas estrangeiras — e pode contribuir para a pessoa aumentar o seu capital.
+Diversos brasileiros adultos nunca tiveram uma educação financeira adequada e, geralmente, por mais que tenham bons rendimentos, quando o assunto é controle financeiro, eles acabam se enrolando. O fato é que ter uma relação saudável com o dinheiro desde cedo pode refletir em uma vida adulta mais organizada e tranquilidade financeira.
 
-Neste post abordaremos os investimentos mais recomendados com a alta da moeda norte-americana e explicaremos como as aplicações financeiras em dólar podem garantir proteção do patrimônio nos momentos de instabilidade econômica. Acompanhe!
+A fim de que isso seja menos complicado, o recomendado é que a educação financeira para as crianças se inicie desde cedo no dia a dia da família, já que ao conversar sobre finanças, é bem mais provável que elas cresçam financeiramente responsáveis.
 
-## **Quais são os melhores investimentos com o dólar em alta?**
+Neste post, listaremos 6 dicas que podem auxiliar na educação financeira das crianças. Acompanhe!
 
-Existem várias aplicações financeiras que se beneficiam com a valorização da moeda norte-americana. Entre elas estão os fundos cambiais, os contratos futuros e as ações de algumas empresas. Explicaremos sobre elas a seguir.
+## 1. Uso da mesada como aliada na educação
+Uma ferramenta que sugerimos para iniciar a educação financeira de seus filhos é a mesada. Ela ainda é a maneira mais conhecida e tradicional para incluir os filhos no universo das finanças. Ela é uma ótima opção para ensinar as crianças sobre a gestão do seu próprio dinheiro e auxilia especialmente no momento que forem receber o seu primeiro salário, ajudando a controlar o orçamento e a evitar gastos por impulso.
 
-### 1. Fundos cambiais
+É primordial que elas tenham um montante fixo, que seja compatível com uma periodicidade regular e com a idade. Com isso, é possível utilizar esse recurso como uma ajuda para direcionar as crianças sobre como poupar e não gastar mais do que se ganha.
 
-É a aplicação mais indicada para o pequeno investidor. Com R$ 1.000 é possível investir nesses fundos. Ainda há a vantagem da diversificação, pois o seu capital é aplicado em várias [ações](http://saudemaisacao.com.br/como-escolher-as-melhores-acoes-para-investir/) que estão sujeitas a variação do preço da moeda estrangeira.
+Todavia, é primordial que seu filho tenha liberdade para escolher como será utilizado o dinheiro recebido, pois é somente associando as informações que você oferece com a experiência que ele assimilará o que é fazer uma boa utilização do valor. Outra dica essencial é não associar os estudos à mesada.
 
-No entanto, não é interessante resgatar o dinheiro em um prazo inferior a 30 dias. Nesse caso haverá cobrança do Imposto sobre Operações de Crédito (IOF), o que comprometerá a rentabilidade do investimento.
+Isso se deve ao fato de que o dinheiro não pode ser uma motivação para que ele tenha um bom desempenho na escola. É necessário que as crianças compreendam que tirar boas notas é uma responsabilidade delas. Oferecer dinheiro em troca disso é um erro muito cometido pelos pais, porém, precisa ser evitado.
 
-### 2. Dólar em espécie
+## 2. Estimular o hábito de poupar
+É extremamente importante ensinar a importância de poupar, pelo menos, uma parte do dinheiro que eles recebem para algum objetivo relevante. Questione o seu filho o que ele gostaria de fazer com o dinheiro. Talvez, ele queira juntar para comprar algum brinquedo, passear com os amigos, entre outras coisas. Contudo, é preciso ensiná-los desde cedo a anotar ou desenhar seus objetivos. Realize as contas para determinar quanto tempo e dinheiro devem ser poupados.
 
-Muitas pessoas pensam que [comprar moedas estrangeiras](https://www.cotacao.com.br/produtos-e-servicos/comprar-moeda-em-especie/) é um investimento, mas essa operação tem um custo alto. As instituições financeiras que vendem dólar em espécie cobram IOF, spread (diferença entre o valor de compra e venda) e outras tarifas adicionais.
+## 3. Ensinar a comprar o que realmente for útil
+Outra prática relevante na educação financeira para as crianças é ensiná-las a entender o que é, de fato, útil para elas. No começo, essa missão pode parecer um pouco complicada, mas é mais simples do que aparenta.
 
-Além desses gastos, há ainda o risco de roubo ou furto e do papel-moeda estragar com o passar do tempo. Portanto, só é interessante ter algumas notas de dólar no caso de viagens internacionais.
+Para tal, é só explicar a diferença entre o que é necessidade básica, ou seja, o que ele precisa realmente — como alimentação, higiene e vestuário — e o que é supérfluo, que normalmente é o que ele quer — como doces, brinquedos etc.
 
-### 3. Contratos futuros de dólar&#xA;&#xA;&#xA;
+Com isso, é essencial que você motive seu filho a ter metas e objetivos para o dinheiro. Dessa forma, desde cedo ele aprende a valorizar o que ganha e a somente consumir o que realmente ele necessita naquele momento.
 
-Eles pagam a diferença da valorização da moeda norte-americana em determinado período. Nessa aplicação financeira não há carência, ou seja, um investimento pode ser resgatado e aplicado quando você desejar.
+## 4. Explicar sobre a relação trabalho x dinheiro
+Geralmente, as crianças têm bastante curiosidade sobre o trabalho dos pais e, às vezes, até chegam a visitá-los no serviço. Por esse motivo, aproveite quando elas apresentarem dúvidas sobre seu emprego ou realizarem questionamentos para conversar sobre o que é salário. Essa será uma ótima chance para ensinar o valor do dinheiro.
 
-Esses contratos são muito úteis para as pessoas que desejam viajar ao exterior. Quando o dólar sobe, o investidor ganha com a diferença. Por outro lado, se a moeda cair, ele perde no investimento, mas gasta menos com hotel e hospedagem, por exemplo.
+Inicie deixando claro que o seu salário nada mais é que a junção de três elementos diferentes: o tempo disponibilizado para a sua função, o valor dado ao seu esforço na sua função e todo o conhecimento que você conquistou ao longo de sua vida.
 
-### 4. Ações de empresas específicas
+É possível complementar acrescentando o quanto ganha por hora e suas atividades diárias. Dessa forma, os pequenos compreenderão que o dinheiro é uma moeda de troca e que se você não trabalha, não poderá tê-lo.
 
-Algumas companhias nacionais têm parte dos seus ganhos em dólar. Com isso, os lucros são influenciados conforme a variação do câmbio. Quando a moeda estrangeira está em alta, as receitas aumentam. Isso acontece com ações de muitas empresas exportadoras, como a FIBR3 (Fibria) e a SUZB5 (Suzano) — que exportam celulose e papel, respectivamente.
+## 5. Orientar sobre o cartão de crédito
+Conforme eles aprendem sobre como lidar com o dinheiro, também é essencial que você explique para os seus filhos como funciona o cartão de crédito. Isso se deve ao fato de que, de acordo com o ponto de vista deles e também na de vários adultos, o cartão é como se fosse uma verba extra, mas essa não é a realidade.
 
-### 5. Fundos multimercados
+É preciso que você mostre que o valor da fatura do cartão também será descontado do que você recebe como salário e que, caso não seja um consumo planejado, poderá prejudicar o orçamento de toda a família.
 
-Os fundos multimercados podem operar vários tipos de ativos — entre eles estão aplicações em [renda fixa](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/), ações e cambiais. As condições de liquidez, rentabilidade e risco variam conforme cada fundo.
+Inclusive, é importante exemplificar que, diferente de quando você compra com dinheiro em espécie, o crédito apresenta juros que são cobrados todo mês e que deixam o valor final do serviço ou produto mais caro, e que por essa razão é recomendado pagar sempre à vista.
 
-Nos investimentos em câmbio, o gestor destina a maior parte dos recursos a ativos que têm o seu desempenho influenciado pelo dólar. Dessa forma, em caso de alta da moeda, o investidor ganha dinheiro.
+## 6. Importância de incluir a criança em alguma decisão financeira
+Incluir as crianças nas decisões financeiras da casa é uma dica muito valiosa de como melhorar o seu conhecimento financeiro. Isso pode ser feito em ocasiões triviais do dia a dia, como ir ao mercado, por exemplo.
 
-Como em qualquer fundo de investimento, você contará com um gestor para direcionar as estratégias. Nesse tipo um fundo ele terá mais liberdade para agir, então antes de escolher um multimercado, é importante conhecer o histórico da pessoa que vai gerir o fundo, verificar o desempenho do ativo nos últimos 24 meses e ter confiança no administrador.
+Uma dica é você levar seu filho com você e dar uma aula de economia para ele, listando os produtos que a família precisa naquele momento e pedir a ele que escolha os mais baratos ou que estejam em promoção.
 
-## **Como o investimento em dólar garante proteção ao patrimônio?**
+Outra forma eficaz é reservar uma pequena quantia e dar a ele para que possa comprar algo que queira. Dessa forma, ao fazer pesquisas e comparar preços, ele começa a desenvolver a capacidade de memorização e o raciocínio lógico.
 
-O investimento em moeda estrangeira protege contra oscilações econômicas, entre elas as variações no câmbio. Em alguns momentos o real perde valor, e a pessoa tem o seu poder de compra diminuído quando viaja para o exterior. Por outro lado, quem investe em dólar consegue se precaver dessa “crise”.
+Por fim, essas foram algumas dicas importantes que podem ser utilizadas na educação financeira para as crianças. Assim, é possível mostrar a relevância de fazer a gestão do dinheiro e de se planejar financeiramente para conseguir conquistar seus objetivos. É essencial que a criança saiba onde o dinheiro foi utilizado, além de fazê-la compreender que nem sempre poderá adquirir tudo que quer ao mesmo tempo.
 
-Existem muitas aplicações financeiras que podem se beneficiar com a alta do dólar. Entre elas estão contratos futuros, fundos cambiais e ações de algumas empresas. A rentabilidade desses investimentos é influenciada pela valorização ou não da moeda. Por isso, vale a pena destinar seu patrimônio a esses investimentos com o objetivo de proteger o seu capital.
-
-Gostou das dicas sobre como investir com o dólar em alta? Compartilhe este post nas redes sociais e permita que mais pessoas saibam fazer investimentos nesse cenário!
+Curtiu nossas dicas para promover a educação financeira das crianças? Então, não perca tempo e entre em contato conosco para conhecer nossos serviços!

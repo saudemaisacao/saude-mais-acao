@@ -15,53 +15,60 @@ date: '2020-05-04'
 image: /images/blog/tipos-de-fundos-de-investimentos.jpeg
 thumb_image: /images/blog/tipos-de-fundos-de-investimentos.jpeg
 ---
-Uma das dúvidas mais frequentes de investidores iniciantes em títulos públicos é sobre a rentabilidade do Tesouro Direto. Esses títulos são dívidas emitidas pelo Tesouro Nacional para serem comprados por pessoas físicas.
+Conhecer os tipos de fundos de investimentos pode ser uma boa para você que pensa em diversificar mais, porém não sabe por onde começar. Uma das grandes vantagens dessa aplicação é que ela concentra um número de ativos de diferentes origens em um só lugar. Além disso, não há a necessidade de serem administrados pelo investidor, trabalho feito por um profissional escolhido pela instituição do fundo.
 
-Portanto, ao [investir](https://saudemaisacao.com.br/blog/voce-sabe-quanto-investir-em-renda-fixa/) no Tesouro Direto, você está financiando as atividades do governo brasileiro. Esses títulos podem ser [prefixados](https://saudemaisacao.com.br/blog/pos-ou-pre-como-investir-em-renda-fixa/), caso você prefira saber exatamente quanto vai ganhar na hora que aplicar o dinheiro, ou pós-fixados, onde a rentabilidade do título está atrelada a um índice, como a taxa de juros ou a inflação.
+Contudo, antes de começar a aplicar, é preciso que você saiba bem qual das alternativas disponíveis no mercado têm mais a ver com as suas intenções. Neste texto, vamos explicar como os principais fundos funcionam. Confira!
 
-Neste post, vamos explicar para você como funciona a rentabilidade do Tesouro Direto para cada um dos títulos disponíveis para aplicação. Confira!
+## O que são fundos de investimentos?
+Se você nunca ouviu falar sobre os fundos de investimentos, é provável que fique um pouco confuso a respeito da forma como eles funcionam. Em muitos blogs, é comum usar a analogia do condomínio, porém, aqui vamos ser um pouco mais práticos.
 
-## **Tesouro Prefixado**
+Podemos dizer que o fundo de investimento é uma espécie de aplicação em grupo. Sendo assim, várias pessoas se juntam com o objetivo de investir em uma cesta de ativos predeterminados. Esses investimentos podem ter características semelhantes, como serem apenas de renda fixa.
 
-Também conhecido como Letra do Tesouro Nacional (LTN), é um título de investimento em que no momento da aplicação do seu dinheiro, o investidor tem conhecimento da quantia que receberá quando o papel vencer, independentemente das oscilações de cenário econômico.
+Essa “cesta” é dividida em cotas e cada investidor tem o direito de ter, pelo menos, uma. Com o tempo ele pode adquirir mais, dessa forma, ter mais retorno dependendo do resultado geral do fundo.
 
-A rentabilidade da LTN vai depender do prazo de vencimento. Na maioria dos casos, quanto mais tempo você deixar seu capital investido, maior será a sua taxa de retorno.
+Como funciona a administração desses fundos?
+A administração é feita por um profissional, ou seja, um gestor determinado pela instituição, que fica responsável por escolher, alocar e trocar os ativos quando necessário. É possível encontrar fundos em corretoras e bancos, cada categoria tem regras de funcionamento próprias para a quantidade de investimentos, tempo de resgate, taxas etc.
 
-O Tesouro Prefixado com vencimento em 2021, por exemplo, está oferecendo rentabilidade de 8,22% ao ano, enquanto este mesmo título conta com uma taxa de retorno de 10,25% ao ano quando com vencimento em 2029.
+## Quais são os custos?
+Em todos os tipos de fundos existe a cobrança da taxa de administração. Ela é a responsável por cobrir os serviços da gestão e das instituições envolvidas. Também, pode haver a cobrança da de performance que tem relação com a rentabilidade do investimento. Quando ela supera o índice a qual está atrelado, a tarifa é cobrada como uma espécie de bônus para a administração pelo bom resultado.
 
-## **Tesouro Prefixado com Juros Semestrais**
+Há a cobrança do IOF (Imposto sobre Operações Financeiras) e também do Imposto de Renda. No caso do IR, é utilizado a tabela regressiva, a cobrança ocorre sobre os rendimentos no fim de maio e novembro.
 
-Antes chamado de NTN-F (Notas do Tesouro Nacional série F), este tipo de título também garante ao investidor saber qual será a sua rentabilidade antes do seu vencimento.
+A alíquota funciona da seguinte forma:
 
-O que diferencia ele do papel que explicamos anteriormente é o seu fluxo de pagamento, que será feito semestralmente, funcionando como um tipo de antecipação dos lucros.
+até 180 dias — 22,5%;
+181 – 360 dias — 20%;
+361 – 720 dias — 17,5%;
+acima de 721 dias — 15%.
 
-## **Tesouro Selic**
+## Quais são os tipos de fundos de investimentos?
+Neste tópico, resolvemos apresentar quais são os principais tipos de fundos encontrados no mercado. Entenda mais a seguir!
 
-Este é um título bastante procurado pelos investidores, pois ele pode ser inserido em todo tipo de portfólio de investimento, de modo a aumentar e preservar bons dividendos.
+### 1. Fundos cambiais
+A característica que mais define esse fundo é o fato de que ele tem ativos que estão atrelados a moedas estrangeiras. Na verdade, 80% da sua composição deve ser baseada no câmbio. Costuma ser bastante investido por pessoas que querem se proteger das oscilações de moedas, como o dólar e euro, que costumam ser mais estáveis perante outras no mercado.
 
-O índice de rentabilidade é precisamente a taxa Selic anual. No ano passado, o acúmulo da Selic ficou em 10,04%, ou seja, a rentabilidade do Tesouro Direto Selic foi exatamente essa. Já em 2018, até o mês de julho, a Selic apresentou o acúmulo de 6,5%, sendo que a meta é de 7,0% para o ano.
+### 2. Fundo de ativos no exterior
+A composição dele é de, no mínimo, 40% de investimentos do exterior. Essa determinação é feita pela ANBIMA (Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais). Sendo assim, ele pode ser tanto focado em um país específico ou ter ativos de diversos países. A porcentagem não atrelada ao exterior costuma conter outros tipos de aplicações, como renda fixa, variável ou até outros fundos, dependendo da estratégia.
 
-Portanto, o rendimento do Tesouro Selic em 2018 tem a previsão de ser menor do que em 2017.
+### 3. Fundos de renda fixa
+Como o nome já indica, ele trabalha basicamente com investimentos de renda fixa. Nesse contexto, temos debêntures, títulos do Tesouro Direto, CDB, Letras Financeiras, entre outros. Eles podem tanto seguir o desempenho de um índice, como é o caso dos Fundos DI que seguem a taxa Selic, como ter diversos ativos de renda fixa em um lugar.
 
-Uma grande vantagem desse papel é que ele sempre terá o mesmo retorno do que a taxa básica de juros, por isso, é sempre uma boa escolha tê-lo na sua carteira de investimentos. Dado que o rendimento o tesouro selic oscila pouco durante o ano e este título possuir liquidez diária sem perda do rendimento, ele é um produto adequado para a reserva de emergência.
+### 4. Fundos de ações
+Esses são fundos em que boa parte de sua estratégia é investir em papéis de empresas. Basicamente 67% do patrimônio deve estar atrelado em ações ou, pelo menos, em ativos ligados a esse meio, como BDRs (Brazilian Depositary Receipts), bônus de subscrição, cotas de outros fundos de ação etc.
 
-## **Tesouro IPCA+**
+Diferente do de renda fixa, a tendência é que ocorra mais volatilidade nesse tipo de fundo, já que sua composição é de maioria de renda variável. Contudo, tendem a trazer um retorno mais expressivo a longo prazo. Portanto, é importante o investidor conhecer bem qual será a estratégia aplicada nele, antes de escolhê-lo.
 
-Também chamado de NTN-B principal, neste título público uma parte do cálculo da rentabilidade desse título está atrelada ao IPCA, que é a taxa da inflação utilizada pelo governo, enquanto a outra é prefixada.
+### 5. FIPs
+Também conhecidos como fundos de investimento em participações é um tipo que se encaixa na categoria de renda variável. Eles, assim como os fundos de ações, investem em empresas, porém, diferentemente do primeiro que é em companhias de capital aberto, no FIPs são de capital fechado. Aquelas que não são negociadas na bolsa, como consequência, tendem a trazer uma boa valorização, porém, também trazem riscos na mesma proporção.
 
-Dessa maneira, o investidor tem a garantia dos seus rendimentos serem sempre maiores do que a inflação. Justamente por essa razão, este é um papel bastante indicado para aplicações de longo prazo.
+### 6. Fundos Imobiliários
+Os fundos imobiliários se diferenciam um pouco dos fundos de investimentos. Pois, em vez de aplicar apenas em ativos financeiros, é como se o investidor fosse o dono do imóvel que o fundo está atrelado, uma vez que o fundo adquire ativos imobiliários físicos também.
 
-Em outubro de 2018, o Tesouro IPCA+ com vencimento em 2045 apresentou uma taxa de [10,99% ao ano](http://www.tesouro.gov.br/-/rentabilidade-acumulada).
+À medida que ele consegue mais cotas, mais direitos a receber por aquele empreendimento ele tem. A negociação desse tipo de fundo é feita na bolsa e é uma boa opção para quem não quer exatamente ser proprietário de um imóvel, mas quer receber pelo aluguel.
 
-## **Tesouro IPCA+ com Juros Semestrais**
+### 7. Exchange Traded Funds
+Os ETF’s que também podem ser traduzidos fundos de índices, são um investimento no qual sua estratégia principal é acompanhar algum índice do mercado. Dessa forma, a sua cesta replica o comportamento dos ativos que seguem o índice. Também são negociados na bolsa de valores, igual aos fundos imobiliários.
 
-O Tesouro IPCA+ tem a sua rentabilidade calculada da mesma forma do Tesouro IPCA, porém os pagamentos desse papel são realizados a cada 6 meses.
+Ao longo desse texto, apresentamos alguns tipos de fundos de investimentos e o que é importante você saber sobre eles. Lembrando de que podem ser uma ótima opção para quem procura diversificação e está no início de sua vida como investidor, portanto, não quer ter todo o trabalho de montar uma carteira sozinho.
 
-Por isso, essa é uma ótima opção para quem busca complementar a [renda](https://saudemaisacao.com.br/blog/afinal-o-que-e-renda-fixa-e-renda-variavel/) com títulos públicos. Portanto, este título é adequado para quem já acumulou patrimônio e necessita gerar fluxo de caixa periódico.
-
-A rentabilidade dessa aplicação, em outubro de 2018, para vencimento em 2050, ficou em 9,83% ao ano.
-
-Apenas para lembrar que as rentabilidades mostradas neste post são as rentabilidades brutas. Sobre elas incide alíquota de imposto de renda conforme conforme o tempo em que o título foi resgatado, sendo a alíquota mínima de 15% sobre o ganho para resgate após dois anos.
-Neste blog post, você teve a oportunidade de entender como funciona a rentabilidade do Tesouro Direto para cada tipo oferecido pelo governo. Para fazer a melhor escolha, analise suas necessidades e o seu perfil de investidor.
-
-Para que você tenha mais informações sobre o assunto leia também sobre os [investimentos de renda fixa e descubra como escolher os melhores](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa-descubra-como-escolher-os-melhores/)!
+Esperamos que este texto tenha sido útil para você! Quer continuar aumentando os seus conhecimentos sobre o mundo dos negócios? Então, assine a nossa newsletter!

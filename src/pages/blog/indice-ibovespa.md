@@ -15,58 +15,55 @@ template: post
 image: /images/blog/indice-ibovespa.jpeg
 thumb_image: /images/blog/indice-ibovespa.jpeg
 ---
-O investimento internacional é aconselhável não apenas para quem tem uma grande fortuna para diversificar, mas também para quem tem objetivos no exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
+Se você acompanha as notícias sobre o mundo das ações, já deve ter ouvido falar sobre o índice Ibovespa. Seja para informações boas ou ruins sobre o estado do mercado, esse indicador é sempre mencionado e costuma ser uma base para que os economistas entendam o estado da bolsa de valores brasileira.
 
-Especialistas em investimentos financeiros são unânimes em dizer que a diversificação é uma das chaves de aplicações bem-sucedidas. Essa máxima deve ser levada em consideração, principalmente, em cenários políticos e internacionais que apresentam muita turbulência e incertezas.
+Contudo, ele não é visto apenas como um parâmetro para o que acontece no dia a dia das ações brasileiras. Ele também pode servir como um produto de investimento — mas, antes, é interessante que o investidor conheça a sua composição e como ela é definida.
 
-Investir em ativos internacionais é uma ótima opção para diversificar sua carteira. Entenda mais sobre o assunto com essa leitura.
+Para lhe ajudar a entender melhor sobre esse assunto, neste texto vamos falar tudo o que você precisa saber sobre o índice Ibovespa. Confira!
 
-## **Por que investir fora do Brasil é uma das melhores opções?**
+##  O que é o índice Bovespa?
+Também conhecido como IBOV, ele foi criado em 1968 e é o principal reflexo do desempenho das ações negociadas na B3. No universo dos papéis existem diferentes índices que simbolizam o desempenho de determinados empresas com certas características. Por exemplo, temos o Smal11 que está relacionado a companhias de menor porte chamadas de small caps.
 
-Como dissemos acima, durante o processo de construção de riqueza, é importante diversificar os investimentos. Não é aconselhável deixar todos os ovos na mesma cesta. Devemos colocar os ovos em várias cestas pois, se uma delas cair, não perderemos todos os ovos.
+No caso do IBOV, é considerada a variação de empresas com um grande volume de negociação: aquelas que são as principais do mercado brasileiro durante o período, formando assim uma carteira teórica de ações.
 
-A diversificação reduz o risco de perda e melhora a eficiência de um investimento. Diversificar “de fato” significa ultrapassar as fronteiras brasileiras e buscar rendimento no exterior. Isto porque, quem investe apenas em ativos nacionais, está exposto 100% ao risco Brasil.
+Ele é um índice de retorno total, por isso, não só reflete as variações dos preços dos papéis como também o pagamento dos proventos das empresas listadas. Contudo, sua composição não é permanente: a cada 4 meses, os ativos que estão na carteira são alterados.
 
-Embora grande parte dos brasileiros acredite que investir em ativos internacionais significa comprar um [imóvel](https://saudemaisacao.com.br/blog/cuidado-investir-em-imoveis-pode-ser-arriscado/) em Miami, há outras formas mais eficientes de diversificar os investimentos com ativos internacionais.
+## Qual é a sua importância?
+Por conter todas as principais empresas negociadas, esse índice é um termômetro do que acontece no mercado brasileiro. Ele é a média de como o país está na bolsa de valores, de forma que, para os economistas, é uma maneira de saber como anda a economia, como as empresas estão e se vale ou não a pena investir em suas ações.
 
-O trabalho de Wertheimer mostra que há ganho de eficiência para as carteiras de investidores brasileiros ao se incluir ativos internacionais. Esses ganhos ocorrem para todos os perfis de risco, desde o mais conservador ao mais agressivo.
+##  Como a carteira do Ibovespa é composta?
+Existem diferentes setores empresariais que compõem a carteira do índice e eles são divididos em ações e units de ações (um certificado de depósito composto de papéis de companhias).
 
-Além disso, o trabalho mostra que, quanto maior o perfil de risco da carteira, maior deve ser a alocação em ativos internacionais que torna a carteira mais eficiente.
+Como principal critério para fazer parte da Ibovespa, é importante que os ativos tenham boa liquidez e um grande volume de negociações. Além disso, devem atender aos seguintes requisitos:
 
-Os brasileiros apresentam nível bem mais baixo de internacionalização de seus investimentos quando comparados com a média mundial. É claro que, qualquer investidor prefere [investir](http://saudemaisacao.com.br/blog/qual-a-melhor-hora-para-investir/) em ativos de seu próprio país porque estes ativos costumam ser mais conhecidos e transmitem mais segurança. No entanto, este viés de casa (*home bias*) não é o único responsável por esta discrepância.
+as ações não podem ser de empresas que estão passando por recuperação judicial ou extrajudicial e também não entram aquelas que estão em regime especial de administração temporária;
+não podem ter cotações abaixo de R$ 1,00, ou seja, não são as empresas conhecidas como Penny Stock;
+o volume de negociações deve compor pelo menos 0,1% no mercado à vista;
+os papéis devem ser negociados regularmente em, no mínimo, 95% dos pregões do último ano;
+as empresas são ordenadas pelo índice de negociabilidade (IN) — saiba que esse indicador avalia a quantidade de negociações, além do volume.
+a composição deve ter ações que representam 85% das negociações efetuadas no período, sendo que uma só companhia não pode representar mais de 20% de participação na carteira.
+Guia prático para garantir um futuro mais tranquilo
+Como ele é calculado?
+O Ibovespa utiliza um sistema de pontos para determinar o peso que cada ação tem em sua carteira e esse cálculo é feito em tempo real, sendo responsável por definir se há alta ou baixa.
 
-No Brasil, o investidor que decide investir em ativos internacionais costuma ser bastante desestimulado por conta das restrições, taxações e obrigações tributárias. Além disso, as altas taxas de juros praticadas no Brasil, costumam tornar o investimento em ativos internacionais menos atrativo.
+Funciona exatamente assim: supomos que o portfólio do índice seja composto de 5 empresas. Apenas duas têm um alto preço no mercado, por isso, têm maior porcentagem na distribuição da carteira, enquanto as outras ficam com uma parcela igual.
 
-Mas, ao contrário do que muitos pensam, [investir no exterior](https://saudemaisacao.com.br/blog/aprenda-como-investir-dinheiro-no-exterior-agora-mesmo/) não é tão difícil e inacessível como parece. Existe a possibilidade de realizar o acompanhamento dos movimentos do cenário externo por intermédio das instituições financeiras aqui do Brasil. Afinal, nos últimos anos, alguns produtos financeiros foram desenvolvidos com esse objetivo.
+Quando ocorre uma alta no índice não é porque todos os ativos subiram e sim porque as ações das empresas que têm mais peso estão valendo mais no momento. Então, quando o Ibovespa está “em alta” significa que os preços dos papéis aumentaram. Agora, se estiver “em baixa”, as companhias fecharam o dia no vermelho.
 
-## **Como se dá o trâmite do investimento internacional?**
+## Como funciona a pontuação do Ibovespa?
+Para definir a pontuação de cada ativo, o Ibovespa se baseia na liquidez das ações. Dessa forma, acompanha o desempenho de cada ativo e cada ponto do indicador significa R$ 1,00. Por exemplo, nos últimos meses, a Ibovespa chegou a 119 mil pontos — isso significa que estavam sendo negociados cerca de 119 mil reais em volumes de ações.
 
-Existe uma ideia na cabeça das pessoas que [investir](https://saudemaisacao.com.br/blog/vale-a-pena-investir-em-criptomoedas/) no exterior é ilegal. Esse senso comum se intensificou com os escândalos de corrupção em que o dinheiro sujo era enviado para fora do país.
+## Como operá-lo?
+Bem, o índice Ibovespa não é apenas uma maneira de saber como está o desempenho do mercado brasileiro, podendo ser também um guia para investidores que querem ter uma carteira em ações. Porém, é preciso saber que não está disponível na bolsa exatamente como um ativo, logo, existem quatro formas de investir: comprando todas as ações, aplicando em ETFs ou por contratos e minicontratos futuros.
 
-Por isso, vamos dar aqui a informação correta para você: investir fora do Brasil é um direito fundamental protegido pela nossa Constituição. O  inciso XV do art. 5º dispõe que: “é livre a locomoção no Território Nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens”.
+Se o investidor escolher a primeira alternativa, deverá saber quais são as ações que compõem a carteira teórica (pode checar aqui). Além de ter que comprar a porcentagem exata do índice, também deverá se atentar para as mudanças que ocorrem a cada 4 meses na composição.
 
-Sendo assim, o envio de remessas de recursos financeiros para fora do país está dentro da lei, sendo um direito fundamental e constitucional de todos os brasileiros. Por ser um direito que está previsto na Constituição Federal, é irrevogável.
+Já na segunda, pode investir por um fundo de índice ou ETF (Exchange Traded Fund), um investimento que replica a rentabilidade do Ibovespa. As vantagens são que o investidor não precisa fazer manualmente nenhuma mudança para atualizar a carteira, deixando isso a cargo do gestor do fundo. As opções encontradas de ETFs são o XBOV11, BOVA11, BOVV11 e BOVB11.
 
-Isso significa que esse direito não pode ser invalidado nem mesmo por meio de uma Emenda Constitucional. Apenas um golpe de estado pode alterar nossa Constituição. Diferentemente do direito previsto em lei, que apresentam uma certa facilidade para sua revogação. Basta que o Congresso Nacional aprove uma nova lei de conteúdo conflitante com a lei anterior.
+Na terceira, é possível investir por meio de contratos de índice, que são os contratos futuros que replicam o indicador. A negociação tem uma data de vencimento já estipulada e é adquirida por meio de lotes. Cada uma tem 5 contratos e a cotação é igual aos pontos do IBOV em reais.
 
-## **Onde o dinheiro pode ser investido?**
+Também há os minicontratos de índice, que contam com o mesmo método: baseando-se na variação da pontuação. Podem ser encontrados no mercado futuro e vencem a cada dois meses. A diferença é que as cotações não custam 1 ponto, ou seja, R$ 1,00. Elas equivalem a 20% desse valor, isto é, R$ 0,20 centavos.
 
-Há basicamente duas formas de investir em ativos internacionais. A primeira consiste em enviar recursos para o exterior e a outra consiste em comprar produtos negociados no Brasil, mas que investem em ativos internacionais.
+Ao longo deste texto, você pôde entender como funciona e o que é o índice Ibovespa, esse importante indicador que ajuda a ter uma média de como o mercado está se comportando perante as empresas brasileiras negociadas na bolsa.
 
-Você pode investir dinheiro no exterior por meio de bancos ou corretoras. Para isso, você deve abrir uma conta pessoa física no exterior, mas terá que recolher mensalmente o IR sobre o rendimento.
-
-Outra forma, com mais eficiência fiscal, é usada por investidores com alto valor patrimonial e consiste na abertura de uma empresa no exterior, permitindo o deferimento de pagamento de imposto de renda até que haja a repatriação dos recursos.
-
-No entanto, se o investidor optar por manter os recursos no Brasil, ele pode [investir](https://saudemaisacao.com.br/blog/investimento-mensal-qual-o-valor-ideal-para-poupar-e-investir/) em fundos multimercados ou em fundos de investimento no exterior, os quais podem investir até 20% ou até 100% do patrimônio do fundo em ativos internacionais, respectivamente.
-
-Os fundos de investimentos são opções que oferecem maior comodidade para quem nunca aplicou no exterior. Você pode investir por meio da sua conta em alguma instituição financeira brasileira ou então escolher por uma [corretora](https://saudemaisacao.com.br/blog/bancos-ou-corretoras-independente/) lá fora. Normalmente, o aporte inicial é de R$25 mil e os retornos podem chegar a 60% ao ano.
-
-Os fundos de investimento alocados fora do Brasil, que contam com hedge cambial, ou seja, formados por derivativos de real contra outras moedas, concede ao investidor apenas a rentabilidade dos ativos estrangeiros.
-
-É importante ficar atento ao fato que tudo deve ser devidamente declarado à Receita Federal. Para otimizar recursos no pagamento de impostos, uma dica importante é optar por países que tenham algum tipo de tratado internacional com o Brasil, a fim de evitar pagar tributos duas vezes.
-
-Como vimos neste bpost, investir no exterior é mais simples e viável do que muitas pessoas pensam. Ao diversificar a sua carteira de investimentos por meio de aplicações neste tipo de ativo, você minimiza os riscos que envolvem o seu capital, se protegendo contra crises domésticas.
-
-Essas operações internacionais estão totalmente respaldadas pela legislação. Portanto, desde que você conte com profissionais capacitados para orientarem você sobre como fazer um investimento internacional, pode ter certeza que não haverá problema algum.
-
-Para acessar mais informações sobre educação financeira e gestão de finanças pessoais, siga-nos em nossas redes sociais. Estamos no [Facebook](https://www.facebook.com/saudemaisacao) e [LinkedIn](https://www.linkedin.com/in/sa%C3%BAde-mais-a%C3%A7%C3%A3o-educa%C3%A7%C3%A3o-e-planejamento-financeiro-834ba612b/).
+Gostou deste texto? Então, continue acompanhando mais informações sobre o mercado e os investimentos. Siga a gente no Facebook, LinkedIn, YouTube e Soundcloud!

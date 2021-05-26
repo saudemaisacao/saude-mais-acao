@@ -15,58 +15,35 @@ template: post
 image: /images/blog/investidor-moderado.jpeg
 thumb_image: /images/blog/investidor-moderado.jpeg
 ---
-O investimento internacional é aconselhável não apenas para quem tem uma grande fortuna para diversificar, mas também para quem tem objetivos no exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
+Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
 
-Especialistas em investimentos financeiros são unânimes em dizer que a diversificação é uma das chaves de aplicações bem-sucedidas. Essa máxima deve ser levada em consideração, principalmente, em cenários políticos e internacionais que apresentam muita turbulência e incertezas.
+Sendo assim, ao pesquisar os tipos de perfis, você encontrará basicamente três modelos: o investidor moderado, o conservador e o agressivo. Cada um deles tem características específicas de montagem da carteira, ajudando a determinar qual é a porcentagem de aplicações entre renda fixa e variável.
 
-Investir em ativos internacionais é uma ótima opção para diversificar sua carteira. Entenda mais sobre o assunto com essa leitura.
+Para que você entenda um pouco mais sobre essa classificação, neste texto vamos explicar as principais características do perfil moderado. Entenda.
 
-## **Por que investir fora do Brasil é uma das melhores opções?**
+## O que é o investidor moderado?
+Entre os perfis conservador e agressivo, temos um tipo que é conhecido como o mais equilibrado de todos. Um investidor que tem a tendência em escolher tanto aplicações que proporcionam segurança quanto volatilidade.
 
-Como dissemos acima, durante o processo de construção de riqueza, é importante diversificar os investimentos. Não é aconselhável deixar todos os ovos na mesma cesta. Devemos colocar os ovos em várias cestas pois, se uma delas cair, não perderemos todos os ovos.
+É considerado também o tipo mais versátil dos três, procurando equilibrar a rentabilidade e o risco. Sendo um indivíduo que já tem um bom conhecimento de mercado e investe para aumentar o seu patrimônio.
 
-A diversificação reduz o risco de perda e melhora a eficiência de um investimento. Diversificar “de fato” significa ultrapassar as fronteiras brasileiras e buscar rendimento no exterior. Isto porque, quem investe apenas em ativos nacionais, está exposto 100% ao risco Brasil.
+Contudo, saiba que isso não significa que é um perfil que aposta metade de sua carteira em investimentos arriscados. A tendência é que o moderado tenha uma grande parte do seu portfólio em aplicações do tipo renda fixa e uma quantidade menor, como 20%, em variável.
 
-Embora grande parte dos brasileiros acredite que investir em ativos internacionais significa comprar um [imóvel](https://saudemaisacao.com.br/blog/cuidado-investir-em-imoveis-pode-ser-arriscado/) em Miami, há outras formas mais eficientes de diversificar os investimentos com ativos internacionais.
+O que é bem diferente da categoria conservadora, na qual quase 100% dos seus ativos são escolhidos pela segurança, ou seja, na renda fixa. Ainda, distinto do agressivo, no qual quase todo o portfólio é de renda variável.
 
-O trabalho de Wertheimer mostra que há ganho de eficiência para as carteiras de investidores brasileiros ao se incluir ativos internacionais. Esses ganhos ocorrem para todos os perfis de risco, desde o mais conservador ao mais agressivo.
+## Como o investidor moderado investe?
+Como vimos no tópico anterior, o investidor moderado tem a tendência de diversificar mais a sua carteira, entretanto, ainda mantém uma boa parte em aplicações mais conservadoras. Logo, é possível encontrar ativos de renda fixa e variável e é provável que ele procure por investimentos que proporcionam essa dinâmica.
 
-Além disso, o trabalho mostra que, quanto maior o perfil de risco da carteira, maior deve ser a alocação em ativos internacionais que torna a carteira mais eficiente.
+Então, esse tipo poderá aplicar em:
 
-Os brasileiros apresentam nível bem mais baixo de internacionalização de seus investimentos quando comparados com a média mundial. É claro que, qualquer investidor prefere [investir](http://saudemaisacao.com.br/blog/qual-a-melhor-hora-para-investir/) em ativos de seu próprio país porque estes ativos costumam ser mais conhecidos e transmitem mais segurança. No entanto, este viés de casa (*home bias*) não é o único responsável por esta discrepância.
+títulos de renda fixa pré-fixados;
+títulos de renda fixa pós-fixados;
+títulos de renda fixa indexados ao IPCA;
+fundos Imobiliários, de multimercados, de ações;
+COE com o principal garantido.
+Especialmente os fundos multimercados são os que mais se encaixam nesse perfil. Eles têm diferentes ativos em um só lugar, sendo possível encontrar desde ações, papéis de câmbio até títulos de renda fixa, entre outros. O que se encaixa na tendência a versatilidade.
 
-No Brasil, o investidor que decide investir em ativos internacionais costuma ser bastante desestimulado por conta das restrições, taxações e obrigações tributárias. Além disso, as altas taxas de juros praticadas no Brasil, costumam tornar o investimento em ativos internacionais menos atrativo.
+Ao longo deste texto, você pôde acompanhar as principais características do investidor moderado. Deu para perceber que ele é o tipo mais flexível entre os outros dois perfis (conservador e agressivo). Caracterizado por ser um indivíduo que investe tanto em aplicações de renda fixa quanto variável, mesmo que a primeira opção seja a de maior parcela em sua carteira.
 
-Mas, ao contrário do que muitos pensam, [investir no exterior](https://saudemaisacao.com.br/blog/aprenda-como-investir-dinheiro-no-exterior-agora-mesmo/) não é tão difícil e inacessível como parece. Existe a possibilidade de realizar o acompanhamento dos movimentos do cenário externo por intermédio das instituições financeiras aqui do Brasil. Afinal, nos últimos anos, alguns produtos financeiros foram desenvolvidos com esse objetivo.
+Fique atento aos nossos próximos post, pois continuaremos essa série sobre os tipos de investidores. No artigo do mês que vem, falaremos sobre o perfil agressivo.
 
-## **Como se dá o trâmite do investimento internacional?**
-
-Existe uma ideia na cabeça das pessoas que [investir](https://saudemaisacao.com.br/blog/vale-a-pena-investir-em-criptomoedas/) no exterior é ilegal. Esse senso comum se intensificou com os escândalos de corrupção em que o dinheiro sujo era enviado para fora do país.
-
-Por isso, vamos dar aqui a informação correta para você: investir fora do Brasil é um direito fundamental protegido pela nossa Constituição. O  inciso XV do art. 5º dispõe que: “é livre a locomoção no Território Nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens”.
-
-Sendo assim, o envio de remessas de recursos financeiros para fora do país está dentro da lei, sendo um direito fundamental e constitucional de todos os brasileiros. Por ser um direito que está previsto na Constituição Federal, é irrevogável.
-
-Isso significa que esse direito não pode ser invalidado nem mesmo por meio de uma Emenda Constitucional. Apenas um golpe de estado pode alterar nossa Constituição. Diferentemente do direito previsto em lei, que apresentam uma certa facilidade para sua revogação. Basta que o Congresso Nacional aprove uma nova lei de conteúdo conflitante com a lei anterior.
-
-## **Onde o dinheiro pode ser investido?**
-
-Há basicamente duas formas de investir em ativos internacionais. A primeira consiste em enviar recursos para o exterior e a outra consiste em comprar produtos negociados no Brasil, mas que investem em ativos internacionais.
-
-Você pode investir dinheiro no exterior por meio de bancos ou corretoras. Para isso, você deve abrir uma conta pessoa física no exterior, mas terá que recolher mensalmente o IR sobre o rendimento.
-
-Outra forma, com mais eficiência fiscal, é usada por investidores com alto valor patrimonial e consiste na abertura de uma empresa no exterior, permitindo o deferimento de pagamento de imposto de renda até que haja a repatriação dos recursos.
-
-No entanto, se o investidor optar por manter os recursos no Brasil, ele pode [investir](https://saudemaisacao.com.br/blog/investimento-mensal-qual-o-valor-ideal-para-poupar-e-investir/) em fundos multimercados ou em fundos de investimento no exterior, os quais podem investir até 20% ou até 100% do patrimônio do fundo em ativos internacionais, respectivamente.
-
-Os fundos de investimentos são opções que oferecem maior comodidade para quem nunca aplicou no exterior. Você pode investir por meio da sua conta em alguma instituição financeira brasileira ou então escolher por uma [corretora](https://saudemaisacao.com.br/blog/bancos-ou-corretoras-independente/) lá fora. Normalmente, o aporte inicial é de R$25 mil e os retornos podem chegar a 60% ao ano.
-
-Os fundos de investimento alocados fora do Brasil, que contam com hedge cambial, ou seja, formados por derivativos de real contra outras moedas, concede ao investidor apenas a rentabilidade dos ativos estrangeiros.
-
-É importante ficar atento ao fato que tudo deve ser devidamente declarado à Receita Federal. Para otimizar recursos no pagamento de impostos, uma dica importante é optar por países que tenham algum tipo de tratado internacional com o Brasil, a fim de evitar pagar tributos duas vezes.
-
-Como vimos neste bpost, investir no exterior é mais simples e viável do que muitas pessoas pensam. Ao diversificar a sua carteira de investimentos por meio de aplicações neste tipo de ativo, você minimiza os riscos que envolvem o seu capital, se protegendo contra crises domésticas.
-
-Essas operações internacionais estão totalmente respaldadas pela legislação. Portanto, desde que você conte com profissionais capacitados para orientarem você sobre como fazer um investimento internacional, pode ter certeza que não haverá problema algum.
-
-Para acessar mais informações sobre educação financeira e gestão de finanças pessoais, siga-nos em nossas redes sociais. Estamos no [Facebook](https://www.facebook.com/saudemaisacao) e [LinkedIn](https://www.linkedin.com/in/sa%C3%BAde-mais-a%C3%A7%C3%A3o-educa%C3%A7%C3%A3o-e-planejamento-financeiro-834ba612b/).
+Gostou do nosso texto? Ele foi útil para você? Então, siga a gente no Facebook, Soundcloud, Youtube e LinkedIn e continue a receber mais conteúdos como este!

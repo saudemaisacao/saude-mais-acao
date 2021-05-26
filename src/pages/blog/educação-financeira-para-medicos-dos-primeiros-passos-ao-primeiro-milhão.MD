@@ -15,48 +15,25 @@ date: '2015-04-07'
 thumb_image: /images/blog/medicos.jpg
 image: /images/blog/medicos.jpg
 ---
-Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de [investimentos](https://saudemaisacao.com.br/blog/como-investir-dinheiro-no-exterior/) corretos ajuda o investidor a proteger o patrimônio contra oscilações econômicas — como a desvalorização do real perante as moedas estrangeiras — e pode contribuir para a pessoa aumentar o seu capital.
+O preâmbulo de um dos mais importantes documentos da história recente da humanidade delineia, de maneira clara e concisa, uma filosofia de governo que influencia grandemente o modo como vivemos. Nele estão assentados os fundamentos que levaram ao fim da escravidão e ao estabelecimento do que chamamos de economia de mercado. Fim da escravidão significa ter direito à vida e à liberdade. Economia de mercado significa um sistema de livre iniciativa onde indivíduos buscam, através da troca voluntária de bens e serviços, a obtenção de lucro. Com este intento, procura-se atingir a felicidade.
 
-Neste post abordaremos os investimentos mais recomendados com a alta da moeda norte-americana e explicaremos como as aplicações financeiras em dólar podem garantir proteção do patrimônio nos momentos de instabilidade econômica. Acompanhe!
+Será que a obtenção de lucro é o caminho para se alcançar a felicidade? Dinheiro compra felicidade? Obviamente que não. Infelizmente, muitos consideram que o capitalismo torna as pessoas mais materialistas e menos atentas à valores inalienáveis tais como família, saúde e amigos. Gostaríamos de fazer uma breve análise e evidenciar como esta afirmação é falaciosa. Afirmamos, categoricamente, que o dinheiro não torna as pessoas mais insensíveis e materialistas! Duvidam?! Vamos em frente…
 
-## **Quais são os melhores investimentos com o dólar em alta?**
+Dinheiro é um instrumento que nos permite comprar bens ou valores negociáveis (bens que podem ser comprados e vendidos) tais como apartamentos, carros e joias. Em contrapartida, ninguém pode comprar a saúde de outra pessoa, haja vista a evidente não negociabilidade deste bem. Felizmente, o dinheiro pode comprar bens através dos quais podemos ter acesso à uma boa saúde tais como vitaminas, bons alimentos, a mensalidade da academia de ginástica e a consulta médica. Segundo Murray Rothbard, um importante economista e estudioso da teoria política, as pessoas devem, constantemente, escolher como alocar seus recursos entre os bens negociáveis e os não negociáveis. E como alocar estes recursos? Para responder esta pergunta precisamos entender, primeiramente, o porquê de nos interessarmos tanto por bens negociáveis. Todos queremos ter bens materiais por duas razões: status social e consumo.
 
-Existem várias aplicações financeiras que se beneficiam com a valorização da moeda norte-americana. Entre elas estão os fundos cambiais, os contratos futuros e as ações de algumas empresas. Explicaremos sobre elas a seguir.
+Existe uma lei em economia chamada Lei dos Rendimentos Decrescentes. Ela é de fácil entendimento. Suponhamos que uma pessoa compre a Ferrari. Ele vai ficar muito feliz em exibir este bem para os amigos, orgulhoso de si mesmo. Isto vai elevar seu status na sociedade. Então, ao comprar a sua segunda Ferrari ele vai elevar ainda mais seu status, mas o impacto social e sua satisfação já não serão mais os mesmos. Se ele comprar sua terceira Ferrari, eles serão ainda menores. Em outras palavras, nossa satisfação está sujeita à esta lei. Como disse Aristóteles Onassis, “a partir de um certo ponto, o dinheiro deixa de ser o objetivo. O interessante é o jogo.”
 
-### 1. Fundos cambiais
+## Seja um parceiro
+Todos os bens ou valores estão sujeitos à esta lei. Isto é fato. Assim, fica fácil compreendermos como esta lei funciona em nossas vidas e como o acúmulo de dinheiro não nos torna mais materialistas. Ao contrário, ele tem o poder de nos tornar menos materialistas! Todavia, os críticos podem ainda afirmar que as pessoas ficam viciadas em dinheiro! Quanto mais dinheiro temos, mais dinheiro queremos! Isto é uma conclusão equivocada. Na verdade, este tipo de comportamento nada mais é do que uma manifestação da Lei das “Satisfações” Decrescentes! Pessoas ricas passam a consumir mais porque sua satisfação com as novas aquisições é baixíssima! Isso traz frustração e infelicidade! Por isso há pessoas ricas e infelizes, que compram tudo o que veem pela frente para aplacar suas frustrações.
 
-É a aplicação mais indicada para o pequeno investidor. Com R$ 1.000 é possível investir nesses fundos. Ainda há a vantagem da diversificação, pois o seu capital é aplicado em várias [ações](http://saudemaisacao.com.br/como-escolher-as-melhores-acoes-para-investir/) que estão sujeitas a variação do preço da moeda estrangeira.
+Além do mais, quanto mais dinheiro temos, menos esforço precisamos fazer para obter mais dinheiro. Consequentemente, ficamos com mais energia para nos dedicarmos à aquisição e manutenção de bens e valores que o dinheiro não compra, como uma família saudável e amizades verdadeiras. Lembrem-se do bom samaritano. Ele era podre de rico!
 
-No entanto, não é interessante resgatar o dinheiro em um prazo inferior a 30 dias. Nesse caso haverá cobrança do Imposto sobre Operações de Crédito (IOF), o que comprometerá a rentabilidade do investimento.
+Acharam interessante? É mesmo! No mundo agitado e dinâmico em que vivemos, muitas vezes gastamos muita energia e esforço em coisas que não nos fazem felizes, que não nos fazem progredir. O acúmulo de dinheiro, com todo seu potencial em nos trazer felicidade, pelos motivos expostos anteriormente, é visto por muitos como algo ruim para o bem-estar da sociedade. Isso faz sentido? A riqueza tem que ser dividida ao invés de acumulada? Nós acreditamos que não.
 
-### 2. Dólar em espécie
+O grande benefício de uma vida com independência financeira é dispor de tempo e liberdade para fazer aquilo que se gosta. Tempo e liberdade são bens não negociáveis e de valor incomensurável! É importante que vocês entendam que a independência financeira não é um fim, mas sim um meio. Não basta apenas ter dinheiro. É preciso ter dinheiro e com ele melhorar nossas vidas e a das pessoas ao nosso redor.
 
-Muitas pessoas pensam que [comprar moedas estrangeiras](https://www.cotacao.com.br/produtos-e-servicos/comprar-moeda-em-especie/) é um investimento, mas essa operação tem um custo alto. As instituições financeiras que vendem dólar em espécie cobram IOF, spread (diferença entre o valor de compra e venda) e outras tarifas adicionais.
+A partir de agora, passaremos a conversar sobre como cuidar bem do dinheiro. Isso requer educação financeira. Uma vez educados, vocês terão todas as condições de causar uma revolução em suas vidas. Ao longo dos próximos artigos mostraremos, em detalhes, os instrumentos que os ajudarão a alcançar a tão sonhada independência financeira. São eles: planejamento financeiro, reserva de segurança e construção e multiplicação do patrimônio.
 
-Além desses gastos, há ainda o risco de roubo ou furto e do papel-moeda estragar com o passar do tempo. Portanto, só é interessante ter algumas notas de dólar no caso de viagens internacionais.
+Para concluir, colegas, sonhamos com um futuro onde todos os profissionais da saúde no Brasil terão sua independência financeira. Um futuro onde o bom exercício profissional estará acima de questões políticas, econômicas e mesmo de questões sociais. Um futuro onde se possa trabalhar por prazer e por gosto e não mais por necessidade. E ficamos muito felizes de podermos contribuir para que este sonho vire realidade. Por isso convocamos todos vocês a começarem a buscar a independência financeira a partir de agora. A recompensa será valiosa.
 
-### 3. Contratos futuros de dólar&#xA;&#xA;&#xA;
-
-Eles pagam a diferença da valorização da moeda norte-americana em determinado período. Nessa aplicação financeira não há carência, ou seja, um investimento pode ser resgatado e aplicado quando você desejar.
-
-Esses contratos são muito úteis para as pessoas que desejam viajar ao exterior. Quando o dólar sobe, o investidor ganha com a diferença. Por outro lado, se a moeda cair, ele perde no investimento, mas gasta menos com hotel e hospedagem, por exemplo.
-
-### 4. Ações de empresas específicas
-
-Algumas companhias nacionais têm parte dos seus ganhos em dólar. Com isso, os lucros são influenciados conforme a variação do câmbio. Quando a moeda estrangeira está em alta, as receitas aumentam. Isso acontece com ações de muitas empresas exportadoras, como a FIBR3 (Fibria) e a SUZB5 (Suzano) — que exportam celulose e papel, respectivamente.
-
-### 5. Fundos multimercados
-
-Os fundos multimercados podem operar vários tipos de ativos — entre eles estão aplicações em [renda fixa](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/), ações e cambiais. As condições de liquidez, rentabilidade e risco variam conforme cada fundo.
-
-Nos investimentos em câmbio, o gestor destina a maior parte dos recursos a ativos que têm o seu desempenho influenciado pelo dólar. Dessa forma, em caso de alta da moeda, o investidor ganha dinheiro.
-
-Como em qualquer fundo de investimento, você contará com um gestor para direcionar as estratégias. Nesse tipo um fundo ele terá mais liberdade para agir, então antes de escolher um multimercado, é importante conhecer o histórico da pessoa que vai gerir o fundo, verificar o desempenho do ativo nos últimos 24 meses e ter confiança no administrador.
-
-## **Como o investimento em dólar garante proteção ao patrimônio?**
-
-O investimento em moeda estrangeira protege contra oscilações econômicas, entre elas as variações no câmbio. Em alguns momentos o real perde valor, e a pessoa tem o seu poder de compra diminuído quando viaja para o exterior. Por outro lado, quem investe em dólar consegue se precaver dessa “crise”.
-
-Existem muitas aplicações financeiras que podem se beneficiar com a alta do dólar. Entre elas estão contratos futuros, fundos cambiais e ações de algumas empresas. A rentabilidade desses investimentos é influenciada pela valorização ou não da moeda. Por isso, vale a pena destinar seu patrimônio a esses investimentos com o objetivo de proteger o seu capital.
-
-Gostou das dicas sobre como investir com o dólar em alta? Compartilhe este post nas redes sociais e permita que mais pessoas saibam fazer investimentos nesse cenário!
+Continuem conosco!
