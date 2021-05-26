@@ -5,14 +5,14 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: "Tão importante quanto cuidar das\_finanças pessoais, é cuidar da saúde financeira do consultório. Por uma razão muito simples: é de lá que vem renda. "
 seo:
-  title: ''
+  title: 'Como vai a saúde financeira do seu consultório?'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/post6-g-1.jpg
-image: /images/parallel-octopus.jpg
+thumb_image: /images/blog/post6-g-1.jpg
+image: /images/blog/parallel-octopus.jpg
 ---
 Tão importante quanto cuidar das [finanças pessoais](https://pt.wikipedia.org/wiki/Finan%C3%A7as_pessoais), é cuidar da saúde financeira do consultório. Por uma razão muito simples: é de lá que vem renda. Houve uma época em que o profissional da saúde preocupava-se apenas em exercer a sua função da melhor forma possível para ter sucesso profissional. Só que a concorrência aumentou e os lucros diminuíram. Surgiram as operadoras de saúde, o paciente particular praticamente desapareceu e o consumidor passou a ter seus direitos regulamentados.
 

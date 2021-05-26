@@ -1,22 +1,19 @@
 ---
-title: Qual a rentabilidade do Tesouro Direto? 
-subtitle: Descubra aqui!
+title: Os 7 principais tipos de fundos de investimento que você deve conhecer 
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Uma das dúvidas mais frequentes de investidores iniciantes em títulos públicos
-  é sobre a rentabilidade do Tesouro Direto. Esses títulos são dívidas emitidas
-  pelo Tesouro Nacional para serem comprados por pessoas físicas.
+  Conhecer os tipos de fundos de investimentos pode ser uma boa para você que pensa em diversificar mais, porém não sabe por onde começar. Uma das grandes vantagens dessa aplicação é que ela concentra um número de ativos de diferentes origens em um só lugar. Além disso, não há a necessidade de serem administrados pelo investidor, trabalho feito por um profissional escolhido pela instituição do fundo.
 seo:
-  title: 'Qual a rentabilidade do Tesouro Direto?'
+  title: 'Os 7 principais tipos de fundos de investimento que você deve conhecer'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2018-07-12'
-image: /images/blog/256564-qual-a-rentabilidade-do-tesouro-direto-descubra-aqui.jpg
-thumb_image: /images/blog/amazing-eggplant.jpg
+date: '2020-05-04'
+image: /images/blog/tipos-de-fundos-de-investimentos.jpeg
+thumb_image: /images/blog/tipos-de-fundos-de-investimentos.jpeg
 ---
 Uma das dúvidas mais frequentes de investidores iniciantes em títulos públicos é sobre a rentabilidade do Tesouro Direto. Esses títulos são dívidas emitidas pelo Tesouro Nacional para serem comprados por pessoas físicas.
 

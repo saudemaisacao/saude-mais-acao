@@ -1,21 +1,19 @@
 ---
-title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
-date: '2018-12-11'
+title: 'Indice ibovespa: o que você precisa saber sobre essa carteira?'
+date: '2020-04-27'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  O investimento internacional é aconselhável não apenas para quem tem uma
-  grande fortuna para diversificar, mas também para quem tem objetivos no
-  exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
+ Se você acompanha as notícias sobre o mundo das ações, já deve ter ouvido falar sobre o índice Ibovespa. Seja para informações boas ou ruins sobre o estado do mercado, esse indicador é sempre mencionado e costuma ser uma base para que os economistas entendam o estado da bolsa de valores brasileira.
 seo:
-  title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
+  title: 'Indice ibovespa: o que você precisa saber sobre essa carteira?'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/7_1600x700-1.jpg
-thumb_image: /images/blog/robust-zebra.jpg
+image: /images/blog/indice-ibovespa.jpeg
+thumb_image: /images/blog/indice-ibovespa.jpeg
 ---
 O investimento internacional é aconselhável não apenas para quem tem uma grande fortuna para diversificar, mas também para quem tem objetivos no exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
 

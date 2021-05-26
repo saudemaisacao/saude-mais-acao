@@ -1,21 +1,19 @@
 ---
-title: 'Dólar em alta: 5 aplicações financeiras para ganhar dinheiro'
-thumb_image_alt: dolar
-image_alt: lorem-ipsum
+title: 'Educação financeira para as crianças: 6 dicas de como promover!'
+thumb_image_alt: Educação financeira para crianças
+image_alt: Educação financeira para crianças
 excerpt: >-
-  Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de
-  investimentos corretos ajuda o investidor a proteger o patrimônio contra
-  oscilações econômicas 
+  Diversos brasileiros adultos nunca tiveram uma educação financeira adequada e, geralmente, por mais que tenham bons rendimentos, quando o assunto é controle financeiro, eles acabam se enrolando. O fato é que ter uma relação saudável com o dinheiro desde cedo pode refletir em uma vida adulta mais organizada e tranquilidade financeira.
 seo:
-  title: ''
+  title: 'Educação financeira para as crianças: 6 dicas de como promover!'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '0002-02-11'
-thumb_image: /images/blog/243275-dolar-em-alta-x-aplicacoes-financeiras-para-ganhar-dinheiro.jpg
-image: /images/blog/243275-dolar-em-alta-x-aplicacoes-financeiras-para-ganhar-dinheiro.jpg
+date: '2020-06-15'
+thumb_image: /images/blog/educacao-financeira-para-as-criancas.jpeg
+image: /images/blog/educacao-financeira-para-as-criancas.jpeg
 ---
 Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de [investimentos](https://saudemaisacao.com.br/blog/como-investir-dinheiro-no-exterior/) corretos ajuda o investidor a proteger o patrimônio contra oscilações econômicas — como a desvalorização do real perante as moedas estrangeiras — e pode contribuir para a pessoa aumentar o seu capital.
 

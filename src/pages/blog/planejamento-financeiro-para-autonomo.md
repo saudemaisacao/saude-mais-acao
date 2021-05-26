@@ -1,22 +1,23 @@
 ---
-title: 'Planejamento Financeiro: O primeiro passo'
-date: '2018-12-11'
+title: 'Planejamento financeiro para autônomo: veja como fazer em 7 passos'
+date: '2020-04-13'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Se você fica se perguntando o que é preciso fazer para conquistar a
-  independência financeira, o primeiro passo a ser dado é realizar um
-  planejamento financeiro para organizar o que entra e o que sai da sua conta.
+  Decidir abrir um negócio e trabalhar por conta própria pode trazer diversos benefícios, 
+  mas também significa ter uma atenção maior com as suas finanças. Afinal, a partir de agora, 
+  não há uma dependência de terceiros, sendo fundamental saber administrar sozinho os 
+  seus rendimentos e gastos.
 seo:
-  title: 'Planejamento Financeiro: O primeiro passo'
+  title: 'Planejamento financeiro para autônomo: veja como fazer em 7 passos'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
 thumb_image: >-
-  /images/blog/243355-estender-1000-palavras-o-planejamento-financeiro-o-primeiro-passo.jpg
-image: /images/blog/melodic-wallaby.jpg
+  /images/blog/planejamento-financeiro-para-autonomo.jpeg
+image: /images/blog/planejamento-financeiro-para-autonomo.jpeg
 ---
 Se você fica se perguntando o que é preciso fazer para conquistar a independência financeira, o primeiro passo a ser dado é realizar um planejamento financeiro para organizar o que entra e o que sai da sua conta.
 

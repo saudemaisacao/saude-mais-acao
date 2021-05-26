@@ -8,7 +8,7 @@ excerpt: >-
   atividade que é bastante falada quando pensamos em investimentos, mas poucos
   sabem realmente como funciona: comprar e vender ações.
 seo:
-  title: ''
+  title: 'Compra e venda de ações: como fazer de maneira lucrativa?'
   description: ''
   extra:
     - name: ''
@@ -16,7 +16,8 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
-thumb_image: /images/clever-birch.jpeg
+thumb_image: /images/blog/clever-birch.jpeg
+image: /images/blog/clever-birch.jpeg
 ---
 O mundo da renda variável pode ser um local de difícil exploração, não porque é impedido o acesso, mas por falta de conhecimento. Nesse caso, existe uma atividade que é bastante falada quando pensamos em investimentos, mas poucos sabem realmente como funciona: comprar e vender ações.
 

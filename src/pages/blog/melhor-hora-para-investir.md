@@ -11,14 +11,14 @@ excerpt: >-
   não importa a profissão, os objetivos, o montante que se ganha ou mesmo se
   você é patrão ou empregado.
 seo:
-  title: ''
+  title: 'Qual a melhor hora para investir?'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/6_1600x700-1.jpg
-image: /images/remarkable-thyme.jpg
+thumb_image: /images/blog/6_1600x700-1.jpg
+image: /images/blog/remarkable-thyme.jpg
 ---
 Qual é a melhor hora para [investir](https://saudemaisacao.com.br/investimento-mensal-qual-o-valor-ideal-para-poupar-e-investir/)? Com o propósito de multiplicar riqueza, não importa a profissão, os objetivos, o montante que se ganha ou mesmo se você é patrão ou empregado. Investir significa multiplicar o patrimônio para melhorar o bem-estar, a qualidade de vida, realizar seus sonhos, proporcionar tranquilidade e, claro, dar uma boa qualidade de vida a seus entes queridos.
 

@@ -8,14 +8,14 @@ excerpt: >-
   independência financeira, o primeiro passo a ser dado é realizar um
   planejamento financeiro para organizar o que entra e o que sai da sua conta.
 seo:
-  title: ''
+  title: 'Saiba como desenvolver inteligência financeira com 4 dicas'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/233004-saiba-como-desenvolver-inteligencia-financeira-com-x-dicas.jpg
-image: /images/smiling-crane.jpg
+thumb_image: /images/blog/233004-saiba-como-desenvolver-inteligencia-financeira-com-x-dicas.jpg
+image: /images/blog/smiling-crane.jpg
 ---
 O conceito de inteligência financeira gira em torno da sabedoria e do domínio em lidar com os recursos financeiros que se ganha, bem como com o quanto se gasta. Afinal, o dinheiro não pode ditar as regras em sua vida. Ao contrário, você é quem precisa mandar nele.
 

@@ -1,21 +1,19 @@
 ---
-title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
-date: '2018-12-11'
+title: 'Investidor moderado: entenda as suas características!'
+date: '2020-04-20'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  O investimento internacional é aconselhável não apenas para quem tem uma
-  grande fortuna para diversificar, mas também para quem tem objetivos no
-  exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
+ Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
 seo:
-  title: 'Investimento em ativos internacionais: Por quê? Como? Para quê?'
+  title: 'Investidor moderado: entenda as suas características!'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-image: /images/blog/7_1600x700-1.jpg
-thumb_image: /images/blog/robust-zebra.jpg
+image: /images/blog/investidor-moderado.jpeg
+thumb_image: /images/blog/investidor-moderado.jpeg
 ---
 O investimento internacional é aconselhável não apenas para quem tem uma grande fortuna para diversificar, mas também para quem tem objetivos no exterior, tais como morar, viajar ou estudar fora, ainda que temporariamente.
 

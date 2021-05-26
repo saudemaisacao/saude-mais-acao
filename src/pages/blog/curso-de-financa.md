@@ -1,22 +1,20 @@
 ---
-title: Como declarar os investimentos financeiros no imposto de renda?
+title: Como avaliar a qualidade de um curso de finanças pessoais?
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Você sabe como declarar investimentos financeiros? Trata-se de um procedimento
-  burocrático, mas é necessário para estar em dia com as obrigações da Receita
-  Federal. 
+  Se você já tem um negócio ou planeja abrir um, independentemente do seu segmento: saber sobre finanças é essencial. Todas as organizações precisam estar muito atentas às suas finanças, visto que um bom planejamento financeiro é a base para o crescimento. Todavia, hoje em dia, existem diversos empreendedores que ainda não procuraram conhecimento a respeito desse assunto, que é de suma importância para seu negócio.
 seo:
-  title: 'Como declarar os investimentos financeiros no imposto de renda?'
+  title: 'Como avaliar a qualidade de um curso de finanças pessoais?'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2018-12-13'
+date: '2020-06-08'
 thumb_image: >-
-  /images/blog/261219-como-declarar-os-investimentos-financeiros-no-imposto-de-renda.jpg
-image: /images/blog/thoughtful-sparrow.jpg
+  /images/blog/curso-de-financa.jpeg
+image: /images/blog/curso-de-financa.jpeg
 ---
 Você sabe como declarar investimentos financeiros? Trata-se de um procedimento burocrático, mas é necessário para estar em dia com as obrigações da Receita Federal. Não é novidade que o fisco tem aprimorado cada vez mais a fiscalização e, por isso, quem tiver alguma irregularidade pode cair na malha fina e ter várias dores de cabeça, o que ninguém deseja, não é mesmo?As pessoas que têm [aplicações financeiras](https://blog.rico.com.vc/aplicacoes-financeiras-mais-rentaveis-2018) na bolsa de valores e contam com elevado patrimônio precisam fazer a declaração do tributo. Os investidores que se enquadrarem em uma dessas condições abaixo precisarão acertar as contas com o leão no próximo ano. Os critérios são estes:
 

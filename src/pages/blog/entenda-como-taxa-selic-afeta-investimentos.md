@@ -1,20 +1,19 @@
 ---
 title: Entenda como a taxa Selic afeta os investimentos e planeje-se
-subtitle: lorem-ipsum
 date: '2018-12-11'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: "Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a\_pergunta é necessário explicar o que quer dizer essa taxa."
 seo:
-  title: ''
+  title: 'Entenda como a taxa Selic afeta os investimentos e planeje-se'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
 thumb_image: >-
-  /images/243223-entenda-como-a-taxa-selic-afeta-os-investimentos-e-planejese.jpg
-image: /images/melodic-goat.jpg
+  /images/blog/243223-entenda-como-a-taxa-selic-afeta-os-investimentos-e-planejese.jpg
+image: /images/blog/melodic-goat.jpg
 ---
 Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a pergunta é necessário explicar o que quer dizer essa taxa. Ela é uma sigla que significa Sistema Especial de Liquidação e de Custódia, corresponde ao índice básico de juros da economia brasileira e é usada como referência para todos os juros cobrados no país.
 

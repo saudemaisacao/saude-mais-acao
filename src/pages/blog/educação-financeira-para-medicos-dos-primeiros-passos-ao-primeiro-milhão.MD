@@ -1,21 +1,19 @@
 ---
-title: 'Dólar em alta: 5 aplicações financeiras para ganhar dinheiro'
-thumb_image_alt: dolar
-image_alt: lorem-ipsum
+title: 'Educação financeira para médicos: dos primeiros passos ao primeiro milhão.'
+thumb_image_alt: medicos
+image_alt: medicos
 excerpt: >-
-  Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de
-  investimentos corretos ajuda o investidor a proteger o patrimônio contra
-  oscilações econômicas 
+  O preâmbulo de um dos mais importantes documentos da história recente da humanidade delineia, de maneira clara e concisa, uma filosofia de governo que influencia grandemente o modo como vivemos. Nele estão assentados os fundamentos que levaram ao fim da escravidão e ao estabelecimento do que chamamos de economia de mercado. Fim da escravidão significa ter direito à vida e à liberdade. Economia de mercado significa um sistema de livre iniciativa onde indivíduos buscam, através da troca voluntária de bens e serviços, a obtenção de lucro. Com este intento, procura-se atingir a felicidade. 
 seo:
-  title: ''
+  title: 'Educação financeira para médicos: dos primeiros passos ao primeiro milhão.'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '0002-02-11'
-thumb_image: /images/blog/243275-dolar-em-alta-x-aplicacoes-financeiras-para-ganhar-dinheiro.jpg
-image: /images/blog/243275-dolar-em-alta-x-aplicacoes-financeiras-para-ganhar-dinheiro.jpg
+date: '2015-04-07'
+thumb_image: /images/blog/medicos.jpg
+image: /images/blog/medicos.jpg
 ---
 Sabia que mesmo com o dólar em alta é possível ganhar dinheiro? A escolha de [investimentos](https://saudemaisacao.com.br/blog/como-investir-dinheiro-no-exterior/) corretos ajuda o investidor a proteger o patrimônio contra oscilações econômicas — como a desvalorização do real perante as moedas estrangeiras — e pode contribuir para a pessoa aumentar o seu capital.
 

@@ -8,14 +8,14 @@ excerpt: >-
   econômica. Normalmente, os ativos mais procurados nesse cenário são o ouro e
   as ações do setor elétrico.
 seo:
-  title: ''
+  title: 'Descubra se vale a pena investir em ações do setor elétrico'
   description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-thumb_image: /images/255029-descubra-se-vale-a-pena-investir-em-acoes-do-setor-eletrico.jpg
-image: /images/parallel-pine.jpg
+thumb_image: /images/blog/255029-descubra-se-vale-a-pena-investir-em-acoes-do-setor-eletrico.jpg
+image: /images/blog/parallel-pine.jpg
 ---
 Todo investidor opta por investimentos mais seguros em momentos de crise econômica. Normalmente, os ativos mais procurados nesse cenário são o ouro e as ações do setor elétrico.
 
