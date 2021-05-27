@@ -6,25 +6,8 @@ sections:
     section_id: contact-form
     content: |
       Entre em contato conosco e responderemos o mais breve possível!
-      Complete o formulário para enviar um e-mail para <email@example.com>.
+      Complete o formulário para enviar um e-mail para <contato@saudemaisacao.com.br>.
 
-      ***
-
-      ## Nós estamos em
-
-      ### Cidade
-
-      1234 Some St.<br>
-      San Francisco, CA 12345<br>
-      1-234-556-7890<br>
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-      ### Cidade
-
-      1234 Some St.<br>
-      New York, NY 12345<br>
-      1-234-556-7890<br>
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /obrigado
     form_fields:
@@ -46,9 +29,9 @@ sections:
         label: Qual o assunto?
         default_value: 'Por favor, selecione'
         options:
-          - Branding
-          - Design
-          - Digital
+          - Cursos
+          - Saúde Investimentos
+          - Outros
       - type: form_field
         input_type: textarea
         name: message

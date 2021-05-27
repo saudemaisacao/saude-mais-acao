@@ -29,7 +29,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/caring-aspen.jpg
+        image: /images/startse/caring-aspen.jpg
       - title: Sociedade & Cultura For Business
         subtitle: >-
           Aplique no seu negócio o mesmo sistema de Partnership (Sociedade)
@@ -39,7 +39,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/purple-mustard.jpg
+        image: /images/startse/purple-mustard.jpg
       - title: StartUp Style
         subtitle: >-
           Transforme ideias em startups utilizando o mesmo modelo do Vale do
@@ -49,7 +49,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/startup-style@2x.jpg
+        image: /images/startse/startup-style@2x.jpg
       - title: InvestClass
         subtitle: >-
           Um treinamento exclusivo onde empreendedores e investidores em
@@ -59,7 +59,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/perpetual-elm.jpg
+        image: /images/startse/perpetual-elm.jpg
       - title: LGPD na prática
         subtitle: >-
           Como aplicar a LGPD de maneira simples para blindar sua empresa contra
@@ -68,7 +68,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/oval-strawberry.jpg
+        image: /images/startse/oval-strawberry.jpg
       - title: FinTech Revolution
         subtitle: >-
           Como as principais Fintechs do Vale do Silício e da China estão
@@ -77,7 +77,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/best-eucalyptus.jpg
+        image: /images/startse/best-eucalyptus.jpg
       - title: A jornada do empreendedor
         subtitle: >-
           A jornada que o fundador da StartSe percorreu capaz de transformar uma
@@ -87,7 +87,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/fabulous-lavender.jpg
+        image: /images/startse/fabulous-lavender.jpg
       - title: Educação 4.0
         subtitle: >-
           Acabe com 100 anos de ineficiência e crie soluções capazes de
@@ -105,7 +105,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/magenta-neptune.jpg
+        image: /images/startse/magenta-neptune.jpg
       - title: Inteligência Artificial para Negócios
         subtitle: >-
           Descubra como a inteligência por trás de todo robô pode alavancar suas
@@ -114,7 +114,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/marvelous-aluminum.jpg
+        image: /images/startse/marvelous-aluminum.jpg
       - title: StartUp de A a Z
         subtitle: >-
           Como Criar uma Startup? Qual o Passo a Passo que Você Precisa Seguir
@@ -123,7 +123,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/ultra-sage.jpg
+        image: /images/startse/ultra-sage.jpg
       - title: Legal Class
         subtitle: >-
           Treinamento exclusivo para empreendedores com advogados especializados
@@ -132,7 +132,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/legal-class@2x.jpg
+        image: /images/startse/legal-class@2x.jpg
       - title: Reinvente sua carreira
         subtitle: >-
           Como se reposicionar e se tornar um profissional 3.0, um profissional
@@ -141,7 +141,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/reinvente-sua-carreira@2x.jpg
+        image: /images/startse/reinvente-sua-carreira@2x.jpg
       - title: O poder da Persuação Digital
         subtitle: >-
           Os segredos do neuromarketing por trás do comportamento digital do
@@ -151,14 +151,14 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/splendid-petunia.jpg
+        image: /images/startse/splendid-petunia.jpg
       - title: Law Innovation
         subtitle: Como a tecnologia vai transformar o maior mercado jurídico do mundo?
         image_alt: curso
         content: null
         actions: []
         type: grid_item
-        image: /images/important-europa.jpg
+        image: /images/startse/important-europa.jpg
       - title: Decodificando a China
         subtitle: >-
           Aprenda a fazer negócios com quem carrega as maiores oportunidades do
@@ -167,7 +167,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/adorable-daffodil.jpg
+        image: /images/startse/adorable-daffodil.jpg
       - title: Os Pilares do sucesso do amanhã
         subtitle: >-
           Aprenda o melhor modelo de gestão para adaptar sua empresa às
@@ -177,7 +177,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/cardo-os-pilares-do-sucesso-do-amanha@2x.jpg
+        image: /images/startse/cardo-os-pilares-do-sucesso-do-amanha@2x.jpg
       - title: Transformação digital para executivos
         subtitle: >-
           Planeje e execute os passos necessários para implementar a
@@ -186,7 +186,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/transformacao@2x.jpg
+        image: /images/startse/transformacao@2x.jpg
       - title: Cultura de Inovação para Resultado
         subtitle: >-
           ere Engajamento em Todas as Áreas da Sua Empresa e Transforme Tudo
@@ -195,7 +195,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/cool-planet.jpg
+        image: /images/startse/cool-planet.jpg
       - title: CMO Program
         subtitle: >-
           Torne-se um Estrategista de Marketing Inovador para Alavancar os
@@ -204,14 +204,14 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/marvelous-strawberry.jpg
+        image: /images/startse/marvelous-strawberry.jpg
       - title: Executive Program
         subtitle: Programa de Gestão para Empresários e C-levels
         image_alt: curso
         content: null
         actions: []
         type: grid_item
-        image: /images/enthusiastic-yam.jpg
+        image: /images/startse/enthusiastic-yam.jpg
       - title: Gestão Inovadora para Médicos
         subtitle: >-
           Aprenda a aplicar as técnicas de gestão que potencializam seus
@@ -220,7 +220,7 @@ sections:
         content: null
         actions: []
         type: grid_item
-        image: /images/friendly-parsley.jpg
+        image: /images/startse/friendly-parsley.jpg
     type: grid_section
 seo:
   title: ''

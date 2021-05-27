@@ -48,7 +48,7 @@ export default class Post extends React.Component {
               </div>
               <footer className="post__meta">
                 <div className="container container--md">
-                  Posted on <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time>
+                  Postado em <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%d de %B de %Y')}</time>
                 </div>
               </footer>
             </article>
