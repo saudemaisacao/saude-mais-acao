@@ -6,17 +6,18 @@ excerpt: >-
   Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
   investimento que nos últimos anos tiveram uma grande popularização.
 seo:
-  title: 'Entenda o que é e como calcular o Market Share do seu negócio'
-  description: ''
+  title: "Entenda o que é e como calcular o Market Share do seu negócio"
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2020-10-12'
+date: "2020-10-12"
 thumb_image: /images/blog/marketshare.jpeg
 image: /images/blog/marketshare.jpeg
 ---
-*Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de investimento que nos últimos anos tiveram uma grande popularização. Isso acontece pelo fato de ser uma aplicação bastante acessível, podendo ser adquirida com menos de R$ 50,00. Além disso, eles possuem rentabilidade bem atrativa, já que utiliza tanto a Selic quanto a inflação como índice e são bastante estáveis, diferentemente das ações, por exemplo. Não é a toa que com todas essas qualidades muitos ficam curiosos para saber como investir em títulos públicos. Pensando nisso, nós separamos um guia completo de como você pode investir neles. Confira!*
+
+_Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de investimento que nos últimos anos tiveram uma grande popularização. Isso acontece pelo fato de ser uma aplicação bastante acessível, podendo ser adquirida com menos de R$ 50,00. Além disso, eles possuem rentabilidade bem atrativa, já que utiliza tanto a Selic quanto a inflação como índice e são bastante estáveis, diferentemente das ações, por exemplo. Não é a toa que com todas essas qualidades muitos ficam curiosos para saber como investir em títulos públicos. Pensando nisso, nós separamos um guia completo de como você pode investir neles. Confira!_
 
 ## **O que são os títulos públicos?**
 
@@ -84,12 +85,16 @@ Outra cobrança está relacionada ao imposto, nesse caso, são dois: o IOF (Impo
 
 É utilizada a tabela regressiva, que funciona assim:
 
-*   22,5% para [investimentos](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/) de até 180 dias;
+- 22,5% para [investimentos](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/) de até 180 dias;
 
-*   20% para aplicações de 181 dias até 360 dias;
+- 20% para aplicações de 181 dias até 360 dias;
 
-*   17,5% para ativos com o prazo de 361 dias até 720 dias;
+- 17,5% para ativos com o prazo de 361 dias até 720 dias;
 
-*   15% para investimentos com prazo acima de 720 dias.
+- 15% para investimentos com prazo acima de 720 dias.
 
 Bem, temos certeza que com todas as informações daqui ficou fácil entender como investir em títulos públicos, não é? Se você está interessado em entrar no mundo dos negócios e quer ter mais orientação sobre o assunto de forma especializada, [entre em contato conosco e conheça os nossos serviços](http://saudemaisacao.com.br/fale-conosco/)!
+
+date: '2020-10-12'
+thumb_image: /images/blog/marketshare.jpeg
+image: /images/blog/marketshare.jpeg
