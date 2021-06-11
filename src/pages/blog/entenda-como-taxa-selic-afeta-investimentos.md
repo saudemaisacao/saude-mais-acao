@@ -1,12 +1,22 @@
 ---
 title: Entenda como a taxa Selic afeta os investimentos e planeje-se
+<<<<<<< Updated upstream
 date: '2018-12-11'
+=======
+subtitle:
+date: "2018-12-11"
+>>>>>>> Stashed changes
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: "Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a\_pergunta é necessário explicar o que quer dizer essa taxa."
 seo:
+<<<<<<< Updated upstream
   title: 'Entenda como a taxa Selic afeta os investimentos e planeje-se'
   description: ''
+=======
+  title: "Entenda como a taxa Selic afeta os investimentos e planeje-se"
+  description: 'Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a\_pergunta é necessário explicar o que quer dizer essa taxa.'
+>>>>>>> Stashed changes
   robots: []
   extra: []
   type: stackbit_page_meta
@@ -15,6 +25,7 @@ thumb_image: >-
   /images/blog/243223-entenda-como-a-taxa-selic-afeta-os-investimentos-e-planejese.jpg
 image: /images/blog/melodic-goat.jpg
 ---
+
 Muitos investidores têm a seguinte dúvida: como a taxa Selic afeta os investimentos? Antes de responder a pergunta é necessário explicar o que quer dizer essa taxa. Ela é uma sigla que significa Sistema Especial de Liquidação e de Custódia, corresponde ao índice básico de juros da economia brasileira e é usada como referência para todos os juros cobrados no país.
 
 Ela influencia muito na vida das pessoas que fazem [aplicações financeiras](https://saudemaisacao.com.br/blog/investimento-mensal-qual-o-valor-ideal-para-poupar-e-investir/). Pensando nisso explicaremos a relação de influência da Selic nos investimentos e na economia no Brasil. Vamos lá?
@@ -35,9 +46,9 @@ O Tesouro Selic tem o seu rendimento semelhante ao comportamento desse índice. 
 
 Trata-se de outro investimento que é influenciado diretamente pelo desempenho da Selic. Desde 2012, o governo definiu uma nova regra de cálculo para poupança e ela funciona da seguinte forma:
 
-*   caso a taxa seja igual ou maior a 8,5% ao ano, a poupança rende 0,5% ao mês mais a Taxa Referencial;
+- caso a taxa seja igual ou maior a 8,5% ao ano, a poupança rende 0,5% ao mês mais a Taxa Referencial;
 
-*   quando a Selic estiver abaixo de 8,5% ao ano, a poupança renderá 70% da taxa de juros.
+- quando a Selic estiver abaixo de 8,5% ao ano, a poupança renderá 70% da taxa de juros.
 
 ### CDI
 
