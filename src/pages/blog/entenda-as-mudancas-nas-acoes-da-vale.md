@@ -4,7 +4,8 @@ date: "2017-07-18"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Você tem ações da Vale? Ou pensa em tê-las algum dia? Esta é então uma boa hora para prestar atenção nela. E isso pode inclusive ser uma oportunidade para aqueles que estão pensando em entrar na bolsa ou buscando novos papeis para investir.
+
 seo:
   title: "Entenda as mudanças nas ações da Vale"
   description: ""

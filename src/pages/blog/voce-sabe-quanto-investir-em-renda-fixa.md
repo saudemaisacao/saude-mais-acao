@@ -3,8 +3,8 @@ title: "Você sabe quanto investir em renda fixa?"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Uma carteira de investimentos segura e rentável deve conter, em sua composição, produtos de renda fixa e variável em diferentes proporções. Mas você sabe o que é e o quanto investir em renda fixa?
+
 seo:
   title: "Você sabe quanto investir em renda fixa?"
   description: ""

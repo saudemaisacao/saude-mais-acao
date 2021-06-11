@@ -3,7 +3,8 @@ title: "Como usar cartão de crédito sem cair em armadilhas?"
 date: "2019-10-28"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: "Tão importante quanto cuidar das\_finanças pessoais, é cuidar da saúde financeira do consultório. Por uma razão muito simples: é de lá que vem renda. "
+excerpt: >-
+  Você sabe como usar cartão de crédito sem cair em armadilhas? Trata-se de uma pergunta extremamente pertinente, pois o cartão é uma das principais causas do endividamento das famílias. Isso acontece devido aos juros compostos que são cobrados nas transações quando utiliza-se essa forma de pagamento. Dessa maneira, a dívida cresce rapidamente e depois fica difícil de pagá-la.
 seo:
   title: "Como usar cartão de crédito sem cair em armadilhas?"
   description: ""

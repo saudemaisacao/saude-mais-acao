@@ -3,8 +3,8 @@ title: "4 dicas para parar de gastar mais do que ganha"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  O hábito de gastar mais do que ganha é muito comum entre pessoas das mais diferentes profissões. Quem nunca falou, ou ouviu alguém dizer, que “sobra mês para o meu salário”? Ou então que o importante é ser feliz e, como a vida é uma só, não faz sentido guardar dinheiro.
+
 seo:
   title: "4 dicas para parar de gastar mais do que ganha"
   description: ""

@@ -4,7 +4,8 @@ date: "2017-08-08"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Vira e mexe, temos a sensação de que o dia não “rendeu” e de que não temos tempo para nada. Mas ao mesmo tempo, olhamos a nossa volta e percebemos que algumas pessoas conseguem ser mais produtivas.
+
 seo:
   title: "Como evitar os ladrões do tempo."
   description: ""

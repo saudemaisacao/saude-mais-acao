@@ -3,16 +3,15 @@ title: Qual a melhor hora para investir?
 subtitle: >-
   Com o propósito de multiplicar riqueza, não importa a profissão, os objetivos,
   o montante que se ganha ou mesmo se você é patrão ou empregado.
-date: '2018-12-10'
+date: "2018-12-10"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Qual é a melhor hora para investir? Com o propósito de multiplicar riqueza,
-  não importa a profissão, os objetivos, o montante que se ganha ou mesmo se
-  você é patrão ou empregado.
+  Qual é a melhor hora para investir? Com o propósito de multiplicar riqueza, não importa a profissão, os objetivos, o montante que se ganha ou mesmo se você é patrão ou empregado. Investir significa multiplicar o patrimônio para melhorar o bem-estar, a qualidade de vida, realizar seus sonhos, proporcionar tranquilidade e, claro, dar uma boa qualidade de vida a seus entes queridos.
+
 seo:
-  title: 'Qual a melhor hora para investir?'
-  description: ''
+  title: "Qual a melhor hora para investir?"
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
@@ -20,6 +19,7 @@ template: post
 thumb_image: /images/blog/6_1600x700-1.jpg
 image: /images/blog/remarkable-thyme.jpg
 ---
+
 Qual é a melhor hora para [investir](https://saudemaisacao.com.br/investimento-mensal-qual-o-valor-ideal-para-poupar-e-investir/)? Com o propósito de multiplicar riqueza, não importa a profissão, os objetivos, o montante que se ganha ou mesmo se você é patrão ou empregado. Investir significa multiplicar o patrimônio para melhorar o bem-estar, a qualidade de vida, realizar seus sonhos, proporcionar tranquilidade e, claro, dar uma boa qualidade de vida a seus entes queridos.
 
 Os [juros compostos](https://saudemaisacao.com.br/blog/dinheiro-trabalhar-por-voce-riqueza/) são usados para calcular o rendimento dos investimentos. E nessa modalidade de juros, o diferencial é o tempo. Portanto, quanto mais cedo começar a investir, maior será o ganho, porque o tempo estará a favor. E o efeito do tempo sobre o rendimento não é linear e, sim, exponencial.
@@ -27,7 +27,7 @@ Os [juros compostos](https://saudemaisacao.com.br/blog/dinheiro-trabalhar-por-v
 Está interessado em saber mais sobre o assunto? Neste post, explicaremos qual é a importância de conhecer os investimentos,  estabelecer objetivos e conhecer os riscos das aplicações financeiras. Continue lendo!
 
 ![](/images/Juros_Compostos-2-600x600.jpg)[
-](http://saudemaisacao.com.br/parceiros/?utm_source=cta-parceiros\&utm_medium=blog\&utm_campaign=cta-parceiros)
+](http://saudemaisacao.com.br/parceiros/?utm_source=cta-parceiros&utm_medium=blog&utm_campaign=cta-parceiros)
 
 ## **Qual é a importância de conhecer os investimentos?**
 

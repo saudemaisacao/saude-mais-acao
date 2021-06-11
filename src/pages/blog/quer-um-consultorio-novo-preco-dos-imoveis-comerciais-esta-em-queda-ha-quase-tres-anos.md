@@ -3,8 +3,8 @@ title: "Quer um consultório novo? Preço dos imóveis comerciais está em queda
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Quem está pensando em comprar ou alugar um imóvel para montar o consultório, esta pode ser uma boa hora. Em queda contínua há cerca de dois anos, os valores tanto de venda quanto de aluguel dos imóveis comerciais no país estão em seu menor valor desde então. É o que mostra o índice Fipe-Zap Comercial, que considera as variações de preços nos milhares de anúncios cadastrados no site de imóveis Zap.
+
 seo:
   title: "Quer um consultório novo? Preço dos imóveis comerciais está em queda há quase três anos."
   description: ""

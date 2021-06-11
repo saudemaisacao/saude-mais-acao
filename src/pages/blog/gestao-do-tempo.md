@@ -3,8 +3,8 @@ title: "Os riscos e as vantagens de investir no próprio negócio"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Não é novidade que, via de regra, a vida de um médico costuma ser agitada. Afinal, o profissional lida diretamente com a saúde das pessoas, o que exige um nível de comprometimento que costuma ir muito além do exigido de profissionais de outras áreas. Além disso, grande parte dos médicos possui cerca de 3 a 4 empregos, o que lhes consome muito tempo. Apesar desse fato, o profissional precisa ser capaz de descansar e de se dedicar a outras tarefas importantes. Nesse contexto, a gestão do tempo é indispensável.
+
 seo:
   title: "Os riscos e as vantagens de investir no próprio negócio"
   description: ""

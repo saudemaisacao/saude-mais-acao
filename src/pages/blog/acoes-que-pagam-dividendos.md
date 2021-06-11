@@ -4,7 +4,8 @@ date: "2019-06-19"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Muitos investidores buscam por ações que pagam dividendos com o propósito de atingir o sonho de grande parte das pessoas que entram no mundo dos investimentos: a independência financeira. Essa possibilidade, de fato, é um grande atrativo, responsável por chamar a atenção de iniciantes no mercado financeiro e, até mesmo, dos mais experientes.
+
 seo:
   title: "Você sabe o que são ações que pagam dividendos? Nós explicamos!"
   description: ""

@@ -3,42 +3,42 @@ title: Como declarar os investimentos financeiros no imposto de renda?
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Você sabe como declarar investimentos financeiros? Trata-se de um procedimento
-  burocrático, mas é necessário para estar em dia com as obrigações da Receita
-  Federal. 
+  Você sabe como declarar investimentos financeiros? Trata-se de um procedimento burocrático, mas é necessário para estar em dia com as obrigações da Receita Federal. Não é novidade que o fisco tem aprimorado cada vez mais a fiscalização e, por isso, quem tiver alguma irregularidade pode cair na malha fina e ter várias dores de cabeça, o que ninguém deseja, não é mesmo?
+
 seo:
-  title: 'Como declarar os investimentos financeiros no imposto de renda?'
-  description: ''
+  title: "Como declarar os investimentos financeiros no imposto de renda?"
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
-date: '2018-12-13'
+date: "2018-12-13"
 thumb_image: >-
   /images/blog/261219-como-declarar-os-investimentos-financeiros-no-imposto-de-renda.jpg
 image: /images/blog/thoughtful-sparrow.jpg
 ---
+
 Você sabe como declarar investimentos financeiros? Trata-se de um procedimento burocrático, mas é necessário para estar em dia com as obrigações da Receita Federal. Não é novidade que o fisco tem aprimorado cada vez mais a fiscalização e, por isso, quem tiver alguma irregularidade pode cair na malha fina e ter várias dores de cabeça, o que ninguém deseja, não é mesmo?As pessoas que têm [aplicações financeiras](https://blog.rico.com.vc/aplicacoes-financeiras-mais-rentaveis-2018) na bolsa de valores e contam com elevado patrimônio precisam fazer a declaração do tributo. Os investidores que se enquadrarem em uma dessas condições abaixo precisarão acertar as contas com o leão no próximo ano. Os critérios são estes:
 
 Se está com dúvidas em relação ao assunto, continue lendo o post. Neste artigo explicaremos quais são os [investidores](https://saudemaisacao.com.br/blog/perfil-de-investidor-que-combina-com-voce/) que precisam fazer a declaração de Imposto de Renda e o que necessita ser declarado de acordo com cada tipo de aplicação financeira. Confira!
 
 ## **Quais são os investidores que precisam declarar o Imposto de Renda?**
 
-*   recebeu rendimentos tributáveis como aluguéis ou salários acima de R$28.559,70 neste ano;
+- recebeu rendimentos tributáveis como aluguéis ou salários acima de R$28.559,70 neste ano;
 
-*   apresenta ganhos mensais acima de R$1.903,99;
+- apresenta ganhos mensais acima de R$1.903,99;
 
-*   apresentar renda rural bruta superior a R$142.798,50;
+- apresentar renda rural bruta superior a R$142.798,50;
 
-*   recebeu investimentos isentos ou tributados diretamente na fonte acima de R$ 40.000,00. Alguns exemplos desses recebimentos são o seguro-desemprego, Tesouro Direto, poupança e indenizações trabalhistas;
+- recebeu investimentos isentos ou tributados diretamente na fonte acima de R$ 40.000,00. Alguns exemplos desses recebimentos são o seguro-desemprego, Tesouro Direto, poupança e indenizações trabalhistas;
 
-*   pessoas que realizaram operações na 
+- pessoas que realizaram operações na
 
-    [bolsa de valores](https://saudemaisacao.com.br/blog/como-aplicar-na-bolsa-de-valores-pela-primeira-vez/)
+  [bolsa de valores](https://saudemaisacao.com.br/blog/como-aplicar-na-bolsa-de-valores-pela-primeira-vez/)
 
-    , em mercado futuro ou em commodities;
+  , em mercado futuro ou em commodities;
 
-*   investidor que tem patrimônio (isso inclui investimentos financeiros, veículos, terrenos, imóveis etc.) com valor superior a R$ 300.000,00.
+- investidor que tem patrimônio (isso inclui investimentos financeiros, veículos, terrenos, imóveis etc.) com valor superior a R$ 300.000,00.
 
 Vale destacar que o prazo para fazer a declaração do Imposto de Renda (IR) se iniciará no mês de março do próximo ano e se encerrará no dia 28 de abril de 2019.
 

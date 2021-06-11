@@ -4,7 +4,8 @@ date: "2019-08-19"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Aumentar o fluxo de pacientes na clínica é importante para o sucesso do negócio, assim como reduzir os custos no consultório a fim de controlar as finanças. Simples hábitos como imprimir papéis, manter o estoque desorganizado ou não economizar energia elétrica são práticas que podem comprometer o orçamento pouco a pouco.
+
 seo:
   title: "Descubra 5 dicas para economizar no consultório"
   description: ""

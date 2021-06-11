@@ -4,7 +4,8 @@ date: "2017-08-02"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Abrir um consultório é um passo importante na consolidação da carreira de muitos profissionais da saúde e tem potencial para trazer excelentes retornos. Colocar o espaço em funcionamento envolve não só as burocracias ligadas à abertura de uma empresa mas também os cuidados relativos à legislação própria da saúde.
+
 seo:
   title: "Você conhece as exigências legais para se abrir um consultório?"
   description: ""

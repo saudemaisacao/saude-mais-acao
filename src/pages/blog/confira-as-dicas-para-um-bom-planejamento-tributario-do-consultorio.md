@@ -4,7 +4,7 @@ date: "2017-07-07"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  O planejamento tributário deixou de ser um luxo e passou a ser uma necessidade para a sobrevivência do consultório por conta da alta carga tributária. Confira, a seguir, as diferentes formas de elisão fiscal (uma forma lícita de economizar com impostos).
 seo:
   title: "Confira as dicas para um bom planejamento tributário do consultório"
   description: ""

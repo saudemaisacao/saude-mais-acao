@@ -3,8 +3,8 @@ title: "A importância e os benefícios de uma vida financeira saudável"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Uma vida financeira saudável implica diversos benefícios para o seu dia a dia. Por isso, se você busca melhorar a sua qualidade de vida, é fundamental entender a importância de alcançar a independência financeira.
+
 seo:
   title: "A importância e os benefícios de uma vida financeira saudável"
   description: ""

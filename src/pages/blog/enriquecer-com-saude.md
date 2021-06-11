@@ -4,7 +4,8 @@ date: "2019-07-29"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Para enriquecer com saúde, isto é, fazer escolhas conscientes e planejadas para assim ter os melhores resultados, não é uma meta impossível. Para muitos, o mercado pode parecer um bicho de sete cabeças, restrito apenas àqueles que investem na bolsa de valores ou especialistas. Porém, conhecendo os princípios básicos já é possível entrar nesse universo e juntar uma boa quantia.
+
 seo:
   title: "Deseja enriquecer com saúde? Aprenda estratégia que ajudou mais de 1500 pessoas!"
   description: ""

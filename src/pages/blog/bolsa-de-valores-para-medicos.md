@@ -4,7 +4,8 @@ date: "2019-08-12"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Trabalhar com medicina muitas vezes significa dias longos no consultório, sem muito tempo para o profissional se dedicar a outras atividades importantes. Por isso, a baixa da economia pode fazê-lo imaginar quais poderiam ser outras formas viáveis de rentabilidade, como o mercado de ações, mas é de conhecimento geral que ele não é nada intuitivo. Assim, é possível que você se pergunte quais as melhores dicas sobre a bolsa de valores para médicos.
+
 seo:
   title: "Bolsa de valores: 4 dicas para médicos que querem começar a investir"
   description: ""

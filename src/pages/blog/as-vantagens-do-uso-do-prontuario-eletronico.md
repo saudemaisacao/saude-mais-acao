@@ -4,7 +4,8 @@ date: "2017-04-24"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Nas últimas décadas, a tecnologia tem revolucionado a indústria da saúde. Os avanços são capazes não só de reduzir gastos e aumentar a eficiência, como também de entregar mais qualidade e segurança aos pacientes. Para se ter uma ideia, a previsão é de que, até o final deste ano, todas as unidades de atendimento básico do SUS estejam utilizando prontuário eletrônico.
+
 seo:
   title: "As vantagens do uso do prontuário eletrônico"
   description: ""

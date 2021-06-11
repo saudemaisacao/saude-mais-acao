@@ -4,7 +4,8 @@ date: "2017-07-05"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Comprar ou alugar um imóvel para montar um consultório é a primeira pergunta que os profissionais da saúde, sejam eles recém-formados ou não, costumam fazer. E, acreditem: a maior parte dos nossos colegas não faz a menor ideia de qual é a melhor alternativa. Nada mais normal, considerando-se que essa é, acima de tudo, uma decisão financeira.
+
 seo:
   title: "Comprar ou alugar um imóvel? Eis a questão"
   description: ""

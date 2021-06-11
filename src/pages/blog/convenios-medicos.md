@@ -3,7 +3,8 @@ title: "Conheça os prós e contras de atender por convênios médicos"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Se você já tem um negócio ou planeja abrir um, independentemente do seu segmento: saber sobre finanças é essencial. Todas as organizações precisam estar muito atentas às suas finanças, visto que um bom planejamento financeiro é a base para o crescimento. Todavia, hoje em dia, existem diversos empreendedores que ainda não procuraram conhecimento a respeito desse assunto, que é de suma importância para seu negócio.
+  Quando o assunto é os convênios médicos, é natural que até mesmo os profissionais mais experientes, com uma ampla vivência na medicina, tenham dúvidas se realmente vale a pena fechar contrato com eles. Isso ocorre porque, como tudo nessa vida, os convênios têm lados positivos e negativos.
+
 seo:
   title: "Conheça os prós e contras de atender por convênios médicos"
   description: ""

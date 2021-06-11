@@ -4,7 +4,8 @@ date: "2017-04-10"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Nas palestras que faço sobre o tema “Finanças no Consultório: Como maximizar os resultados” percebo o quanto os profissionais da área de saúde desconhecem os riscos e os benefícios de montar um negócio próprio. Isso porque essa decisão envolve peculiaridades que são determinantes para o seu sucesso ou fracasso. A combinação de conhecimento, planejamento e dedicação é um desses fatores. O contexto econômico é outro aspecto que precisa ser levado em conta.
+
 seo:
   title: "As lições para driblar a concorrência"
   description: ""

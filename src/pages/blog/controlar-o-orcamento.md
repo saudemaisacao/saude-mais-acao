@@ -3,8 +3,7 @@ title: "Controlar o orçamento: 8 dicas essenciais para o dinheiro render"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Sejamos sinceros, é bem difícil raciocinar quando o assunto é dinheiro — ainda mais se o objetivo é controlar o orçamento. Infelizmente, os maus hábitos são mais atrativos por trazerem uma satisfação rápida, mesmo que a conta chegue depois.
 seo:
   title: "Controlar o orçamento: 8 dicas essenciais para o dinheiro render"
   description: ""

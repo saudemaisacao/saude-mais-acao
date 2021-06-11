@@ -3,8 +3,8 @@ title: "Bancos ou corretoras independentes?"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Você investe por meio de uma corretora? Então você faz parte de uma parcela muito pequena da população. Uma pesquisa feita pela consultoria Empiricus e o Reclame Aqui, que falou com 8.940 pessoas, mostrou que menos da metade delas (3.843) possui algum investimento, e, das que investem, só 512 estão em corretoras independentes, 5,7% do total. Todo restante está nos bancos tradicionais.
+
 seo:
   title: "Bancos ou corretoras independentes?"
   description: ""

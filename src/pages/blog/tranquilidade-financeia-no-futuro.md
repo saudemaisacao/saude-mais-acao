@@ -4,9 +4,8 @@ subtitle: Descubra aqui!
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Uma das dúvidas mais frequentes de investidores iniciantes em títulos públicos
-  é sobre a rentabilidade do Tesouro Direto. Esses títulos são dívidas emitidas
-  pelo Tesouro Nacional para serem comprados por pessoas físicas.
+  Vamos ser sinceros: quem não está em busca da tranquilidade financeira no futuro? De fato, independentemente da sua condição profissional, ter a possibilidade de não se preocupar com dinheiro é um privilégio que a maioria quer, mas que poucos conseguem.
+
 seo:
   title: "Como garantir sua tranquilidade financeira no futuro? Descubra aqui!"
   description: ""

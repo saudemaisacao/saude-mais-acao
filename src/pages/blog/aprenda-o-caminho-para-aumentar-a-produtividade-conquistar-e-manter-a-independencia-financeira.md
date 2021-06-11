@@ -4,7 +4,8 @@ date: "2017-07-28"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Equipe da Saúde + Ação Educação e Planejamento Financeiro ensina o passo a passo para aumentar a produtividade, poupar, blindar o patrimônio e investir. Curso acontece no dia 12 de agosto em São Paulo
+
 seo:
   title: "Aprenda o caminho para aumentar a produtividade, conquistar e manter a independência financeira"
   description: ""

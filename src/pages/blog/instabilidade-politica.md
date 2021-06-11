@@ -4,7 +4,8 @@ date: "2019-09-16"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Existem vários fatores que afetam os investimentos no Brasil e no mundo todo, sendo a instabilidade política o principal deles. E não é somente no período de eleições que o mercado de ações sente as mudanças no bolso, pelo contrário.
+
 seo:
   title: "Entenda como a instabilidade política pode afeta os investimentos"
   description: ""

@@ -4,7 +4,8 @@ date: "2019-07-05"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  A bolsa de valores é um mercado on-line em que são negociadas ações de empresas e outros produtos financeiros, que inclui ativos das diversas naturezas desde ações de organizações dos mais diversos setores: bancário, de saúde, de consumo, entre outros, passando por fundos imobiliários, derivativos e commodities dentre outros. Para quem deseja uma carteira eficiente de investimento, ações são algo indispensável em sua composição, pois geram um retorno acima dos demais produtos no longo prazo.
+
 seo:
   title: "Guia rápido: como aplicar na bolsa de valores pela primeira vez"
   description: ""

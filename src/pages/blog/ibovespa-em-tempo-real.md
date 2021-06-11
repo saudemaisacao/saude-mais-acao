@@ -3,8 +3,8 @@ title: "Onze aplicativos para acompanhar a bolsa no celular"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Quem deseja compreender melhor como funciona o mercado de ações logo vê a importância de estar sempre atualizado com o que acontece nele. Isso é particularmente importante para os traders. Por isso, é fundamental buscar ferramentas para acompanhar o Ibovespa em tempo real.
+
 seo:
   title: "Onze aplicativos para acompanhar a bolsa no celular"
   description: ""

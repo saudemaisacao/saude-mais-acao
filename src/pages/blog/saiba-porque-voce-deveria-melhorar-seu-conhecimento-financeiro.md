@@ -3,7 +3,7 @@ title: "Saiba porque você deveria melhorar seu conhecimento financeiro"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Conhecer os tipos de fundos de investimentos pode ser uma boa para você que pensa em diversificar mais, porém não sabe por onde começar. Uma das grandes vantagens dessa aplicação é que ela concentra um número de ativos de diferentes origens em um só lugar. Além disso, não há a necessidade de serem administrados pelo investidor, trabalho feito por um profissional escolhido pela instituição do fundo.
+  Infelizmente, o conhecimento financeiro da maioria dos brasileiros fica muito aquém do ideal. Grande parte da população não sabe como lidar com o dinheiro e desconhece conceitos fundamentais sobre finanças. Por que será que isso acontece aqui no país?
 seo:
   title: "Saiba porque você deveria melhorar seu conhecimento financeiro"
   description: ""

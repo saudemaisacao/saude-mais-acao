@@ -4,7 +4,8 @@ date: "2019-09-02"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  A eficiência da gestão financeira da clínica é muito importante para que a mesma alcance o sucesso e torne-se sustentável. Existem muitas métricas que ajudam você a saber se a gestão está sendo eficiente e, principalmente, perceber se suas ações estão trazendo os resultados esperados. O retorno sobre investimento ou ROI é uma delas.
+
 seo:
   title: "Aprenda a calcular o retorno sobre investimento (ROI) em 4 passos"
   description: ""

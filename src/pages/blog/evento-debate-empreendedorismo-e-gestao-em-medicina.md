@@ -4,7 +4,8 @@ date: "2017-09-14"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Saúde+Ação é uma das participantes do MedBusiness 2017, evento realizado por alunos da FMUSP que acontece nos dias 20 e 21 de setembro
+
 seo:
   title: "Evento debate empreendedorismo e gestão em medicina"
   description: ""

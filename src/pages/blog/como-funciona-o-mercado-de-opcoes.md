@@ -4,7 +4,8 @@ date: "2018-08-13"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  O mercado de opções assusta várias pessoas, principalmente aquelas que não estão familiarizadas com investimentos ou que são investidores iniciantes. Grande parte desta aversão ao mercado de opções vem do desconhecimento e do uso incorreto destes instrumentos de proteção e remuneração de uma carteira eficiente de ativos.
+
 seo:
   title: "Você já sabe o que é e como funciona o mercado de opções?"
   description: ""

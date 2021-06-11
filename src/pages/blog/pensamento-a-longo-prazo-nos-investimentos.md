@@ -4,10 +4,7 @@ date: "2020-04-13"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Decidir abrir um negócio e trabalhar por conta própria pode trazer diversos benefícios, 
-  mas também significa ter uma atenção maior com as suas finanças. Afinal, a partir de agora, 
-  não há uma dependência de terceiros, sendo fundamental saber administrar sozinho os 
-  seus rendimentos e gastos.
+  A verdade é que, quando pensamos em investimentos, é difícil não querer resultados imediatos. Contudo, apesar de até existirem opções de curto prazo, são raríssimas as chances de que o resultado seja consistente ou, até mesmo, que garanta um valor satisfatório logo de cara.
 seo:
   title: "Planejamento financeiro para autônomo: veja como fazer em 7 passos"
   description: ""

@@ -3,8 +3,7 @@ title: "4 informações importantes acerca do Fundo Garantidor de Crédito"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  O Fundo Garantidor de Crédito foi instituído com o objetivo de proteger e oferecer mais estabilidade para o Sistema Financeiro Nacional. Seu papel é garantir a segurança e a liquidez dos recursos financeiros depositados ou investidos, para evitar crises nas instituições bancárias.
 seo:
   title: "4 informações importantes acerca do Fundo Garantidor de Crédito"
   description: ""

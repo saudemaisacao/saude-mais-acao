@@ -3,8 +3,8 @@ title: "Você conhece a história do fundador do Saúde + Ação?"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Francinaldo Gomes é neurocirurgião e vive em Belém do Pará, mas quando era menino em Abaetetuba, cidade ribeirinha do interior do Pará onde nasceu, pouca gente acreditava que ele chegaria lá. “Ninguém na minha família tinha estudado, por isso achavam que a ideia era inatingível e que eu precisava trabalhar, não estudar”, contou o médico em entrevista para o portal Infomoney.
+
 seo:
   title: "Você conhece a história do fundador do Saúde + Ação?"
   description: ""

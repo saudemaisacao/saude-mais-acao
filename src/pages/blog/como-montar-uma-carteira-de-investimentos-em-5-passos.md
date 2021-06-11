@@ -4,7 +4,8 @@ date: "2019-02-21"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Para alcançar sua independência financeira, você precisa saber como montar uma carteira de investimentos. Desse modo, seu dinheiro trabalhará para garantir a sua tranquilidade quando você parar de trabalhar.
+
 seo:
   title: "Como montar uma carteira de investimentos em 5 passos"
   description: ""

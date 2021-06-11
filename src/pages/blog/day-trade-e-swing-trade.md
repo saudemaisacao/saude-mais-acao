@@ -3,8 +3,8 @@ title: "Day Trade e Swing Trade: conheça suas diferenças e a melhor opção"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Investir na bolsa de valores é um desafio que requer conhecimento. Por isso, aprender um pouco mais sobre os diferentes tipos de operações do mercado de capitais é fundamental, em especial, saber de uma vez por todas o que é Swing Trade e Day Trade.
+
 seo:
   title: "Day Trade e Swing Trade: conheça suas diferenças e a melhor opção"
   description: ""

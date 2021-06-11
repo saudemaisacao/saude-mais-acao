@@ -4,7 +4,8 @@ date: "2019-07-08"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Ainda que você tenha direito à previdência social com as contribuições que faz ao INSS, sugerimos que saiba mais sobre a importância de ter um plano de previdência privada. Dado que o INSS está passando por muitas incertezas, não é aconselhável nem saudável depender dele para pagar as contas.
+
 seo:
   title: "Imposto de renda 2019: o que você precisa saber sobre o assunto"
   description: ""

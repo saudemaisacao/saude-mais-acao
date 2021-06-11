@@ -4,7 +4,8 @@ date: "2019-08-19"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Este blog post vai explicar para você, que deseja ter fontes de recursos fora do país, como investir dinheiro no exterior. Dessa forma, você saberá com o que deve se preocupar, a fim de gerir seus rendimentos da maneira correta.
+
 seo:
   title: "Aprenda como investir dinheiro no exterior agora mesmo!"
   description: ""

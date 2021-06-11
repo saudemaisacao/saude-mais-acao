@@ -1,10 +1,10 @@
 ---
-title: Entenda o que é e como calcular o Market Share do seu negócio
+title: "Entenda o que é e como calcular o Market Share do seu negócio"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Embora a finalidade de um consultório médico seja melhorar o padrão de vida das pessoas por meio de um atendimento de qualidade, ele ainda é um negócio e precisa gerar retornos financeiros. Por essa razão, é necessário que os seus donos saibam como calcular o Market Share.
+
 seo:
   title: "Entenda o que é e como calcular o Market Share do seu negócio"
   description: ""
@@ -13,88 +13,81 @@ seo:
   type: stackbit_page_meta
 template: post
 date: "2020-10-12"
-thumb_image: /images/blog/marketshare.jpeg
-image: /images/blog/marketshare.jpeg
+thumb_image: /images/blog/como-calcular-market-share.jpeg
+image: /images/blog/como-calcular-market-share.jpeg
 ---
 
-_Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de investimento que nos últimos anos tiveram uma grande popularização. Isso acontece pelo fato de ser uma aplicação bastante acessível, podendo ser adquirida com menos de R$ 50,00. Além disso, eles possuem rentabilidade bem atrativa, já que utiliza tanto a Selic quanto a inflação como índice e são bastante estáveis, diferentemente das ações, por exemplo. Não é a toa que com todas essas qualidades muitos ficam curiosos para saber como investir em títulos públicos. Pensando nisso, nós separamos um guia completo de como você pode investir neles. Confira!_
+Embora a finalidade de um consultório médico seja melhorar o padrão de vida das pessoas por meio de um atendimento de qualidade, ele ainda é um negócio e precisa gerar retornos financeiros. Por essa razão, é necessário que os seus donos saibam como calcular o Market Share.
 
-## **O que são os títulos públicos?**
+Ao fazer uso desse indicador, os sócios do consultório se tornam capazes de mensurar o seu nível de relevância no mercado. O que os permite implementar estratégias para captar um número maior de pacientes, otimizando o seu resultado.
 
-Títulos públicos são [ativos de renda fixa](https://saudemaisacao.com.br/blog/destaque-home/afinal-o-que-e-renda-fixa-e-renda-variavel/) emitidos pelo Governo Federal através do Tesouro Nacional. O que acontece é que, quando um investidor compra um título, ele está emprestando dinheiro para o Governo e em troca, depois de um certo período, pode receber a quantia mais juros. Os títulos públicos são distribuídos pela plataforma Tesouro Direto que foi desenvolvida pelo Tesouro Nacional junto com a B3.
+Leia o artigo e descubra o que é Market Share e entenda como usá-lo a favor do seu consultório!
 
-## **Como os títulos funcionam?**
+## Conceito de Market Share
 
-Os títulos disponíveis no Tesouro Direto têm a característica de serem menos voláteis com uma rentabilidade que não varia tanto se comparado com outras aplicações.
+O termo Market Share pode ser traduzido como fatia, quota ou porção de mercado. Basicamente, ele foi desenvolvido para que empresas sejam capazes de avaliar o quão bem-sucedidas são no mercado que estão inseridas.
 
-Entre os exemplares oferecidos encontram-se o Tesouro Selic, que utiliza a taxa básica de juros (Selic); o Tesouro prefixado que, além de também utilizar a taxa básica, o seu rendimento é definido antes da compra; e o Tesouro IPCA+, que usa a inflação para basear a sua rentabilidade.
+Para auferir esse resultado, o indicador pode considerar fatores como:
 
-É bom saber que, quando se compra um título, não se recebe um documento, a compra é confirmada por meio de um protocolo registrado no CPF do interessado.
+-número de vendas;
+-quantidade de clientes;
+-faturamento da empresa.
 
-## **Quais são as vantagens?**
+## Importância do indicador
 
-### Segurança
+O Market Share aplicado à realidade de um consultório, ou de uma clínica médica, abre espaço para que seus gestores verifiquem o volume de mercado ocupado pelo negócio. O que permite conferir se suas estratégias de gestão e de marketing geram os resultados que eram esperados.
 
-São títulos que costumam ter rendimentos acima da inflação e, mesmo assim, fornecem bastante segurança para quem pensa em comprá-los, já que são garantidos pelo Tesouro Nacional Brasileiro e as chances de haver algum calote é muito rara.
+Considerando esse fato, podemos dizer que o indicador é importante para os profissionais de saúde porque possibilita avaliar seu desempenho. Assim, eles podem identificar erros e oportunidades de atuação com mais facilidade.
 
-### Ótimo para longo prazo
+## Como calcular o Market Share
 
-Para aqueles que estão planejando sua aposentadoria ou querem investir em algum bem de grande valor, os títulos públicos são uma ótima opção, pois, além de bons rendimentos, a cobrança do imposto de renda é baixa para prazos de mais de dois anos.
+Em primeiro lugar, é necessário ressaltar que o Market Share não deve ser analisado de forma isolada. Sem informações e medidas de comparação, não é possível saber se atender 5% dos pacientes em uma determinada região é bom ou ruim. Nesse contexto, para um consultório aberto recentemente e ainda pouco conhecido, esse número poderia ser bom.
 
-### Preços acessíveis
+Entretanto, para um consultório mais antigo na região, esse valor indicaria que algo está errado em sua operação ou que a competição na área é muito alta. Por esse motivo, os dados apurados por meio do Market Share sempre devem ser comparados com a realidade do consultório e da região onde ele está inserido.
 
-Graças à possibilidade de comprar partes de um título, não é necessário desembolsar uma quantia muito grande para investir nessa aplicação. Podendo adquirir partes por menos de R$ 50,00.
+### Cálculo do indicador
 
-## **Quais são os riscos?**
+Embora o Market Share possa ser usado para verificar 3 fatores diferentes, que apontam a participação do negócio no mercado, o cálculo é basicamente o mesmo e é feito com base na regra de 3. Acompanhe!
 
-### Liquidez
+-Percentual de clientes atendidos
+Nesse cálculo, o médico deve comparar o número de pacientes atendidos em consultórios na região onde atua com o número de atendimentos em seu consultório médico. Essa comparação deve ser feita por meio da regra de 3, acompanhe!
 
-Pode acontecer de não ser possível resgatar o [dinheiro](https://saudemaisacao.com.br/blog/como-investir-dinheiro-no-exterior/) no período que se quer. Por exemplo, é possível comprar um título e não conseguir vendê-lo após um curto tempo, ou seja, ele pode não ter uma liquidez flexível. Porém, isso é muito raro, já que desde 2015, os títulos do Tesouro têm uma liquidez diária, sendo permitido o resgate antes do vencimento.
+Digamos que em uma região onde os consultórios atendam, em média, 500 pacientes por mês, o seu consultório atenda 100 pessoas.
 
-### Mercado
+500 = 100%
+100 = X
+500.X = 100.100
+500X = 10.000
+X = 10.000/500
+X = 20%
+Nesse caso, o Market Share será de 20%
 
-É um risco que possui mais ligação com as possíveis oscilações dos preços dos ativos. Se for necessário vender o título antes da data do resgate, os juros podem variar muito. Sendo assim, o investidor estará exposto ao que o [mercado](https://saudemaisacao.com.br/blog/como-funciona-o-mercado-de-opcoes/) estiver pagando naquele período pelo título e isso pode ser tanto um alto valor como um baixo.
+-Percentual de clientes em potencial
+Esse cálculo considera o número de pacientes em potencial e, por meio da regra de 3, o relaciona com o número de pessoas atendidas pelo consultório, ou clínica, em questão.
 
-## **Como investir?**
+Por exemplo, se em uma região existem 4000 clientes em potencial e o seu consultório atende 1000 pessoas, o cálculo será feito do seguinte modo.
 
-Primeiro, é necessário ter uma conta-corrente em uma instituição financeira. Depois, é preciso escolher uma corretora ou um banco para administrar os seus títulos, elas serão os seus agentes de custódia.
+4000 = 100
+1000 = X
+4000.X = 1000.100
+4000X = 100.000
+X = 100.000/4000
+X = 25
+Portanto, o Market Share será de 25%.
 
-Assim que escolher, a B3 enviará para você uma senha temporária para ter acesso à plataforma do Tesouro, é ali que as operações acontecem. Após comprar o seu título, você será informado de uma data limite para depositar o dinheiro e assim confirmar a aquisição.
+-Faturamento do consultório
+Por fim, esse cálculo considera o faturamento do consultório em relação aos valores apurados por seus concorrentes diretos. Assim como nos cálculos anteriores, a regra de 3 deve ser usada.
 
-Caso o tempo do resgate ou a data de cupom de juros já tenha cessado, aquilo que foi arrecadado pode ser acessado até as 13 horas do mesmo dia. Agora, se o investidor vendeu antecipadamente o título, o dinheiro fica disponível no dia seguinte. O CPF é o documento principal exigido na plataforma.
+Digamos, por exemplo, que em uma região há 5 consultórios, contando com o seu, e que o faturamento médio desses consultórios é de R$1.000.000. Nesse contexto, o seu consultório fatura, em média, R$100.000.
 
-É possível investir de forma tradicional, em que as operações de compra e venda acontecem no horário de funcionamento do site (dias úteis, das 9h30 às 18h), ou programando, em que é agendada a compra dos títulos e pode-se cancelar ou alterar a atividade um dia antes da operação.
+1.000.000 = 100%
+100.000 = X
+1.000.000.X = 100.000.100
+1.000.000X = 10.000.000
+X = 10.000.000/1.000.000
+X = 10
+Nessa situação, o Market Share de seu consultório seria de 10% do mercado.
 
-## **Como funciona o resgate?**
+Por fim, se o valor apurado ao calcular o Market Share for considerado baixo para o consultório, o profissional de saúde deve identificar os fatores que causam esse resultado e tomar medidas para eliminá-los. Ele pode, por exemplo, tornar o seu atendimento mais personalizado ou investir mais em estratégias de divulgação.
 
-No caso do Tesouro Selic, o resgate pode ser feito a qualquer momento, já que a diferença entre o preço de venda e de compra é bem pequena. Já no Prefixado, como o rendimento já está definido, o preço do título costuma mudar diariamente, dessa forma, ao resgatá-lo, o Tesouro Nacional paga o valor do período específico.
-
-Para garantir uma boa rentabilidade do IPCA+, o ideal é que ele não seja resgatado antes do vencimento, pois também oferece uma taxa de retorno (revelada na hora da compra) que só pode ser recebida na data. Em todo o caso, ele pode ser resgatado antes do vencimento, porém, o valor tende a ser diferente do que foi contratado.
-
-## **Quais são os cuidados necessários?**
-
-### Custos
-
-Os títulos oferecidos pelo Tesouro Direto possuem algumas taxas. A primeira é a taxa de custódia que costuma ser 0,3% e é recolhida pela B3 a cada ano e se refere a administração do ativo.
-
-A segunda é a de serviço ou agente de custódia, cobrada pelas corretoras ou bancos, geralmente a cada 6 meses, sendo a primeira em janeiro e a segunda e julho ou quando há pagamento de juros, venda ou resgate do título.
-
-### Tributos
-
-Outra cobrança está relacionada ao imposto, nesse caso, são dois: o IOF (Imposto Sobre Operações Financeiras) e o IR (Imposto de Renda). O primeiro é cobrado em caso de resgate de menos de um mês. O segundo incide sobre a rentabilidade do título em caso de vendas, resgate e ou quando se recebe cupons de juros semestrais.
-
-É utilizada a tabela regressiva, que funciona assim:
-
-- 22,5% para [investimentos](https://saudemaisacao.com.br/blog/investimentos-de-renda-fixa/) de até 180 dias;
-
-- 20% para aplicações de 181 dias até 360 dias;
-
-- 17,5% para ativos com o prazo de 361 dias até 720 dias;
-
-- 15% para investimentos com prazo acima de 720 dias.
-
-Bem, temos certeza que com todas as informações daqui ficou fácil entender como investir em títulos públicos, não é? Se você está interessado em entrar no mundo dos negócios e quer ter mais orientação sobre o assunto de forma especializada, [entre em contato conosco e conheça os nossos serviços](http://saudemaisacao.com.br/fale-conosco/)!
-
-date: '2020-10-12'
-thumb_image: /images/blog/marketshare.jpeg
-image: /images/blog/marketshare.jpeg
+Assine nossa newsletter e receba mais conhecimentos capazes de otimizar a gestão de seu consultório!

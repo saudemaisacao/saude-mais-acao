@@ -4,7 +4,8 @@ date: "2019-08-05"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  É impossível lidar com o meio tecnológico sem utilizar senhas. Elas estão em todo lugar: acesso à internet, redes sociais, aplicativos, lojas online, contas bancárias, aparelhos celulares e até mesmo na TV. Já parou para pensar em quantas senhas você tem? Para simplificar sua vida, foi criado o 1password, um aplicativo para senha que armazenará todas elas para você. E não para por aí.
+
 seo:
   title: "1password: entenda como funciona o aplicativo para senha"
   description: ""

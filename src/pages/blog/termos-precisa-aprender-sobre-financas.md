@@ -3,8 +3,8 @@ title: "10 termos que você precisa aprender sobre finanças do consultório"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Grande parte dos profissionais de saúde deixa a gestão financeira de seus consultórios a cargo do contador, do administrador e, em alguns casos, da própria secretária. Claro que estes colaboradores são essenciais para o bom andamento das finanças, mas é o dono do negócio quem deve estar à frente das decisões financeiras do seu consultório. E, para isso, é interessante que ele se familiarize com o vocabulário usado nas áreas de finanças, gestão e contabilidade. Eis, aqui, os principais termos:
+
 seo:
   title: "10 termos que você precisa aprender sobre finanças do consultório"
   description: ""

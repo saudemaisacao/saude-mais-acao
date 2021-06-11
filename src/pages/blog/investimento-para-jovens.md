@@ -4,7 +4,8 @@ date: "2019-03-22"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  As aplicações financeiras são importantes na construção de um futuro tranquilo. Elas proporcionam acúmulo de capital, evitam que você perca poder de compra e apresentam bons resultados em longo prazo, devido ao efeito dos juros compostos. Diante da diversidade de opções no mercado financeiro, há várias alternativas de investimento para jovens.
+
 seo:
   title: "Conheça agora mesmo 3 ótimos investimentos para jovens"
   description: ""

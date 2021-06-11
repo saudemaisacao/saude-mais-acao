@@ -4,10 +4,7 @@ date: "2019-10-07"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Decidir abrir um negócio e trabalhar por conta própria pode trazer diversos benefícios, 
-  mas também significa ter uma atenção maior com as suas finanças. Afinal, a partir de agora, 
-  não há uma dependência de terceiros, sendo fundamental saber administrar sozinho os 
-  seus rendimentos e gastos.
+  Se você quer tomar decisões mais acertadas no que tange seus investimentos, é necessário conhecer as taxas e os tipos de aplicações disponíveis no mercado. Uma dúvida muito comum, principalmente entre quem está começando a investir, gera confusão entre o que é CDI e CDB. Na verdade, a primeira sigla é uma taxa relacionada à rentabilidade, enquanto a segunda é um tipo de investimento.
 seo:
   title: "O que é CDI e CDB? Veja o que é e como influencia nos investimentos"
   description: ""

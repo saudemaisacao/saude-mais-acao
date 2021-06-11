@@ -4,7 +4,8 @@ date: "2017-03-31"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  É natural que os profissionais da área de saúde tenham dificuldade em vender seus produtos e serviços. Isso acontece, em parte, porque o mercado mudou e os clientes estão cada vez mais exigentes. Hoje, não basta atender bem. É preciso surpreendê-lo em todas as etapas do atendimento (do ambiente e do estacionamento à sala de espera). Para encantar um cliente, é preciso ir além das suas expectativas. Eis aqui algumas dicas para vender mais – e melhor:
+
 seo:
   title: "10 passos para encantar (e fisgar) o seu paciente"
   description: ""

@@ -7,9 +7,7 @@ date: "2019-09-30"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Qual é a melhor hora para investir? Com o propósito de multiplicar riqueza,
-  não importa a profissão, os objetivos, o montante que se ganha ou mesmo se
-  você é patrão ou empregado.
+  Ter conhecimento acerca de aplicações financeiras e de práticas bem-sucedidas no mercado é fundamental para que você seja capaz de tomar decisões mais acertadas. Assim, fica mais fácil buscar boas rentabilidades, de modo a conquistar sua liberdade e independência financeira. Uma ótima maneira de buscar informações sobre o assunto é lendo livros sobre investimentos.
 seo:
   title: "Descubra aqui 7 livros sobre investimentos que você deve conhecer"
   description: ""

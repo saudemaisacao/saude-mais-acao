@@ -4,7 +4,8 @@ date: "2017-09-19"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Você sabe o que é GTD? A sigla para Getting Things Done diz respeito a um método de gerenciamento do tempo que dá nome ao livro do guru em produtividade David Allen.
+
 seo:
   title: "Faça as coisas acontecerem!"
   description: ""

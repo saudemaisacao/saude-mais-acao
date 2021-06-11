@@ -4,7 +4,8 @@ date: "2017-05-03"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  No post anterior, falamos sobre as inúmeras vantagens do uso do prontuário eletrônico (PEP). Pois bem. Para que ele seja 100% eletrônico, ou seja, dispense o uso do papel, é obrigatório o uso de uma certificação digital (um arquivo de computador que identifica uma pessoa física ou jurídica no mundo digital). No Brasil, para que um documento eletrônico tenha validade jurídica, ética e legal, ele precisa ser assinado desta forma. Eis, aqui, os aspectos que devem ser considerados antes da aquisição de um PEP:
+
 seo:
   title: "4 dicas na hora de escolher um prontuário eletrônico"
   description: ""

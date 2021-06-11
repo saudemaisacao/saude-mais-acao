@@ -3,8 +3,8 @@ title: "Quanto vale a sua consulta?"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Um dos principais erros administrativos de um consultório é não saber calcular corretamente o custo da consulta. Sem conhecer o custo real de uma consulta não há como saber se o consultório está dando lucro ou prejuízo; não há como saber quais convênios vale a pana ou não manter e, mesmo, quais pacientes são mais lucrativos pro consultório, os particulares ou os de convênio. Para estabelecê-lo, é preciso conhecer o perfil do consultório, a receita, os custos, além de saber o tempo médio gasto com cada paciente. A primeira etapa, portanto, consiste em determinar o custo fixo por minuto, o custo fixo geral e o custo variável por consulta e, finalmente, o custo real.
+
 seo:
   title: "Quanto vale a sua consulta?"
   description: ""
@@ -49,5 +49,4 @@ O custo com as consultas de convênio é de 42,60 reais cada. A receita média p
 
 Quer saber mais sobre como conquistar a tão sonhada independência financeira? Acompanhe o nosso blog: saudemaisacao.com.br/blog/.
 
-Seja um parceiro
 Tags:Finanças Pessoais, Gerais

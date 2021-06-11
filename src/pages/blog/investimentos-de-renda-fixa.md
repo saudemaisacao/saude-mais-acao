@@ -3,8 +3,8 @@ title: "Investimentos de renda fixa: descubra como escolher os melhores"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Para ser eficiente no longo prazo, uma carteira de ativos precisa conter produtos de renda fixa em sua composição. Isto porque os produtos de renda fixa darão segurança e liquidez para a carteira de ativos. Portanto, não se deve esperar rentabilidade da carteira de renda fixa pois ela existe para dar segurança e liquidez. A rentabilidade deve ser buscada na renda variável.
+
 seo:
   title: "Investimentos de renda fixa: descubra como escolher os melhores"
   description: ""

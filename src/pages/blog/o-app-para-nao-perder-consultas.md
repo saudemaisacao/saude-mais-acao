@@ -3,8 +3,8 @@ title: "O app para não perder consultas"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Os títulos públicos emitidos pelo Tesouro Nacional são uma possibilidade de
-  investimento que nos últimos anos tiveram uma grande popularização.
+  Todo paciente sabe que toma tempo ficar procurando um profissional e ligando em consultórios para encontrar agenda – e todo paciente também com certeza já esqueceu da consulta algum dia. Todo médico, por outro lado, sabe o contratempo que é o chamado absenteísmo.
+
 seo:
   title: "O app para não perder consultas"
   description: ""

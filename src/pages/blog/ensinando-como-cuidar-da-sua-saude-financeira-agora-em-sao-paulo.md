@@ -4,7 +4,8 @@ date: "2016-10-06"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Curso de Finanças Pessoais e Investimento da Saúde + Ação Educação e Planejamento Financeiro
+
 seo:
   title: "Ensinando como cuidar da sua saúde financeira, agora em São Paulo!"
   description: ""

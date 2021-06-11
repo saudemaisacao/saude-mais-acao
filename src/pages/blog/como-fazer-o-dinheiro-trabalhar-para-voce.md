@@ -4,7 +4,8 @@ date: "2019-08-29"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Ao entrar no mundo dos investimentos, uma das informações mais úteis para começar a aplicar é saber o seu perfil. Isto porque esse dado funciona como uma espécie de norte para entender sua tolerância a riscos e também quais são as melhores aplicações para os seus objetivos.
+  Investir é multiplicar a riqueza por meio de juros compostos, ou seja, juros sobre juros. Portanto, para ter sucesso nessa empreitada, precisamos de três coisas: recursos, juros compostos e tempo. Esses são os ingredientes para enriquecer.
+
 seo:
   title: "Como fazer o dinheiro trabalhar para você? Entenda!"
   description: ""
