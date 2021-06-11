@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   No post anterior, falamos sobre as inúmeras vantagens do uso do prontuário eletrônico (PEP). Pois bem. Para que ele seja 100% eletrônico, ou seja, dispense o uso do papel, é obrigatório o uso de uma certificação digital (um arquivo de computador que identifica uma pessoa física ou jurídica no mundo digital). No Brasil, para que um documento eletrônico tenha validade jurídica, ética e legal, ele precisa ser assinado desta forma. Eis, aqui, os aspectos que devem ser considerados antes da aquisição de um PEP:
-
 seo:
   title: "4 dicas na hora de escolher um prontuário eletrônico"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Bom, pessoal, sabemos que a maior parte dos profissionais da área de saúde tem o desejo de abrir o negócio próprio. Mas antes de se lançar no mercado e montar um consultório ou clínica, é preciso avaliar se o investimento é viável e, o mais importante: rentável. Para isso, é fundamental elaborar um plano de negócio. Tomar como base colegas, professores, ou mesmo os pais, ou subestimar a importância desse planejamento quando o negócio já está em funcionamento, são grandes erros.
-
 seo:
   title: "30 perguntas para responder antes de abrir o negócio próprio"
   description: ""

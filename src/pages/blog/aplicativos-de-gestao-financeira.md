@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Assim como uma cirurgia, controlar as finanças é um procedimento que exige conhecimento e o uso das ferramentas certas. Por isso, contar com a ajuda dos aplicativos de gestão financeira faz toda a diferença para os profissionais da área da saúde que precisam gerir o orçamento da melhor maneira, assim como cortar gastos e investir bem no mercado de ações.
-
 seo:
   title: "TOP 7 melhores aplicativos de gestão financeira"
   description: ""

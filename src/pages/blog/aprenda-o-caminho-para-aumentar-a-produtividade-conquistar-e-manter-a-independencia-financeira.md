@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Equipe da Saúde + Ação Educação e Planejamento Financeiro ensina o passo a passo para aumentar a produtividade, poupar, blindar o patrimônio e investir. Curso acontece no dia 12 de agosto em São Paulo
-
 seo:
   title: "Aprenda o caminho para aumentar a produtividade, conquistar e manter a independência financeira"
   description: ""

@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   É impossível lidar com o meio tecnológico sem utilizar senhas. Elas estão em todo lugar: acesso à internet, redes sociais, aplicativos, lojas online, contas bancárias, aparelhos celulares e até mesmo na TV. Já parou para pensar em quantas senhas você tem? Para simplificar sua vida, foi criado o 1password, um aplicativo para senha que armazenará todas elas para você. E não para por aí.
-
 seo:
   title: "1password: entenda como funciona o aplicativo para senha"
   description: ""

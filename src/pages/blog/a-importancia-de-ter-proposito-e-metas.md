@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   “Se você não é capaz de descrever o que você faz com um processo, você não sabe o que está fazendo”. Essa frase, do palestrante e consultor norte-americano William Edwards Deming, nos leva a uma reflexão. Afinal, sabemos o que estamos fazendo e aonde queremos chegar?
-
 seo:
   title: "A importância de ter propósito e metas"
   description: ""

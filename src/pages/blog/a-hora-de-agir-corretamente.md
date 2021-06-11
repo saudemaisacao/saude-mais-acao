@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Independência financeira é algo de que muito se fala, mas muitas pessoas na verdade não sabem direito o que isso significa. O conceito é simples: ser independente financeiramente é ter um patrimônio que gere renda passiva suficiente para pagar as contas, sem depender do trabalho. Com isso, você ganha tempo para fazer o que quiser.
-
 seo:
   title: "A hora de agir corretamente"
   description: ""

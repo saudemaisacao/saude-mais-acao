@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   É natural que os profissionais da área de saúde tenham dificuldade em vender seus produtos e serviços. Isso acontece, em parte, porque o mercado mudou e os clientes estão cada vez mais exigentes. Hoje, não basta atender bem. É preciso surpreendê-lo em todas as etapas do atendimento (do ambiente e do estacionamento à sala de espera). Para encantar um cliente, é preciso ir além das suas expectativas. Eis aqui algumas dicas para vender mais – e melhor:
-
 seo:
   title: "10 passos para encantar (e fisgar) o seu paciente"
   description: ""

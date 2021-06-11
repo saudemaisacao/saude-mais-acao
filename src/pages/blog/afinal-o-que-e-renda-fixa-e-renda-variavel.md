@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Um dos primeiros passos para aprender a investir é sem dúvidas este: saber o que são e no que se diferenciam a renda fixa e a renda variável, os dois grandes grupos em que se dividem os diferentes tipos de investimentos. A renda fixa, no geral, concentra as opções mais previsíveis e estáveis, com rendimentos definidos, como é o caso do Tesouro Direto ou da mais tradicional delas, a poupança. A renda variável, por outro lado, é onde estão as ações em bolsa e outros tipos de aplicação que flutuam conforme o mercado, o que embute mais riscos de perda, mas também não tem limites para os ganhos.
-
 seo:
   title: "Afinal, o que é renda fixa e renda variável?"
   description: ""

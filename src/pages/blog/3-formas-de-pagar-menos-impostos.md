@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   A carga tributária brasileira é uma das maiores do planeta. De acordo com uma estimativa do Instituto Brasileiro de Planejamento e Tributação (IBPT), este ano a população trabalhou até 1 de junho (ou seja, 153 dias), só para pagar tributos. Apesar disso, o brasileiro tem um dos menores retornos sobre o que paga. Portanto, para um planejamento financeiro adequado, é preciso ter um bom planejamento tributário. Ele consiste no uso de medidas lícitas que reduzem a carga tributária para pessoa física. Confira as três principais formas de se fazer isso:
-
 seo:
   title: "3 formas de pagar menos impostos"
   description: ""

@@ -4,8 +4,7 @@ date: "2018-08-29"
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-Devido às características da nossa economia, o brasileiro ganha em Real mas gasta em Dollar. Por essa razão, fazer investimentos fora do Brasil proporciona diversos benefícios, como segurança, solidez, possibilidades de diversificação, proteção cambial entre outros. Para você ter uma ideia, o mercado de capitais dos Estados Unidos é quase 50 vezes maior que o nosso. Por essa razão, a liquidez é também maior. Mas, você sabe como investir no exterior?
-
+  Devido às características da nossa economia, o brasileiro ganha em Real mas gasta em Dollar. Por essa razão, fazer investimentos fora do Brasil proporciona diversos benefícios, como segurança, solidez, possibilidades de diversificação, proteção cambial entre outros. Para você ter uma ideia, o mercado de capitais dos Estados Unidos é quase 50 vezes maior que o nosso. Por essa razão, a liquidez é também maior. Mas, você sabe como investir no exterior?
 seo:
   title: "Não sabe como investir no exterior? Confira!"
   description: ""

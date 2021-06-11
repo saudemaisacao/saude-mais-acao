@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Antes de formar uma carteira de ações, é preciso estar atento e tomar alguns cuidados, como manter os fatores emocionais longe da tomada de decisão e conhecer mais a fundo a empresa da qual se pretende ser “sócio”. Confira as dicas do neurocirurgião e especialista em finanças pessoais e investimentos, Francinaldo Gomes:
-
 seo:
   title: "5 dicas para acertar na escolha de ações"
   description: ""

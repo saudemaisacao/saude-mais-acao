@@ -5,7 +5,6 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Gerenciamento de risco ajuda a minimizar perdas, preservar o capital e proteger o lucro.
-
 seo:
   title: "10 atitudes para não perder dinheiro."
   description: ""
